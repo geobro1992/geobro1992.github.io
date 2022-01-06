@@ -3,7 +3,7 @@ layout: archive
 title: "Borrowed Time"
 permalink: /borrowed-time/
 author_profile: true
-excerpt: "<img src='/images/cats/BorrowedTime.png' alt=''>"
+excerpt: "<img src='/images/cats/BorrowedTime.jpg' alt=''>"
 collection: cats
 order_number: 10
 ---
