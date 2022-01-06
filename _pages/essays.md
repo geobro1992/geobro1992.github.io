@@ -1,4 +1,5 @@
 ---
+title: Essay Series
 layout: single
 permalink: /essays/
 collection: cats
