@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single-portfolio
 title: "Borrowed Time"
 permalink: /borrowed-time/
 author_profile: true

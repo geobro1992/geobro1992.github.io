@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single-portfolio
 title: "Civil Wrongs"
 permalink: /civil-wrongs/
 author_profile: true
