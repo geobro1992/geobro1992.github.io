@@ -1,6 +1,8 @@
 ---
-layout: archive
+layout: single
 permalink: /essays/
+collection: cats
+entries_layout: grid
 author_profile: true
 ---
 
