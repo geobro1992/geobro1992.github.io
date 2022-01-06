@@ -3,7 +3,7 @@ layout: single-portfolio
 title: "Conservation Initiatives"
 permalink: /conservation-initiatives/
 author_profile: true
-excerpt: "<img src='/images/cats/Conservation Initiatives.jpg' alt=''>"
+excerpt: "<img src='/images/cats/ConservationInitiatives.jpg' alt=''>"
 collection: cats
 order_number: 30
 ---
