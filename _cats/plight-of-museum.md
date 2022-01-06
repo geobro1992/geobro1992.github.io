@@ -5,7 +5,7 @@ permalink: /plight-of-museum/
 author_profile: true
 excerpt: "<img src='/images/cats/PlightOfMuseum.jpg' alt=''>"
 collection: cats
-order_number: 10
+order_number: 40
 ---
 
 Welcome to the blog series Plight of the Museum!
