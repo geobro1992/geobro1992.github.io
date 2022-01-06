@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: "Curators in Crisis"
+layout: single-portfolio
+title: "Plight of the Museum"
 permalink: /plight-of-museum/
 author_profile: true
+excerpt: "<img src='/images/cats/PlightOfMuseum.jpg' alt=''>"
+collection: cats
+order_number: 10
 ---
 
 Welcome to the blog series Plight of the Museum!
