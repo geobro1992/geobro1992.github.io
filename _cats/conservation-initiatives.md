@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: "SOS"
+layout: single-portfolio
+title: "Conservation Initiatives"
 permalink: /conservation-initiatives/
 author_profile: true
+excerpt: "<img src='/images/cats/Conservation Initiatives.jpg' alt=''>"
+collection: cats
+order_number: 30
 ---
 
 Welcome to the blog series Conservation Initiatives! In this collection of essays I hope to provide some insight into the theory and practice of preserving the natural world. I want to explore past successes and failures, the relative strengths and weaknesses of various approaches, and the fate of the environment in the 21st century.
