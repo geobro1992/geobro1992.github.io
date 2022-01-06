@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: "Colorful Language"
+layout: single-portfolio
+title: "Poetry Corner"
 permalink: /poetry-corner/
 author_profile: true
+excerpt: "<img src='/images/cats/PoetryCorner.jpg' alt=''>"
+collection: cats
+order_number: 50
 ---
 
 Welcome to Poetry Corner!
