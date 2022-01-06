@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Majestic Clockwork"
+title: "Borrowed Time"
 permalink: /borrowed-time/
 author_profile: true
 excerpt: "<img src='/images/cats/BorrowedTime.png' alt=''>"
