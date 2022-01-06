@@ -5,7 +5,7 @@ permalink: /essays/
 author_profile: true
 ---
 
-Sample document listing for the collection `_cats`.
+I have subdivided my essay writings into these areas. Hope you enjoy!
 
 {% include base_path %}
 
