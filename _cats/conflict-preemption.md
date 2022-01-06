@@ -1,7 +1,7 @@
 ---
 title: "Conflict preemption"
 layout: single-portfolio
-excerpt: "<img src='images/cats/epr.png' alt=''>"
+excerpt: "<img src='/images/cats/epr.png' alt=''>"
 collection: cats
 order_number: 10
 header: 
