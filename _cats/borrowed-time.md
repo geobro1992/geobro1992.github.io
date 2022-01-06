@@ -3,6 +3,9 @@ layout: archive
 title: "The Majestic Clockwork"
 permalink: /borrowed-time/
 author_profile: true
+excerpt: "<img src='/images/cats/BorrowedTime.png' alt=''>"
+collection: cats
+order_number: 10
 ---
 
 _Theory without facts is fantasy, but facts without theory is chaos._\

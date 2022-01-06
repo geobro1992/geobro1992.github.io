@@ -3,6 +3,9 @@ layout: archive
 title: "Dismantling the Master Race"
 permalink: /civil-wrongs/
 author_profile: true
+excerpt: "<img src='/images/cats/CivilWrongs.jpg' alt=''>"
+collection: cats
+order_number: 20
 ---
 
 Welcome to the blog series Civil Wrongs!
