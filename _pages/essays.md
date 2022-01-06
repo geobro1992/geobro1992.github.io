@@ -1,5 +1,4 @@
 ---
-title: Essays
 layout: archive
 permalink: /essays/
 author_profile: true
