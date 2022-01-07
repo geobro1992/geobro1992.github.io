@@ -21,7 +21,7 @@ order_number: 20
 <br />
 <br />
 
-### Dismantling the Master Race
+## Dismantling the Master Race
 Welcome to the blog series Civil Wrongs!
 
 Here we will shine a spotlight on critical race theory (CRT). We will look at the flaws of liberal idealism, the keystone role education plays in social injustice, and the fallacy of progress. More broadly, we will explore history in a scholastic context: its ever-changing foci, its myriad narratives, and its role in perpetuating white supremacy.
