@@ -15,8 +15,5 @@ main:
   - title: "Writing"
     url: /essays/
     
-  - title: "Field Photos"
-    url: /photos/
-    
   - title: "CV"
     url: /cv/
