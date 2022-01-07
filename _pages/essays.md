@@ -16,3 +16,7 @@ I have subdivided my essay writings into these areas. Hope you enjoy!
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+
+</nbsp>
+
+##Picture Credits
