@@ -54,7 +54,7 @@ I have subdivided my essay writings into these areas. Hope you enjoy!
 
   
   <p>
- Image Credits <br />
+ <b>Image Credits</b> <br />
   Back 2 School: CERN / Science Photo Library <br />
   Borrowed Time: Georg Brooks <br />
   Civil Wrongs: photo from <i>Faith and Grace</i> album cover <br />
