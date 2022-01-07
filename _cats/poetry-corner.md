@@ -8,16 +8,8 @@ collection: cats
 order_number: 50
 ---
 
-Welcome to Poetry Corner!
-
-Three of the nine Muses from ancient Greek mythology were dedicated to poetry. In our everyday lives language is often clumsy, vulgar, and limited. But in the right hands, the beauty of words is revealed. Song lyrics can stir the soul, written prose can enrapture the imagination.
-
-As a biologist,  my primary source of inspiration, what I would consider the ultimate muse, is the natural world. The majesty of life on Earth is impossible to fully capture, even with a sizeable lexicon, but some literary greats before me have achieved heroic feats in the attempt. Here is my small contribution to that ongoing exploration and evolution of the English vernacular.
-
-Enjoy!\
-<br />
-
 ### Contents
+[Colorful Language](#colorful-language)\
 [The Dragon Awakes](#the-dragon-awakes)\
 [Blue Lives, Blurred Lines](#blue-lives-blurred-lines)\
 [Shades of Green](#shades-of-green)\
@@ -28,6 +20,16 @@ Enjoy!\
 [Water World](#water-world)\
 [Rituals](#rituals)\
 [With the Flow](#with-the-flow)\
+<br />
+
+## Colorful Language
+Welcome to Poetry Corner!
+
+Three of the nine Muses from ancient Greek mythology were dedicated to poetry. In our everyday lives language is often clumsy, vulgar, and limited. But in the right hands, the beauty of words is revealed. Song lyrics can stir the soul, written prose can enrapture the imagination.
+
+As a biologist,  my primary source of inspiration, what I would consider the ultimate muse, is the natural world. The majesty of life on Earth is impossible to fully capture, even with a sizeable lexicon, but some literary greats before me have achieved heroic feats in the attempt. Here is my small contribution to that ongoing exploration and evolution of the English vernacular.
+
+Enjoy!\
 <br />
 
 ## The Dragon Awakes
