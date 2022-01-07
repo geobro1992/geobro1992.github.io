@@ -7,19 +7,18 @@ author_profile: true
 
 I have subdivided my essay writings into these areas. Hope you enjoy!
 
-Please note the Pictoure Credits[^1].
 
-<nbsp>
 
 {% include base_path %}
 
 {% assign ordered_pages = site.cats | sort:"order_number" %}
 
+<div class="grid__wrapper">
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+</div>
 
-</nbsp>
 
-
-[^1]: Some explanation text at the end of your document.
+## Credits
+- Some explanation text at the end of your document.
