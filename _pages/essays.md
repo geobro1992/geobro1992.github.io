@@ -7,6 +7,8 @@ author_profile: true
 
 I have subdivided my essay writings into these areas. Hope you enjoy!
 
+Please note the Pictoure Credits[^1].
+
 <nbsp>
 
 {% include base_path %}
@@ -19,6 +21,5 @@ I have subdivided my essay writings into these areas. Hope you enjoy!
 
 </nbsp>
 
-## Picture Credits
 
 [^1]: Some explanation text at the end of your document.
