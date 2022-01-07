@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am an evolutionary ecologist using theory to address global challenges in conservation. 
+I am an evolutionary ecologist using theory to address global challenges in conservation. <br />
 Below are a selection of my main research topics to date.
 
 <nbsp>
