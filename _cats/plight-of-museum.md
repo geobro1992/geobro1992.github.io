@@ -8,6 +8,17 @@ collection: cats
 order_number: 40
 ---
 
+### Contents
+[1. Curators in Crisis](#curators-in-crisis)\
+[1. The History of Natural History Collections](#the-history-of-natural-history-collections)\
+[2. The Perils of Posterity](#the-perils-of-posterity)\
+[3. Archiving the Exponential](#archiving-the-exponential)\
+[4. Class-ification](#class-ification)\
+[5. The Future of Natural History Collections](#the-future-of-natural-history-collections)
+<br />
+<br />
+
+## Curators in Crisis
 Welcome to the blog series Plight of the Museum!
 
 Without natural history museums, the biological sciences would still be in their infancy. With the help of museum collections, we have identified and described 1 million of the potential 10 million species on Earth, laying the foundations for all subsequent scientific inquiry.
@@ -17,15 +28,6 @@ Dwindling public support and chronic under-funding however, make the future of m
 In this series of essays, we will explore the history of natural history collections, threats to their continued survival, and the drastic measures that some have taken to stay current in the modern world.
 
 As always, strap in!
-<br />
-<br />
-
-### Contents
-[1. The History of Natural History Collections](#the-history-of-natural-history-collections)\
-[2. The Perils of Posterity](#the-perils-of-posterity)\
-[3. Archiving the Exponential](#archiving-the-exponential)\
-[4. Class-ification](#class-ification)\
-[5. The Future of Natural History Collections](#the-future-of-natural-history-collections)
 <br />
 <br />
 
