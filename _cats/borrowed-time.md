@@ -8,6 +8,18 @@ collection: cats
 order_number: 10
 ---
 
+### Contents
+[1. The Majestic Clockwork](#the-majestic-clockwork)\
+[2. Time Immemorial](#time-immemorial)\
+[3. Life in the Fast Lane](#life-in-the-fast-lane)\
+[4. Life in the Slow Lane](#life-in-the-slow-lane)\
+[5. Analog vs Digital](#analog-vs-digital)\
+[6. In the Midnight Hour](#in-the-midnight-hour)\
+[7. A Change of Pace](#a-change-of-pace)
+<br />
+<br />
+
+### The Majestic Clockwork
 _Theory without facts is fantasy, but facts without theory is chaos._\
 ~ Charles Otis Whitman
 
@@ -16,16 +28,6 @@ Welcome to the blog series Borrowed Time!
 Most living things are small and most living things don’t live very long. Handily, these two facts are predicted by the laws of physics. The universe is hurtling towards a state of complete disorder. Politics in my lifetime has provided nothing to doubt this relatively recent scientific discovery. Entropy is inescapable, but in this blog series we will examine how biological organisms temporarily defy this general trend. We will discuss the role physical laws have played in the evolution of life on Earth, and we will explore the natural world through an Einsteinian lens. 
 
 Every plant, every animal, every microbe; we are all living on borrowed time.
-<br />
-<br />
-
-### Contents
-[1. Time Immemorial](#time-immemorial)\
-[2. Life in the Fast Lane](#life-in-the-fast-lane)\
-[3. Life in the Slow Lane](#life-in-the-slow-lane)\
-[4. Analog vs Digital](#analog-vs-digital)\
-[5. In the Midnight Hour](#in-the-midnight-hour)\
-[6. A Change of Pace](#a-change-of-pace)
 <br />
 <br />
 
