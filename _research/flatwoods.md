@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "Flatwoods Salamander Recovery Planning"
+title: "flatwoods salamander recovery planning"
 permalink: /flatwoods/
 author_profile: true
 excerpt: "<img src='/images/research/flatwoods.jpg' alt=''>"
