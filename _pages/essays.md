@@ -1,11 +1,13 @@
 ---
-title: Essay Series
-layout: single
+title: Essays
+layout: archive
 permalink: /essays/
-collection: cats
-entries_layout: grid
 author_profile: true
 ---
+
+I have subdivided my essay writings into these areas. Hope you enjoy!
+
+<nbsp>
 
 {% include base_path %}
 
