@@ -7,7 +7,7 @@ author_profile: true
 
 I have subdivided my essay writings into these areas. Hope you enjoy!
 
-<p>
+<nbsp>
 
 {% include base_path %}
 
@@ -17,6 +17,8 @@ I have subdivided my essay writings into these areas. Hope you enjoy!
   {% include archive-single.html type="grid" %}
 {% endfor %}
 
-</p>
+</nbsp>
 
 ## Picture Credits
+
+[^1]: Some explanation text at the end of your document.
