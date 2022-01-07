@@ -51,16 +51,7 @@ I have subdivided my essay writings into these areas. Hope you enjoy!
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br /> 
+
   
   <p>
  Image Credits <br />
