@@ -8,23 +8,25 @@ collection: cats
 order_number: 20
 ---
 
+### Contents
+[1. Dismantling the Master Race](#dismantling-the-master-race)\
+[2. Status Quota: Civil Rights and the Fallacy of Progress](#status-quota-civil-rights-and-the-fallacy-of-progress)\
+[3. Novel Narratives and Legion Lenses: The Importance of Historical Pluralism](#novel-narratives-and-legion-lenses-the-importance-of-historical-pluralism)\
+[4. The Plaster Race: Papering Over the Cracks in Western Society](#the-plaster-race-papering-over-the-cracks-in-western-society)\
+[5. Beyond the Chessboard: Multiculturalism and Intersectionality](#beyond-the-chessboard-multiculturalism-and-intersectionality)\
+[6. Pink Triangles, Silver Flames, and White Men: Overcoming Toxic Masculinity](#pink-triangles-silver-flames-and-white-men-overcoming-toxic-masculinity)\
+[7. White on Whiteness: Reflections on Self-identity and a Lack of Self-awareness](#white-on-whiteness-reflections-on-self-identity-and-a-lack-of-self-awareness)\
+[8. Ornithology: Creative Approaches to Combat Oppression](#ornithology-creative-approaches-to-combat-oppression)\
+[9. Boer-ed to Death: Revisionist History and the Case for Anti-Imperialism](#boer-ed-to-death-revisionist-history-and-the-case-for-anti-imperialism)
+<br />
+<br />
+
+### Dismantling the Master Race
 Welcome to the blog series Civil Wrongs!
 
 Here we will shine a spotlight on critical race theory (CRT). We will look at the flaws of liberal idealism, the keystone role education plays in social injustice, and the fallacy of progress. More broadly, we will explore history in a scholastic context: its ever-changing foci, its myriad narratives, and its role in perpetuating white supremacy.
 
 Fair warning, this one might get heavy!
-<br />
-<br />
-
-### Contents
-[1. Status Quota: Civil Rights and the Fallacy of Progress](#status-quota-civil-rights-and-the-fallacy-of-progress)\
-[2. Novel Narratives and Legion Lenses: The Importance of Historical Pluralism](#novel-narratives-and-legion-lenses-the-importance-of-historical-pluralism)\
-[3. The Plaster Race: Papering Over the Cracks in Western Society](#the-plaster-race-papering-over-the-cracks-in-western-society)\
-[4. Beyond the Chessboard: Multiculturalism and Intersectionality](#beyond-the-chessboard-multiculturalism-and-intersectionality)\
-[5. Pink Triangles, Silver Flames, and White Men: Overcoming Toxic Masculinity](#pink-triangles-silver-flames-and-white-men-overcoming-toxic-masculinity)\
-[6. White on Whiteness: Reflections on Self-identity and a Lack of Self-awareness](#white-on-whiteness-reflections-on-self-identity-and-a-lack-of-self-awareness)\
-[7. Ornithology: Creative Approaches to Combat Oppression](#ornithology-creative-approaches-to-combat-oppression)\
-[8. Boer-ed to Death: Revisionist History and the Case for Anti-Imperialism](#boer-ed-to-death-revisionist-history-and-the-case-for-anti-imperialism)
 <br />
 <br />
 
