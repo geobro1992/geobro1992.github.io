@@ -8,21 +8,23 @@ collection: cats
 order_number: 30
 ---
 
+### Contents
+[1. SOS](#sos)\
+[2. How to Save a Species](#how-to-save-a-species)\
+[3. How to Save a Species in Captivity](#how-to-save-a-species-in-captivity)\
+[4. How to Save a Species’ Habitat](#how-to-save-a-species-habitat)\
+[5. How to Save a Species in Court](#how-to-save-a-species-in-court)\
+[6. How to Save an Evolutionarily Significant Unit](#how-to-save-an-evolutionarily-significant-unit)\
+[7. How to Save a Species in Theory](#how-to-save-a-species-in-theory)\
+[8. How to Save a Number of Species](#how-to-save-a-number-of-species)\
+[9. Should we Save Species?](#should-we-save-species)\
+<br />
+<br />
+
+## SOS
 Welcome to the blog series Conservation Initiatives! In this collection of essays I hope to provide some insight into the theory and practice of preserving the natural world. I want to explore past successes and failures, the relative strengths and weaknesses of various approaches, and the fate of the environment in the 21st century.
 
 Conservation biology: this shit ain’t easy.
-<br />
-<br />
-
-### Contents
-[1. How to Save a Species](#how-to-save-a-species)\
-[2. How to Save a Species in Captivity](#how-to-save-a-species-in-captivity)\
-[3. How to Save a Species’ Habitat](#how-to-save-a-species-habitat)\
-[4. How to Save a Species in Court](#how-to-save-a-species-in-court)\
-[5. How to Save an Evolutionarily Significant Unit](#how-to-save-an-evolutionarily-significant-unit)\
-[6. How to Save a Species in Theory](#how-to-save-a-species-in-theory)\
-[7. How to Save a Number of Species](#how-to-save-a-number-of-species)\
-[8. Should we Save Species?](#should-we-save-species)\
 <br />
 <br />
 
