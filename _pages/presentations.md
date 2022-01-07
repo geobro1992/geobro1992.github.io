@@ -45,4 +45,4 @@ Petters, J., J. A. Smith, **G. C. Brooks**, and C. A. Haas. 2018. Building data 
 _Fame is a fickle food\
 Upon a shifting plate\
 Men eat of it and die._\
-– Emily Dickinson
+ ~ Emily Dickinson
