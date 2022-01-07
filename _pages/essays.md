@@ -19,8 +19,49 @@ I have subdivided my essay writings into these areas. Hope you enjoy!
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /> 
   
-<footer>
   <p>
  Image Credits <br />
   Back 2 School: CERN / Science Photo Library <br />
@@ -28,4 +69,3 @@ I have subdivided my essay writings into these areas. Hope you enjoy!
   Plight of the Museum: Olivia Coleman <br />
   Poetry Corner: RedFerns
 </p>
-  </footer>
