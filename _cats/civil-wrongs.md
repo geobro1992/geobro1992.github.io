@@ -4,6 +4,7 @@ title: "Civil Wrongs"
 permalink: /civil-wrongs/
 author_profile: true
 excerpt: "<img src='/images/cats/CivilWrongs.jpg' alt=''>"
+desc: "<small><cite>Image credit: photo from Faith and Grace album cover</cite></small> <p>Exploring modern society through a critical race lens</p>"
 collection: cats
 order_number: 20
 ---
