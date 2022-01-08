@@ -1,10 +1,10 @@
 ---
 layout: single-portfolio
-title: "life on land"
+title: "vertebrate life on land"
 permalink: /parity/
 author_profile: true
 excerpt: "<img src='/images/research/parity.jpg' alt=''>"
-desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Studying macroevolutionary patterns associated with live-birth and terrestrial modes of existance in vertebrates</p>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Studying macroevolutionary patterns associated with live-birth and terrestrial modes of existance</p>"
 collection: research
 order_number: 30
 ---
