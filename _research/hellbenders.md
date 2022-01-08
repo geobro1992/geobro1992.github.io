@@ -4,6 +4,7 @@ title: "filial cannibalism in hellbenders"
 permalink: /hellbenders/
 author_profile: true
 excerpt: "<img src='/images/research/hellbenders.jpg' alt=''>"
+desc: "<small><cite>Image credit: Cathy Jachowski</cite></small> <p>Investigating parental care, nest fate, and the population status of North America's largest salamander</p>"
 collection: research
 order_number: 20
 ---
