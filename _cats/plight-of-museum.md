@@ -4,6 +4,7 @@ title: "Plight of the Museum"
 permalink: /plight-of-museum/
 author_profile: true
 excerpt: "<img src='/images/cats/PlightOfMuseum.jpg' alt=''>"
+desc: "<small><cite>Image credit: Olivia Coleman</cite></small> <p>This is a test</p>"
 collection: cats
 order_number: 40
 ---
