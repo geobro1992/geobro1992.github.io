@@ -4,6 +4,7 @@ title: "Civil Wrongs"
 permalink: /civil-wrongs/
 author_profile: true
 excerpt: "<img src='/images/cats/CivilWrongs.jpg' alt=''>"
+desc: "This is a test"
 collection: cats
 order_number: 20
 ---
