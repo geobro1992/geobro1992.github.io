@@ -1,10 +1,10 @@
 ---
 layout: single-portfolio
-title: "amphibian life histories"
+title: "global amphibian diversity"
 permalink: /safe-harbor/
 author_profile: true
 excerpt: "<img src='/images/research/safe-harbor.jpg' alt=''>"
-desc: "<small><cite>Image credit: George Brooks</cite></small> <p>A novel framework to incorporate the unique diversity of amphibian reproductiove strategies into global conservation efforts</p>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Developing a life-history framework to inform species assessments and prioritize conservation efforts</p>"
 collection: research
 order_number: 10
 ---
