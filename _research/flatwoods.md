@@ -4,7 +4,7 @@ title: "flatwoods salamander recovery"
 permalink: /flatwoods/
 author_profile: true
 excerpt: "<img src='/images/research/flatwoods.jpg' alt=''>"
-desc: "<small><cite>Image credit: Pierson Hill</cite></small> <p>Developing demographic models to inform the conservation and management of pond-breeding amphibians</p>"
+desc: "<small><cite>Image credit: Pierson Hill</cite></small> <p>A suite of demographic models to inform the conservation and management of pond-breeding amphibians</p>"
 collection: research
 order_number: 1
 ---
