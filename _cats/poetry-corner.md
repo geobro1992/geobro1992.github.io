@@ -4,6 +4,7 @@ title: "Poetry Corner"
 permalink: /poetry-corner/
 author_profile: true
 excerpt: "<img src='/images/cats/PoetryCorner.jpg' alt=''>"
+desc: "<small><cite>Image credit: RedFerns</cite></small> <p>The language of live, laugh, and love</p>"
 collection: cats
 order_number: 50
 ---
