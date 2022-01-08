@@ -1,9 +1,10 @@
 ---
 layout: single-portfolio
-title: "the life history consequences of a terrestrial existence"
+title: "life on land"
 permalink: /parity/
 author_profile: true
 excerpt: "<img src='/images/research/parity.jpg' alt=''>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Studying macroevolutionary patterns associated with terrestrial modes of existance in vertebrates with emphasis on the evolution of live-birth</p>"
 collection: research
 order_number: 30
 ---
