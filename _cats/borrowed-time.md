@@ -4,7 +4,7 @@ title: "Borrowed Time"
 permalink: /borrowed-time/
 author_profile: true
 excerpt: "<img src='/images/cats/BorrowedTime.jpg' alt=''>"
-desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Biodiversity and the laws of life</p>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Exploring biodiversity and the laws of life</p>"
 collection: cats
 order_number: 10
 ---
