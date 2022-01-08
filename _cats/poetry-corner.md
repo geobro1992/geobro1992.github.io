@@ -4,7 +4,7 @@ title: "Poetry Corner"
 permalink: /poetry-corner/
 author_profile: true
 excerpt: "<img src='/images/cats/PoetryCorner.jpg' alt=''>"
-desc: "<p style="color:#808080"><small><cite>Image credit: RedFerns</cite></small></p> <p>Exploring the soul-stirring power of language</p>"
+desc: "<small><cite>Image credit: RedFerns</cite></small> <p>Exploring the soul-stirring power of the English language</p>"
 collection: cats
 order_number: 50
 ---
