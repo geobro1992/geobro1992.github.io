@@ -14,8 +14,8 @@ My PhD dissertation at Virginia Tech focussed on conducting a population viabili
 Using information on growth and survival obtained through drift fence monitoring of flatwoods salamander breeding populations, I constructed integral projection models (IPMs) to estimate extinction probabilities under different management scenarios. To build the IPM I developed growth curves, the first of their kind, that jointly model amphibian growth before and after metamorphosis (PLoS One 2020), and survival curves that account for seasonal differences in mortality (Ichthyol. Herpetol., in review). We found that population growth was most sensitive to the survival of adults in the terrestrial environment, suggesting that common forms of management (e.g., rearing larvae in cattle tanks) may be insufficient to maintain population viability. 
 
 Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian (Aquat. Conser. 2019), and developed a protocol to guide future reintroduction efforts (PeerJ 2021).
-</br>
-</br>
+<br>
+<br>
 
 **Publications**\
 Brooks, G.C. and C.A. Haas. 2021. Using historical dip net data to infer absence of flatwoods salamanders in stochastic environments. PeerJ. 9:e12388. doi.org/10.7717/peerj.12388
