@@ -7,7 +7,7 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}<br>
-            <small>{{ site.subtitle }}</small>
+            <small><cite>{{ site.subtitle }}</cite></small>
             </a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
