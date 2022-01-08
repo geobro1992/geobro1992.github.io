@@ -18,4 +18,4 @@ Below are a selection of my main research topics to date.
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
-<div /> 
+</div> 
