@@ -4,7 +4,7 @@ title: "Civil Wrongs"
 permalink: /civil-wrongs/
 author_profile: true
 excerpt: "<img src='/images/cats/CivilWrongs.jpg' alt=''>"
-desc: "This is a test"
+desc: "<q>Picture credit:photo from Faith and Grace album cover.</q> <p>This is a test</p>"
 collection: cats
 order_number: 20
 ---

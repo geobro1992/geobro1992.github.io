@@ -19,8 +19,3 @@ I have subdivided my essay writings into these areas. Hope you enjoy!
 {% endfor %}
 </div>
 
-<div style="width: 100%;">
-
-## Credits
-- Some explanation text at the end of your document.
-</div>
