@@ -34,7 +34,7 @@ author_profile: true
 
 ## Mentor, 4994 Undergraduate Research (2018-2019)
 
--Mentored 2 undergraduate independent research projects\ 
+-Mentored 2 undergraduate independent research projects\
 -One student presented a poster at a regional conference, the other has a manuscript in prep
 
 
