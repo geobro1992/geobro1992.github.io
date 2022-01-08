@@ -13,4 +13,4 @@ Duties included:\
 -Training undergraduate and graduate teaching assistants each semester in care and use of the collection\
 -Increasing the museum’s visibility through outreach events, press releases, blog posts, and creating a website\
 -Promoting the museum’s services by attending relevant conferences, community events, campus events, and workshops\
--Conducting day to day maintenance of the museum, including topping off fluid specimens, ordering supplies, and pest management
+-Conducting day to day maintenance, including topping off fluid specimens, ordering supplies, and pest management
