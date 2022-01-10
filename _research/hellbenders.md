@@ -9,7 +9,7 @@ collection: research
 order_number: 20
 ---
 
-<img align="right" width="375" height="500" src="/images/research/hellbender_profile.jpg">
+<img align="right" width="300" height="400" src="/images/research/hellbender_profile.jpg">
 
 I am currently working in Bill Hopkins’lab investigating the population status of hellbenders in southwest Virginia. 
 
