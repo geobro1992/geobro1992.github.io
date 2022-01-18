@@ -9,7 +9,10 @@ collection: research
 order_number: 1
 ---
 
-![image-right]({{ site.url }}{{ site.baseurl }}/images/research/flatwoods_profile.jpg){: .align-right}
+<figure class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/flatwoods_profile.jpg" alt="">
+  <figcaption>Image credit: George Brooks</figcaption>
+</figure> 
 
 My PhD dissertation at Virginia Tech focussed on conducting a population viability analysis of flatwoods salamanders. Ultimately, this body of work informed several of the recovery criteria outlined in the recovery plan for flatwoods salamanders, and was used to develop the recovery implementation strategy. 
 
