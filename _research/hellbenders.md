@@ -9,7 +9,10 @@ collection: research
 order_number: 20
 ---
 
-![image-right]({{ site.url }}{{ site.baseurl }}/images/research/hellbender_profile.jpg){: .align-right}
+<figure class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/hellbender_profile.jpg" alt="">
+  <figcaption>Image credit: Jordy Groffen</figcaption>
+</figure> 
 
 I am currently working in Bill Hopkins’lab investigating the population status of hellbenders in southwest Virginia. 
 
