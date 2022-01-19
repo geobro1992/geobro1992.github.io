@@ -106,3 +106,28 @@ Human beings used to migrate. Some still do. But most, take up permanent residen
 
 ### Coda
 _“Pay attention John, this is important” the boy’s father grumbled impatiently. “Besides tunnel collapse, the biggest hazard in mining operations is the build-up of toxic gases. In these confined spaces methane explosions are common; every swing of a pick-axe risks creating a fatal spark - that’s all it takes.  There’s a lot of hydrogen sulphide down here too. You smell those rotten eggs? Enough of that stuff and you’ll be unconscious in seconds. But the real one you want to worry about is carbon monoxide. Carbon monoxide is odorless, so impossible to detect, but can be deadly. It slowly replaces the oxygen in your blood and you suffocate. This is where the canaries come in. These small birds will suffocate much quicker than you or I, and thus they provide an early warning system for men to get out of the mine shaft. Do you understand?” “I think so” replied the boy, “although I don’t understand why you had to bring me all the way down here.”_
+<br />
+<br />
+
+## Life in the Slow Lane
+Coming Soon!
+<br />
+<br />
+
+## Analog vs Digital
+Coming Soon!
+<br />
+<br />
+
+## In the Midnight Hour
+Coming Soon!
+<br />
+<br />
+
+## A Change of Pace
+Coming Soon!
+<br />
+<br />
+
+
+
