@@ -16,7 +16,9 @@ order_number: 10
 
 My first postdoc with Holly Kindsvater sought to develop a life history framework for amphibian conservation. 
 
-We used traditional life-history theory (r-K selection, Grime’s CSR triangle, the safe harbour hypothesis) to describe and explain the unique variation we see in amphibian reproductive strategies, with respect to the relative time spent on water vs on land. Then, by repurposing models commonly used in fisheries science, we developed a novel framework to evaluate the susceptibility of amphibians with different reproductive strategies to anthropogenic change. 
+We used traditional life-history theory (r-K selection, Grime’s CSR triangle, the safe harbour hypothesis) to describe and explain the unique variation we see in amphibian reproductive strategies, with respect to the relative time spent on water vs on land. 
+
+By repurposing models commonly used in fisheries science, we evaluate the susceptibility of amphibians with different reproductive strategies to anthropogenic change. 
 
 Our framework highlights gaps in our understanding of the selective forces that have generated the tremendous diversity of amphibian life histories, and identifies species that should be prioritized for management.
 
