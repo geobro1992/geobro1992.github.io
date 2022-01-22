@@ -11,16 +11,7 @@ order_number: 10
 
 <figure class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/mu_g.jpg" alt="">
-  <figcaption>
-    
-    Transitions between water and land are driven by 
-    trade-offs in growth and survival. At the extremes, 
-    if the growth potential of one environment is too low, 
-    or the mortality risk too high, amphibians will become 
-    either fully terrestrial or fully aquatic. 
-    Adapted from Werner (1986).
-  
-  </figcaption>
+  <figcaption>Adapted from Werner (1986)</figcaption>
 </figure> 
 
 My first postdoc with Holly Kindsvater sought to develop a life history framework for amphibian conservation. 
