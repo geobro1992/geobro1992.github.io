@@ -9,7 +9,7 @@ collection: research
 order_number: 10
 ---
 
-<figure class="align-right">
+<figure class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/mu_g.jpg" alt="">
   <figcaption>Adapted from Werner (1986)</figcaption>
 </figure> 
