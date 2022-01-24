@@ -5,6 +5,12 @@ permalink: /training/
 author_profile: true
 ---
 
+Anti-Racist Teaching, Professional Development Network, Virginia Tech (2022)
+<br />
+
+Creating an Inclusive Workplace, Professional Development Network, Virginia Tech (2022)
+<br />
+
 AIBS Writing for Impact and Influence, online (2020)
 <br />
 
