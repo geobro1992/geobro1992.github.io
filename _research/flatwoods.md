@@ -29,7 +29,7 @@ Ultimately, this body of work informed several of the recovery criteria outlined
 <br>
 
 **Publications**\
-Brooks, G.C. and C.A. Haas. 2021. Using historical dip net data to infer absence of flatwoods salamanders in stochastic environments. PeerJ. 9:e12388. doi.org/10.7717/peerj.12388
+Brooks, G.C. and C.A. Haas. 2021. Using historical dip net data to infer absence of flatwoods salamanders in stochastic environments. PeerJ 9:e12388. doi.org/10.7717/peerj.12388
 
 Brooks, G. C., Y. Jiao, T. A. Gorman, and C. A. Haas. 2020. Reconciling larval and adult sampling methods to model growth across life-stages. PLoS ONE 15:e0237737. doi.org/10.1371/journal.pone.0237737
 
