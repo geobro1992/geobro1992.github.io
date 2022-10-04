@@ -11,7 +11,7 @@ author_profile: true
 
 •	Acted as the web developer and guest speaker chair for the Fish and Wildlife department’s Graduate Student Assembly (FIWGSA) at Virginia Tech (2016-2019) 
 
-•	Peer-reviewed articles for _The American Naturalist_, _Hydrobiologia_, _Ichthyology and Herpetology_ (formerly _Copeia_), and _Proceedings of the Southeastern Association of Fish and Wildlife Agencies_
+•	Peer-reviewed articles for _The American Naturalist_, _Herpetologica_, _Hydrobiologia_, _Ichthyology and Herpetology_ (formerly _Copeia_), _Journal of Wildlife Management_, _PeerJ_, and _Proceedings of the Southeastern Association of Fish and Wildlife Agencies_
 
 ## Societal Memberships
 The American Society of Naturalists (2020)\
