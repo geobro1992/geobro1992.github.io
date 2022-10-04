@@ -52,13 +52,13 @@ author_profile: true
 
 -Designed and co-taught monthly workshops for graduate students\
 -Introduced students to modern teaching methods and DEI related issues in the classroom\
--Topics covered all areas of instruction, from syllabus design to unbiased methods of assessment\
+-Topics covered all areas of instruction, from syllabus design to unbiased methods of assessment
 
 ## Workshop Coordinator, Introduction to Ecological Modeling in R (Spring 2022)
 
 -Taught weekly workshops throughout the semester to graduate students\
 -Introduced students to coding best practices and the philosophy of statistical modeling\
--Students became familiar with R, html, markdown, and GitHub\
+-Students became familiar with R, html, markdown, and GitHub
 
 ## Invited Speaker
 
@@ -68,4 +68,4 @@ _Herpetology_, Department of Fisheries and Wildlife Conservation, Virginia Tech 
 _Herpetology_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2021\
 _Graduate Seminar_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2019\
 _Graduate Seminar_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2017\
-_CNRE First Year Experience_, College of Natural Resources and Environment, Virginia Tech 2016\
+_CNRE First Year Experience_, College of Natural Resources and Environment, Virginia Tech 2016
