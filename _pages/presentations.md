@@ -10,6 +10,8 @@ author_profile: true
 ## Talks 
 (* indicates co-author is an undergraduate or technician)
 
+Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad. 2022. Macroevolutionary modeling of life history evolution in vertebrates. Evolution, Cleveland, OH, USA.
+
 **Brooks, G. C.** and C. A. Haas. 2021. On the importance of critical race theory in science. Academic Symposium on Critical Race Theory, Virginia Tech, VA, USA.
 
 **Brooks, G. C.**, D. C. Childs, T. A. Gorman, and C. A. Haas. 2019.  Assessing population viability and the efficacy of future management scenarios for an endangered amphibian. Joint Meeting of Ichthyologists and Herpetologists, Snowbird, UT, USA.
