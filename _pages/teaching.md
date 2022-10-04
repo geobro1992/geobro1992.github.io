@@ -47,11 +47,24 @@ author_profile: true
 -Evaluated highly by students for approachability, enthusiasm, and improving students’ understanding of difficult concepts
 
 
-## Invited Speaker, 6004 Conservation of Amphibians and Reptiles (Fall 2017)
+## Workshop Coordinator, Inclusive Pedagogy (Spring 2022)
 
--Led a discussion on life-history theory and reproductive strategies in reptiles and amphibians
+-Designed and co-taught monthly workshops for graduate students
+-Introduced students to modern teaching methods and DEI related issues in the classroom
+-Topics covered all areas of instruction, from syllabus design to unbiased methods of assessment
 
+## Workshop Coordinator, Introduction to Ecological Modeling in R (Spring 2022)
 
-## Invited Speaker, 1234 College of Natural Resources First Year Experience (Fall 2016)
+-Taught weekly workshops throughout the semester to graduate students
+-Introduced students to coding best practices and the philosophy of statistical modeling
+-Students became familiar with R, html, markdown, and GitHub
 
--Presented my research and discussed careers in natural resource management to first year undergraduates
+## Invited Speaker
+
+_Graduate Seminar_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2022\
+_Wildlife Biology_, Department of Biology, Randolph College 2022\
+_Herpetology_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2022\
+_Herpetology_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2021\
+_Graduate Seminar_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2019\
+_Graduate Seminar_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2017\
+_CNRE First Year Experience_, College of Natural Resources and Environment, Virginia Tech 2016\
