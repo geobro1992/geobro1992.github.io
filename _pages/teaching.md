@@ -7,7 +7,7 @@ author_profile: true
 
 <br />
 
-# _Virginia Tech_
+# _Undergratuate Teaching_
 
 ## Instructor, 4344 Herpetology (Spring 2020)
 
@@ -46,18 +46,19 @@ author_profile: true
 -Coordinated grading, labs, and field trips typically with a team of 3 undergraduate assistants\
 -Evaluated highly by students for approachability, enthusiasm, and improving students’ understanding of difficult concepts
 
+# _Other Teaching Experience_
 
 ## Workshop Coordinator, Inclusive Pedagogy (Spring 2022)
 
--Designed and co-taught monthly workshops for graduate students
--Introduced students to modern teaching methods and DEI related issues in the classroom
--Topics covered all areas of instruction, from syllabus design to unbiased methods of assessment
+-Designed and co-taught monthly workshops for graduate students\
+-Introduced students to modern teaching methods and DEI related issues in the classroom\
+-Topics covered all areas of instruction, from syllabus design to unbiased methods of assessment\
 
 ## Workshop Coordinator, Introduction to Ecological Modeling in R (Spring 2022)
 
--Taught weekly workshops throughout the semester to graduate students
--Introduced students to coding best practices and the philosophy of statistical modeling
--Students became familiar with R, html, markdown, and GitHub
+-Taught weekly workshops throughout the semester to graduate students\
+-Introduced students to coding best practices and the philosophy of statistical modeling\
+-Students became familiar with R, html, markdown, and GitHub\
 
 ## Invited Speaker
 
