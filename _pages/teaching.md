@@ -45,6 +45,8 @@ author_profile: true
 -Developed lecture and lab material, quizzes, exams, and homework assignments\
 -Coordinated grading, labs, and field trips typically with a team of 3 undergraduate assistants\
 -Evaluated highly by students for approachability, enthusiasm, and improving students’ understanding of difficult concepts
+<br />
+<br />
 
 # _Other Teaching Experience_
 
