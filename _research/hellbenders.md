@@ -22,3 +22,5 @@ Size-structured demographic models indicate that hellbenders appear to be in ext
 
 **Publications**\
 Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist _in press_
+
+Brooks, G. C., W. A. Hopkins, and H. K. Kindsvater. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate. _in prep_
