@@ -15,9 +15,8 @@ order_number: 1
 [3. Tools for Fools](#tools-for-fools)\
 [4. Question Everything](#question-everything)\
 [5. The Consummate Consumer](#the-consummate-consumer)\
-[6. Classes for the Masses](#classes-for-the-masses)\
-[7. Pax Academia](#pax-academia)\
-[8. At the Sound of the Bell](#at-the-sound-of-the-bell)
+[6. Pax Academia](#pax-academia)\
+[7. At the Sound of the Bell](#at-the-sound-of-the-bell)
 <br />
 <br />
 
@@ -48,11 +47,6 @@ coming soon!
 <br />
 
 ## The Consummate Consumer
-coming soon!
-<br />
-<br />
-
-## Classes for the Masses
 coming soon!
 <br />
 <br />
