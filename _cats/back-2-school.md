@@ -14,12 +14,10 @@ order_number: 1
 [2. Your First Assignment](#your-first-assignment)\
 [3. Tools for Fools](#tools-for-fools)\
 [4. Question Everything](#question-everything)\
-[5. What Do We Want? Swamp Drainage?](#what-do-we-want-swamp-drainage)\
-[6. The Consummate Consumer](#the-consummate-consumer)\
-[7. Classes for the Masses](#classes-for-the-masses)\
-[8. Pax Academia](#pax-academia)\
-[9. Material for Review](#material-for-review)\
-[10. School's Out](#schools-out)
+[5. The Consummate Consumer](#the-consummate-consumer)\
+[6. Classes for the Masses](#classes-for-the-masses)\
+[7. Pax Academia](#pax-academia)\
+[8. At the Sound of the Bell](#at-the-sound-of-the-bell)
 <br />
 <br />
 
@@ -49,11 +47,6 @@ coming soon!
 <br />
 <br />
 
-## What Do We Want? Swamp Drainage?
-coming soon!
-<br />
-<br />
-
 ## The Consummate Consumer
 coming soon!
 <br />
@@ -69,12 +62,7 @@ coming soon!
 <br />
 <br />
 
-## Material for Review
-coming soon!
-<br />
-<br />
-
-## School's Out
+## At the Sound of the Bell
 coming soon!
 <br />
 <br />
