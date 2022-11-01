@@ -39,8 +39,6 @@ _During this semester, I will be doing a great deal of talking. I will be giving
 ## Tools for Fools
 _What matters in learning is not to be taught, but to wake up_\
 ~ Jean-Henri Fabre
-<br />
-<br />
 
 ### Language Lessons
 Knowledge is a form of literature. The various styles of knowledge ought to be studied and discussed, because no subject can truly be understood without understanding its particular manner of speaking and writing. From chemistry to the classics, each has its own characteristic rhetoric, a special way in which arguments and theories are expressed. To be oblivious to such stylistic nuances is to make oneself extremely susceptible to deception. Everyone can be fooled, particularly when you are unfamiliar with the tricks that are likely to be deployed against you. If you are not fluent in the language of a subject - all the jargon, idioms, and linguistic gymnastics used to persuade minds or obfuscate the truth - you have very little beyond instinct to know whether you are being led up the garden path.  
