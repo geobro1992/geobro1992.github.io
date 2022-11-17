@@ -20,9 +20,9 @@ Using information on growth and survival obtained through drift fence monitoring
 
 To build the IPM I developed growth curves, the first of their kind, that jointly model amphibian growth before and after metamorphosis (PLoS One 2020), and survival curves that account for seasonal differences in mortality (Ichthyol. Herpetol., in review). 
 
-Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian (Aquat. Conser. 2019), and developed a protocol to guide future reintroduction efforts (PeerJ 2021).
+Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian (Aquat. Conser. 2019), and investigated the importance of detectibility and genetic diversity in the context of future reintroduction efforts (PeerJ 2021, Anim. Conserv., in review).
 
-Ultimately, this body of work was used to develop the species' recovery plan. 
+Ultimately, this body of work was used to aid flatwoods salamander recovery. 
 <br>
 <br>
 
