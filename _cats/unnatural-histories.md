@@ -9,4 +9,4 @@ collection: cats
 order_number: 60
 ---
 
-due to release in 2023!
+set to release in 2023!
