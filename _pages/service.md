@@ -14,8 +14,9 @@ author_profile: true
 •	Peer-reviewed articles for _The American Naturalist_, _Herpetologica_, _Hydrobiologia_, _Ichthyology and Herpetology_ (formerly _Copeia_), _Journal of Wildlife Management_, _PeerJ_, and _Proceedings of the Southeastern Association of Fish and Wildlife Agencies_
 
 ## Societal Memberships
-The American Society of Naturalists (2020)\
-Society of Integrative and Comparative Biology (2020)\
+The American Society of Naturalists (2020-present)\
+Society of Integrative and Comparative Biology (2020-present)\
+Society for the Preservation of Natural History Collections (2019-present)\
 Society of Systematic Biologists (2019-present)\
 Society for the Study of Amphibians and Reptiles (2012-present)\
 Herpetologists League (2012-present)\
