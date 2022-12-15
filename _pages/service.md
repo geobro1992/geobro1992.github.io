@@ -29,4 +29,4 @@ Virginia Herpetological Society (lifetime)
 
 •	Taught wildlife field techniques and natural history to high-schoolers as part of the Philadelphia ZooCREW’s summer field course at Mountain Lake Biological Station, 2017-2018.
 
-•	I write essays for a general audience, ranging in topics from evolutionary theory to the future of higher education. I am most proud of Civil Wrongs, a collection of essays exploring history through a race theory lens. My most recent series, Conservation Initiatives, reflects on endangered species management and the future of the environment in the 21st century.
+•	I write essays for a general audience, ranging in topics from evolutionary theory to the future of higher education. Check them out on my Writing page!
