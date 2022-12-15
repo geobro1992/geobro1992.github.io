@@ -10,7 +10,7 @@ author_profile: true
 ## Talks 
 (* indicates co-author is an undergraduate or technician)
 
-Haas, C. A., H. C. Chandler, and **G. C. Brooks**. 2022. Habitat restoration, sampling and detection, and translocation planning on Eglin Air Force Base.  Presentation to the Flatwoods Salamander Recovery Working Group meeting, Virtual.
+Haas, C. A., H. C. Chandler, and **G. C. Brooks**. 2022. Habitat restoration, sampling, and translocation planning on Eglin Air Force Base.  Presentation to the Flatwoods Salamander Recovery Working Group meeting, Virtual.
 
 Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad. 2022. Macroevolutionary modeling of life history evolution in vertebrates. Evolution, Cleveland, OH, USA.
 
