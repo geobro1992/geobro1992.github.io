@@ -10,7 +10,7 @@ author_profile: true
 ## Talks 
 (* indicates co-author is an undergraduate or technician)
 
-Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA.
+Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA.
 
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Extinction risk of hellbenders in Virginia. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
