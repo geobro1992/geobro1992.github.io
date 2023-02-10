@@ -10,6 +10,10 @@ author_profile: true
 ## Talks 
 (* indicates co-author is an undergraduate or technician)
 
+**Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Extinction risk of hellbenders in Virginia. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
+
+Ulans, A., **G. Brooks**, and L. Jacobs. 2023. Anxiety in broiler chickens is affected by strain, body weight, and environmental complexity. The 56th Congress of the International Society for Applied Ethology, Tallin, Estonia.
+
 Haas, C. A., H. C. Chandler, and **G. C. Brooks**. 2022. Habitat restoration, sampling, and translocation planning on Eglin Air Force Base.  Presentation to the Flatwoods Salamander Recovery Working Group meeting, Virtual.
 
 Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad. 2022. Macroevolutionary modeling of life history evolution in vertebrates. Evolution, Cleveland, OH, USA.
