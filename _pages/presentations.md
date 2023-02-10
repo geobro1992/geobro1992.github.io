@@ -10,6 +10,8 @@ author_profile: true
 ## Talks 
 (* indicates co-author is an undergraduate or technician)
 
+Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA.
+
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Extinction risk of hellbenders in Virginia. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
 Ulans, A., **G. Brooks**, and L. Jacobs. 2023. Anxiety in broiler chickens is affected by strain, body weight, and environmental complexity. The 56th Congress of the International Society for Applied Ethology, Tallin, Estonia.
