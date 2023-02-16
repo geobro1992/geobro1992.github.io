@@ -64,10 +64,12 @@ author_profile: true
 
 ## Invited Speaker
 
-_Graduate Seminar_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2022\
+_Animal Behaviour_, Department of Biology, Randolph College 2023\
+_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2023\
+_Graduate Seminar_, Department of Fish and Wildlife Conservation, Virginia Tech 2022\
 _Wildlife Biology_, Department of Biology, Randolph College 2022\
-_Herpetology_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2022\
-_Herpetology_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2021\
-_Graduate Seminar_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2019\
-_Graduate Seminar_, Department of Fisheries and Wildlife Conservation, Virginia Tech 2017\
+_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2022\
+_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2021\
+_Graduate Seminar_, Department of Fish and Wildlife Conservation, Virginia Tech 2019\
+_Graduate Seminar_, Department of Fish and Wildlife Conservation, Virginia Tech 2017\
 _CNRE First Year Experience_, College of Natural Resources and Environment, Virginia Tech 2016
