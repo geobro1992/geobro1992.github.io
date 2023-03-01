@@ -4,6 +4,9 @@ title: "Grants and Awards"
 permalink: /grants/
 author_profile: true
 ---
+Resources Management Services Longleaf Conservation and Restoration Project, 2022, $100,000
+<br />
+
 University Libraries Collaborative Research Grant, 2022, $10,000
 <br />
 
