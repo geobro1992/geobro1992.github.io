@@ -23,6 +23,6 @@ By repurposing models commonly used in fisheries science, we evaluate the suscep
 Our framework highlights gaps in our understanding of the selective forces that have generated the tremendous diversity of amphibian life histories, and identifies species that should be prioritized for management.
 
 **Publications**\
-Brooks, G.C. and H.K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. doi.org/10.3389/fevo.2022.813414
+**Brooks, G. C.** and H. K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. doi.org/10.3389/fevo.2022.813414
 
-Brooks, G.C., H.C. Chandler, C.A. Haas, and H.K. Kindsvater. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. _in prep_
+**Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. _in prep_
