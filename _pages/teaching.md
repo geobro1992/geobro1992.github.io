@@ -30,7 +30,8 @@ author_profile: true
 -Involved with the design and planning of the course\
 -Organized guest speakers and led in-class discussions\
 -Supervised 5 undergraduate research projects in the vertebrate natural history collection\
--Took 2 students to present their work at an international conference
+-Took 2 students to present their work at an international conference\
+-Received the Outstanding Teaching Assistant Award from the College of Natural Resources and Environment
 
 
 ## Mentor, 4994 Undergraduate Research (2018-2019)
@@ -44,7 +45,8 @@ author_profile: true
 -Taught lecture and lab to 40 undergraduate students each spring semester\
 -Developed lecture and lab material, quizzes, exams, and homework assignments\
 -Coordinated grading, labs, and field trips typically with a team of 3 undergraduate assistants\
--Evaluated highly by students for approachability, enthusiasm, and improving students’ understanding of difficult concepts
+-Evaluated highly by students for approachability, enthusiasm, and improving students’ understanding of difficult concepts\
+-Received the Outstanding Teaching Assistant Award for the Department of Fish and Wildlife Conservation
 <br />
 <br />
 
