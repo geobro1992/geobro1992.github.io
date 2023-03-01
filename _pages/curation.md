@@ -18,11 +18,11 @@ Duties included:\
 **Talks and Posters**\
 (* indicates co-author is an undergraduate or technician)
 
-*Hawkins, R., J. Metzgar, G. C. Brooks, and C. A. Haas. 2019. A tale of natural history collections education at Virginia Tech. Society for the Preservation of Natural History Collections Conference, Chicago, IL, USA.
+*Hawkins, R., J. Metzgar, **G. C. Brooks**, and C. A. Haas. 2019. A tale of natural history collections education at Virginia Tech. Society for the Preservation of Natural History Collections Conference, Chicago, IL, USA.
 
-*Nelson, C. A., G. C. Brooks, C. A. Haas, and M. R. Stocker. 2019. Incorporating technology and multidisciplinary thinking into university collections. Society for the Preservation of Natural History Collections Conference, Chicago, IL, USA.
+*Nelson, C. A., **G. C. Brooks**, C. A. Haas, and M. R. Stocker. 2019. Incorporating technology and multidisciplinary thinking into university collections. Society for the Preservation of Natural History Collections Conference, Chicago, IL, USA.
 
-*Hawkins, R., G. C. Brooks, and C. A. Haas. 2019. A tale of natural history collections education at Virginia Tech. Dennis Dean Undergraduate Research and Creative Scholarship Conference, Blacksburg, VA, USA.
+*Hawkins, R., **G. C. Brooks**, and C. A. Haas. 2019. A tale of natural history collections education at Virginia Tech. Dennis Dean Undergraduate Research and Creative Scholarship Conference, Blacksburg, VA, USA.
 
-*Nelson, C. A., G. C. Brooks, C. A. Haas, and M. R. Stocker. 2019. Incorporating technology and multidisciplinary thinking into university collections. Dennis Dean Undergraduate Research and Creative Scholarship Conference, Blacksburg, VA, USA.
+*Nelson, C. A., **G. C. Brooks**, C. A. Haas, and M. R. Stocker. 2019. Incorporating technology and multidisciplinary thinking into university collections. Dennis Dean Undergraduate Research and Creative Scholarship Conference, Blacksburg, VA, USA.
 
