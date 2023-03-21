@@ -21,6 +21,7 @@ order_number: 50
 [Water World](#water-world)\
 [Rituals](#rituals)\
 [With the Flow](#with-the-flow)\
+[Good to be Alive](#good-to-be-alive)\
 <br />
 
 ## Colorful Language
@@ -218,4 +219,39 @@ The poor river\
 Battered and bruised\
 Black and blue\
 At the hands of egotistical adventurers\
-Damn them all!
+Damn them all!\
+<br />
+
+## Good to be Alive
+It feels good to be alive\
+It feels good to be alive\
+Striving, thriving\
+Struggling to surviving\
+It feels good to be alive
+
+Some c**t’s driving like a bellend\
+Brake, borrow, make, mend\
+A serial rear-ender\
+Returning to sender\
+That’s what’s on the current agenda\
+Good to be alive
+
+Veering through traffic without a care\
+Careering past cars without a moment to spare\
+Weaving, deceiving\
+Always believing\
+It could never be him\
+It feels good to be alive\
+Good to be alive
+
+No amount of geriatric joggers\
+Or gluten-free food bloggers\
+Can burst my existential bubble\
+But here comes trouble\
+Some Barney on the double
+
+Quick march, foot to the floor, hot-stepping action\
+Blink and you’ll miss it\
+Treasure every fleeting moment, they say\
+All things come to an end\
+It feels good to be alive
