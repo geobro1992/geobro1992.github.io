@@ -20,7 +20,7 @@ Using data from a long-term nest box study I documented a link between the loss 
 
 Size-structured demographic models indicate that hellbenders appear to be in extinction debt across much of their range, whereby long-lived adults persist on the landscape but the streams they inhabit no longer support sufficient recruitment for populations to persist.
 
-This research was featured in the New York Times [(link)](https://www.nytimes.com/2023/04/20/science/salamander-dads-cannibals.html?smid=url-share)
+This research was featured in the [New York Times](https://www.nytimes.com/2023/04/20/science/salamander-dads-cannibals.html?smid=url-share)
 
 **Publications**\
 Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist _in press_
