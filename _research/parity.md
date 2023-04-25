@@ -16,3 +16,8 @@ I am collaborating with phylogeneticists, life-history theorists, and fisheries 
 **G. C. Brooks**, Uyeda J. C., H. Conrad, N. Bone, C. Mull, and H. K. Kindsvater. Fundamental constraints on the evolution of vertebrate life histories._in prep_
 
 Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad. 2022. Macroevolutionary modeling of life history evolution in vertebrates. Evolution, Cleveland, OH, USA.
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/parity.jpg" alt="">
+  <figcaption>Life history space occupied by amphibians with different reproductive modes</figcaption>
+</figure> 
