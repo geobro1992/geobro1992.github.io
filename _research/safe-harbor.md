@@ -3,7 +3,7 @@ layout: single-portfolio
 title: "global amphibian diversity"
 permalink: /safe-harbor/
 author_profile: true
-excerpt: "<img src='/images/research/safe-harbor.jpg' alt=''>"
+excerpt: "<img src='/images/research/amphibian_larvae.jpg' alt=''>"
 desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Developing a life-history framework to inform species assessments and prioritize conservation efforts</p>"
 collection: research
 order_number: 10
@@ -26,3 +26,8 @@ Our framework highlights gaps in our understanding of the selective forces that 
 **Brooks, G. C.** and H. K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. doi.org/10.3389/fevo.2022.813414
 
 **Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. _in prep_
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/safe-harbor.jpg" alt="">
+  <figcaption>IUCN red list status of amphibians by reproductive mode</figcaption>
+</figure> 
