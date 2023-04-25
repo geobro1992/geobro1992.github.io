@@ -11,7 +11,7 @@ order_number: 10
 
 <figure class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/mu_g.jpg" alt="">
-  <figcaption>Growth-mortality trade-offs in aquatic and terrestrial environments predict metamorphosis, or lack thereof, in amphibians. Adapted from Werner (1986)</figcaption>
+  <figcaption>Trade-offs in aquatic and terrestrial environments <br /> predict amphibian metamorphosis, or lack thereof. <br /> Adapted from Werner (1986)</figcaption>
 </figure> 
 
 Reptiles and amphibians are disproportionately threatened amongst vertebrates, but are lagging behind other vertebrate taxa with regards to ecological studies and conservation plans. 
