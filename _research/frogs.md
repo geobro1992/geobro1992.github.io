@@ -27,5 +27,5 @@ R. M. Moore, **G. C. Brooks**, B. K. Rincon, T. A. Gorman, and C.A. Haas. Phenol
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/synchrony.jpg" alt="">
-  <figcaption>Phenological synchrony in an amphibian community on Eglin Air Force Base, FL</figcaption>
+  <figcaption>Phenological syncrony in an amphibian community on Eglin Air Force Base, FL</figcaption>
 </figure> 
