@@ -9,6 +9,12 @@ collection: research
 order_number: 40
 ---
 
+
+<figure class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/hyla.jpg" alt="">
+  <figcaption>Image credit: George Brooks</figcaption>
+</figure> 
+
 We have characterized the phenology and occupancy dynamics of frogs in the Florida panhandle utilizing data from drift fences, larval dipnet monitoring, and nightly call surveys.  
 
 **Publications**
