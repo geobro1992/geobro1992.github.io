@@ -5,42 +5,42 @@ permalink: /training/
 author_profile: true
 ---
 
-Biodiversity Applications for Airborne Imaging Systems, online (2023)
+Biodiversity Applications for Airborne Imaging Systems, _online_ (2023)
 
-Anti-Racist Teaching, Professional Development Network, Virginia Tech (2022)
+Anti-Racist Teaching, Professional Development Network, _Virginia Tech_ (2022)
 <br />
 
-Creating an Inclusive Workplace, Professional Development Network, Virginia Tech (2022)
+Creating an Inclusive Workplace, Professional Development Network, _Virginia Tech_ (2022)
 <br />
 
-AIBS Writing for Impact and Influence, online (2020)
+AIBS Writing for Impact and Influence, _online_ (2020)
 <br />
 
-PIT Tag Methodologies Workshop, Virginia Tech (2020)
+PIT Tag Methodologies Workshop, _Virginia Tech_ (2020)
 <br />
 
-Natural History Collections Club Network Workshop, Chicago Field Museum (2019)
+Natural History Collections Club Network Workshop, _Chicago Field Museum_ (2019)
 <br />
 
-Certificate of Professional Development, Virginia Tech (2019)
+Certificate of Professional Development, _Virginia Tech_ (2019)
 <br />
 
-Reducing Implicit Bias and Stereotype Threat in the Classroom, Networked Learning Initiative, Virginia Tech (2019)
+Reducing Implicit Bias and Stereotype Threat in the Classroom, Networked Learning Initiative, _Virginia Tech_ (2019)
 <br />
 
-Advancing Diversity Workshop, Virginia Tech (2019)
+Advancing Diversity Workshop, _Virginia Tech_ (2019)
 <br />
 
-Preparing the Future Professoriate Certificate, Virginia Tech (2018)
+Preparing the Future Professoriate Certificate, _Virginia Tech_ (2018)
 <br />
 
-Carl Gans Workshop on Best Practices in Natural History Collections, JMIH Rochester (2018)
+Carl Gans Workshop on Best Practices in Natural History Collections, _Rochester, NY_ (2018)
 <br />
 
-Advancing Diversity Workshop, Virginia Tech (2018)
+Advancing Diversity Workshop, _Virginia Tech_ (2018)
 <br />
 
-Disrupting Academic Bullying Workshop, Virginia Tech (2018)
+Disrupting Academic Bullying Workshop, _Virginia Tech_ (2018)
 <br />
 
-Graduate Education Development Institute Pedagogy Certificate, Virginia Tech (2017)
+Graduate Education Development Institute Pedagogy Certificate, _Virginia Tech_ (2017)
