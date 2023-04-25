@@ -14,19 +14,17 @@ order_number: 10
   <figcaption>Growth-mortality trade-offs in aquatic and terrestrial environments predict metamorphosis, or lack thereof, in amphibians. Adapted from Werner (1986)</figcaption>
 </figure> 
 
-<br />
-<br />
+Reptiles and amphibians are disproportionately threatened amongst vertebrates, but are lagging behind other vertebrate taxa with regards to ecological studies and conservation plans. 
 
-My first postdoc with Holly Kindsvater sought to develop a life-history framework for amphibian conservation. 
+As the need to triage data-limited, at-risk species becomes evermore necessary, calls for conservation priorities to be based on evolutionary considerations are increasing.
 
-We used traditional life-history theory to explain the unique variation we see in amphibian reproductive strategies. 
+My first postdoc with Holly Kindsvater sought to develop a life-history framework for reptile and amphibian conservation. 
 
-By repurposing models commonly used in fisheries science, we evaluate the susceptibility of amphibians with different reproductive strategies to anthropogenic change. 
+We used traditional life-history theory to evaluate the susceptibility of species to anthropogenic change. 
 
-Our framework highlights gaps in our understanding of the selective forces that have generated the tremendous diversity of amphibian life histories, and identifies species that should be prioritized for management.
+We then developed ten key principles from evolutionary ecology that can facilitate the management of reptiles and amphibians.
 
-<br />
-<br />
+Our framework highlights gaps in our understanding of the selective forces that have generated the tremendous diversity of reproductive strategies amongst reptiles and amphibians, and provides a guide for managers and conservation scientists to proactively mitigate extinction risk. 
 
 **Publications**\
 **Brooks, G. C.** and H. K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. doi.org/10.3389/fevo.2022.813414
