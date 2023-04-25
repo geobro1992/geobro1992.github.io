@@ -26,11 +26,6 @@ Ultimately, this body of work was used to aid flatwoods salamander recovery.
 <br>
 <br>
 
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/survival.jpg" alt="">
-  <figcaption>Annual variation in survival rates of adult flatwoods salamanders</figcaption>
-</figure> 
-
 **Publications, Talks, and Posters**\
 (* indicates co-author is an undergraduate or technician)
 
@@ -59,3 +54,8 @@ Haas, C. A., H. C. Chandler, and **G. C. Brooks**. 2022. Habitat restoration, sa
 **Brooks, G. C.**, J. A. Smith, E. A. Frimpong, T. A. Gorman, H. C. Chandler, and C. A. Haas. 2018. Indirect connectivity estimates of amphibian breeding wetlands from spatially explicit occupancy models. Joint Meeting of Ichthyologists and Herpetologists, Rochester, NY, USA.
 
 **Brooks, G. C.**, Y. Jiao, T. A. Gorman, and C. A. Haas. 2017. A novel Bayesian approach to model biphasic growth in an endangered salamander, Ambystoma bishopi. Annual Meeting of the Ecological Society of America, Portland, OR, USA.
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/survival.jpg" alt="">
+  <figcaption>Annual variation in survival rates of adult flatwoods salamanders</figcaption>
+</figure> 
