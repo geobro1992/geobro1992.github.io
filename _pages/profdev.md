@@ -16,3 +16,5 @@ author_profile: true
 ## [Service](service.md)
 
 ## [Museum Experience](curation.md)
+
+## [Field Experience](fieldwork.md)
