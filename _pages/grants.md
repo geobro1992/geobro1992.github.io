@@ -28,6 +28,8 @@ author_profile: true
 
 2018: Virginia Tech Graduate Student Association Travel Fund to attend the Joint Meeting of Ichthyologists and Herpetologists, Rochester, NY, USA. $250
 
+<br />
+<br />
 
 _Now that I have been ladled with accolades, previously puzzled critics will have to assume that my apparent failures are in fact the result of positive artistic choices, rather than an indication of a basic lack of ability._\
 – Stewart Lee
