@@ -20,4 +20,4 @@ American Society of Ichthyologists and Herpetologists, American Society of Natur
 
 •	Reviewed proposals for the Society of Systematic Biologists graduate student research awards (2019)
 
-•	I write essays for a general audience, ranging in topics from evolutionary theory to the future of higher education. Check them out on my Writing page!
+•	I write essays for a general audience, ranging in topics from evolutionary theory to the future of higher education. Check them out on my [Writing](essays.md) page!
