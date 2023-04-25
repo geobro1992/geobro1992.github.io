@@ -20,14 +20,21 @@ Using information on growth and survival obtained through drift fence monitoring
 
 To build the IPM I developed growth curves, the first of their kind, that jointly model amphibian growth before and after metamorphosis (PLoS One 2020), and survival curves that account for seasonal differences in mortality (Ichthyol. Herpetol., in review). 
 
-Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian (Aquat. Conser. 2019), and investigated the importance of detectibility and genetic diversity in the context of future reintroduction efforts (PeerJ 2021, Anim. Conserv., in review).
+Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian (Aquat. Conser. 2019), and investigated the importance of detectibility and genetic diversity in the context of future reintroduction efforts (PeerJ 2021, Anim. Conserv. 2023).
 
 Ultimately, this body of work was used to aid flatwoods salamander recovery. 
 <br>
 <br>
 
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/survival.jpg" alt="">
+  <figcaption>Annual variation in survival rates of adult flatwoods salamanders</figcaption>
+</figure> 
+
 **Publications, Talks, and Posters**\
 (* indicates co-author is an undergraduate or technician)
+
+**G. C. Brooks**, A. Wendt, C. A. Haas, and J. H. Roberts. 2023. Comparing estimates of census and effective population size in an endangered amphibian. Animal Conservation doi:10.1111/acv.12871
 
 H. C. Chandler, N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2023. Reticulated flatwoods salamander phenology under future climate change. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
