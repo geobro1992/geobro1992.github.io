@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ### Research Awards
-Georgia Pacific Dean’s Graduate Fellowship
+Georgia Pacific Dean’s Graduate Fellowship\
 Dwight Chamberlain Graduate Wildlife Fellowship
 
 ### Teaching Awards
-Departmental nominee for Virginia Tech’s Instructor of Record Award
-Fish and Wildlife Conservation’s Outstanding Teaching Assistant of the Year Award
+Departmental nominee for Virginia Tech’s Instructor of Record Award\
+College of Natural Resources Outstanding Teaching Assistant of the Year Award
 
 <br />
 <br />
