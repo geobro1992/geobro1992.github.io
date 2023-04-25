@@ -5,6 +5,8 @@ permalink: /training/
 author_profile: true
 ---
 
+Biodiversity Applications for Airborne Imaging Systems, online (2023)
+
 Anti-Racist Teaching, Professional Development Network, Virginia Tech (2022)
 <br />
 
