@@ -9,13 +9,10 @@ author_profile: true
 
 ## [Awards](awards.md)
 
-## [Museum Experience](curation.md)
+## [Trainings and Certificates](training.md)
 
 ## [Presentations](presentations.md)
 
 ## [Service](service.md)
 
-## [Trainings and Certificates](training.md)
-
-
-
+## [Museum Experience](curation.md)
