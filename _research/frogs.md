@@ -11,7 +11,7 @@ order_number: 40
 
 
 <figure class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/hyla.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/hyla.JPG" alt="">
   <figcaption>Image credit: George Brooks</figcaption>
 </figure> 
 
