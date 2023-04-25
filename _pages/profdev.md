@@ -5,7 +5,9 @@ permalink: /profdev/
 author_profile: true
 ---
 
-## [Grants and Awards](grants.md)
+## [Grants](grants.md)
+
+## [Awards](awards.md)
 
 ## [Museum Experience](curation.md)
 
