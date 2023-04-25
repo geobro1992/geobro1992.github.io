@@ -14,6 +14,9 @@ order_number: 10
   <figcaption>Growth-mortality trade-offs in aquatic and terrestrial environments predict metamorphosis, or lack thereof, in amphibians. Adapted from Werner (1986)</figcaption>
 </figure> 
 
+<br />
+<br />
+
 My first postdoc with Holly Kindsvater sought to develop a life-history framework for amphibian conservation. 
 
 We used traditional life-history theory to explain the unique variation we see in amphibian reproductive strategies. 
