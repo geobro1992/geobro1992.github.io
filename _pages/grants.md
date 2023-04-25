@@ -24,6 +24,6 @@ author_profile: true
 
 2019: Fish and Wildlife Graduate Student Association Travel Grant to attend the Joint Meeting of Ichthyologists and Herpetologists, Snowbird, UT, USA. $600
 
-2019: College of Natural Resources Instructional Support Fund to purchase teaching microscopes. G.C. Brooks (PI), C.A. Haas, L. Castello, D. Orth. $2,000
+2019: College of Natural Resources Instructional Support Fund to purchase teaching microscopes. **G.C. Brooks** (PI), C.A. Haas, L. Castello, D. Orth. $2,000
 
 2018: Virginia Tech Graduate Student Association Travel Fund to attend the Joint Meeting of Ichthyologists and Herpetologists, Rochester, NY, USA. $250
