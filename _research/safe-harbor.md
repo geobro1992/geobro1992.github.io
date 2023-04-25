@@ -10,7 +10,7 @@ order_number: 10
 ---
 
 <figure class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/mu_g.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/werner_adaptation.jpg" alt="">
   <figcaption>Trade-offs in aquatic and terrestrial environments <br /> predict amphibian metamorphosis, or lack thereof. <br /> Adapted from Werner (1986)</figcaption>
 </figure> 
 
