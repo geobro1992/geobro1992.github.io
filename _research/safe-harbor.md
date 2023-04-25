@@ -11,7 +11,7 @@ order_number: 10
 
 <figure class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/mu_g.jpg" alt="">
-  <figcaption>Adapted from Werner (1986)</figcaption>
+  <figcaption>Growth-mortality trade-offs in aquatic and terrestrial environments predict metamorphosis, or lack thereof, in amphibians. Adapted from Werner (1986)</figcaption>
 </figure> 
 
 My first postdoc with Holly Kindsvater sought to develop a life-history framework for amphibian conservation. 
