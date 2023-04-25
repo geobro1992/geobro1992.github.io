@@ -24,3 +24,8 @@ We also used call survey data to characterize the phenology and occupancy dynami
 **G. C. Brooks**, N. M. Caruso, H. C. Chandler, and C.A. Haas. Niche partitioning, not a storage effect, facilitates coexistence in an amphibian community. Ecology and Evolution: _in review_
 
 R. M. Moore, **G. C. Brooks**, B. K. Rincon, T. A. Gorman, and C.A. Haas. Phenological differences help to maintain reproductive isolation and facilitate the coexistence of two sympatric frogs. _in prep_
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/synchrony.jpg" alt="">
+  <figcaption>Phenological synchrony in an amphibian community on Eglin Air Force Base, FL</figcaption>
+</figure> 
