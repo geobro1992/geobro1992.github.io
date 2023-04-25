@@ -26,3 +26,8 @@ This research was featured in the [New York Times](https://www.nytimes.com/2023/
 Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist doi.org/10.1086/724819
 
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate. _in review_
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/hellbender_int.jpg" alt="">
+  <figcaption>Influence of forest cover and clutch size on hellbender nest fates</figcaption>
+</figure> 
