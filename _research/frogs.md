@@ -3,7 +3,7 @@ layout: single-portfolio
 title: "frog community dynamics"
 permalink: /frogs/
 author_profile: true
-excerpt: "<img src='/images/research/parity.jpg' alt=''>"
+excerpt: "<img src='/images/research/tree_frog.jpg' alt=''>"
 desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Coexistence mechanisms and spatiotemporal dynamics of pond-breeding amphibians</p>"
 collection: research
 order_number: 40
