@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Brooks. I am currently a post-doctoral researcher in the Department of Fish and Wildlife Conservation at Virginia Tech. I am investigating filial cannibalism in hellbenders and global patterns of life-history evolution across vertebrates.
+My name is George Brooks.  I am an evolutionary ecologist using theory to address global challenges in conservation. 
 
-I recently completed my PhD at Virginia Tech, during which I developed demographic models to inform the recovery plan of flatwoods salamanders. Before moving to America, I completed my master's degree at the University of Sheffield studying the evolution of live birth in reptiles.
+I completed my PhD at Virginia Tech, during which I developed demographic models to inform the recovery plan of flatwoods salamanders. I am now a post-doctoral researcher investigating filial canniablism in hellbenders, life history evolution in vertebrates, and the socioecological dynamics of fisheries. Before moving to America, I completed my master's degree at the University of Sheffield studying the evolution of live birth in reptiles. 
 
 Outside of academia, I have worked as an environmental control adviser for Biffa Waste Services Limited, and I play lots of music in my spare time.
 
