@@ -4,7 +4,7 @@ title: "broiler chicken welfare"
 permalink: /chickens/
 author_profile: true
 excerpt: "<img src='/images/research/chickens2.jpg' alt=''>"
-desc: "<small><cite>Image credit: WallpaperFlare</cite></small> <p>Promoting positive behavioural outcomes and improved welfare in poultry farms</p>"
+desc: "<small><cite>Image credit: WallpaperFlare</cite></small> <p>Promoting positive behavioural outcomes and improving welfare on poultry farms</p>"
 collection: research
 order_number: 50
 ---
