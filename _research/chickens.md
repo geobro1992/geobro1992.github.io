@@ -1,4 +1,13 @@
-
+---
+layout: single-portfolio
+title: "broiler chicken welfare"
+permalink: /chickens/
+author_profile: true
+excerpt: "<img src='/images/research/tree_frog.jpg' alt=''>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Promoting positive behavioural outcomes and improved welfare in poultry farms</p>"
+collection: research
+order_number: 50
+---
 
 Broiler chickens are typically housed in relatively barren conditions at high stocking densities, contributing to low activity levels and limited expression of natural behaviours.
 
