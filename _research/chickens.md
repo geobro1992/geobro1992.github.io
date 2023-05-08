@@ -9,6 +9,11 @@ collection: research
 order_number: 50
 ---
 
+<figure class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/chickens3.jpg" alt="">
+  <figcaption>Image credit: Bob Nichols</figcaption>
+</figure> 
+
 Broiler chickens are typically housed in relatively barren conditions at high stocking densities, contributing to low activity levels and limited expression of natural behaviours.
 
 We conducted experimental trials and observational studies to discern the influence of rearing environment on chicken behaviour.
