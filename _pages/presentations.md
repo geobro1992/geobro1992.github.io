@@ -10,8 +10,6 @@ author_profile: true
 ## Talks 
 (* indicates co-author is an undergraduate or technician)
 
-Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA.
-
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Concurrent threats jeopardize the viability of Virginia's hellbender populations. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
 H. C. Chandler, N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2023. Reticulated flatwoods salamander phenology under future climate change. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
@@ -40,6 +38,10 @@ Petters, J., J. A. Smith, **G. C. Brooks**, and C. A. Haas. 2018. Building data 
 
 ## Posters 
 (* indicates co-author is an undergraduate or technician)
+
+Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2023. Predicting the long-term viability of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations under future climate changes. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
+
+Engler, T., C. A. Haas, N. M. Caruso, and **G. C. Brooks**. 2023. Tracking the decline and recovery of salamanders in Appalachian forests for 30 years following timber harvest, Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
 *Hawkins, R., **G. C. Brooks**, and C. A. Haas. 2019. A tale of natural history collections education at Virginia Tech. Dennis Dean Undergraduate Research and Creative Scholarship Conference, Blacksburg, VA, USA.
 
