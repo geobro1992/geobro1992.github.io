@@ -21,9 +21,11 @@ We also used call survey data to characterize the phenology and occupancy dynami
 
 **Publications**
 
-**G. C. Brooks**, N. M. Caruso, H. C. Chandler, and C.A. Haas. Niche partitioning, not a storage effect, facilitates coexistence in an amphibian community. Ecology and Evolution: _in review_
+**G. C. Brooks**, N. M. Caruso, H. C. Chandler, and C.A. Haas. Niche partitioning, not a storage effect, facilitates coexistence in an amphibian community. Ecology and Evolution: _accepted_
 
-R. M. Moore, **G. C. Brooks**, B. K. Rincon, T. A. Gorman, and C.A. Haas. Phenological differences help to maintain reproductive isolation and facilitate the coexistence of two sympatric frogs. _in prep_
+**G. C. Brooks**, R. M. Moore, B. K. Rincon, T. A. Gorman, and C.A. Haas. Phenological differences help to maintain reproductive isolation and facilitate the coexistence of two sympatric frogs. _in review_
+
+**G. C. Brooks**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. Prescribed fire promotes site recolonization in the Florida Bog Frog, _Lithobates okaloosae_. _in prep_
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/syncrony.jpg" alt="">
