@@ -23,6 +23,6 @@ We found that environmental complexity and reduced stocking density can promote 
 Our results can be used to design rearing environments to improve animal welfare and develop best practices for poultry farming.
 
 ### Publications and Talks
-L. Evans, **G. C. Brooks**, M. G. Anderson, A. M. Campbell, and L. Jacobs. Environmental complexity and reduced stocking density promote positive behavioural outcomes in broiler chickens. Animals _accepted_
+L. Evans, **G. C. Brooks**, M. G. Anderson, A. M. Campbell, and L. Jacobs. Environmental complexity and reduced stocking density promote positive behavioural outcomes in broiler chickens. Animals 13:2074. doi.org/10.3390/ani13132074
 
 Ulans, A., **G. C. Brooks**, and L. Jacobs. 2023. Anxiety in broiler chickens is affected by strain, body weight, and environmental complexity. The 56th Congress of the International Society for Applied Ethology, Tallin, Estonia.
