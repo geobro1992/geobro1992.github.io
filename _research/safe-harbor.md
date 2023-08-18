@@ -29,7 +29,7 @@ Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad
 
 **G. C. Brooks**, Uyeda J. C., H. Conrad, N. Bone, C. Mull, and H. K. Kindsvater. Fundamental constraints on the evolution of vertebrate life histories. _in prep_
 
-**G. C. Brooks**. How do vertebrates manage to get so big? Functional Ecology. _in prep_
+**G. C. Brooks**. How do vertebrates manage to get so big? Functional Ecology. _in review_
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/parity.jpg" alt="">
