@@ -27,6 +27,8 @@ Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowsk
 
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Concurrent threats jeopardize the viability of Virginia’s hellbender populations. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA.
 
+**Brooks, G. C.** 2023. Assessing the Status of Virginia’s giant salamanders. Virginia Tech Postdoctoral Scholars Showcase, Blacksburg, VA, USA.
+
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate. Ecological Applications _in review_
 
 <figure>
