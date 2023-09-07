@@ -10,6 +10,8 @@ author_profile: true
 ## Talks 
 (* indicates co-author is an undergraduate or technician)
 
+**Brooks, G. C.** 2023. Assessing the Status of Virginia’s giant salamanders. Virginia Tech Postdoctoral Scholars Showcase, Blacksburg, VA, USA.
+
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Concurrent threats jeopardize the viability of Virginia's hellbender populations. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
 H. C. Chandler, N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2023. Reticulated flatwoods salamander phenology under future climate change. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
