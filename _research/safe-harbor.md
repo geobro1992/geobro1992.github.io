@@ -21,6 +21,8 @@ Reptiles and amphibians are disproportionately threatened amongst vertebrates, b
 My first postdoc with Holly Kindsvater sought to develop a life-history framework for reptile and amphibian conservation. We used traditional life-history theory to evaluate the susceptibility of species to anthropogenic change. We then developed ten key principles from evolutionary ecology that can facilitate the management of reptiles and amphibians. Our framework highlights gaps in our understanding of the selective forces that have generated the tremendous diversity of reproductive strategies amongst reptiles and amphibians, and provides a guide for managers and conservation scientists to proactively mitigate extinction risk. 
 
 **Publications and Talks**\
+**Brooks, G. C.** 2023. Why are vertebrates so big? Functional Ecology _in press_
+
 Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad. 2022. Macroevolutionary modeling of life history evolution in vertebrates. Evolution, Cleveland, OH, USA.
 
 **Brooks, G. C.** and H. K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. doi.org/10.3389/fevo.2022.813414
@@ -28,8 +30,6 @@ Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad
 **Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. _in prep_
 
 **Brooks, G. C.**, Uyeda J. C., H. Conrad, N. Bone, C. Mull, and H. K. Kindsvater. Fundamental constraints on the evolution of vertebrate life histories. _in prep_
-
-**Brooks, G. C.** 2023. Why are vertebrates so big? Functional Ecology.
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/parity.jpg" alt="">
