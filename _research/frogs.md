@@ -4,7 +4,7 @@ title: "wetland ecology and conservation"
 permalink: /frogs/
 author_profile: true
 excerpt: "<img src='/images/research/tree_frog.jpg' alt=''>"
-desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Exploring coexistence mechanisms and spatiotemporal dynamics of pond-breeding amphibians</p>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Exploring community dynamics in wetlands and devising restoration strategies</p>"
 collection: research
 order_number: 40
 ---
