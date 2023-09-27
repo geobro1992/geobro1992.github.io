@@ -14,7 +14,7 @@ I completed my PhD at Virginia Tech, during which I developed demographic models
 
 Explore this site to find out more!
 
-<figure class="align-center">
+<figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/family_CR.JPG" alt="">
   <figcaption>My wonderful family loving life in Costa Rica</figcaption>
 </figure> 
