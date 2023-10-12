@@ -20,7 +20,7 @@ Using data from a long-term nest box study I documented a link between the loss 
 
 Size-structured demographic models indicate that hellbenders appear to be in extinction debt across much of their range, whereby long-lived adults persist on the landscape but the streams they inhabit no longer support sufficient recruitment for populations to persist.
 
-This research was featured in the [New York Times](https://www.nytimes.com/2023/04/20/science/salamander-dads-cannibals.html?smid=url-share)
+This research was featured in the [New York Times](https://www.nytimes.com/2023/04/20/science/salamander-dads-cannibals.html?smid=url-share), [Scientific American](https://www.scientificamerican.com/article/cannibalistic-dads-may-be-contributing-to-hellbender-salamander-declines/), and The Wildlife Professional. 
 
 **Publications and talks**\
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate. Ecological Applications _in review_
