@@ -25,7 +25,7 @@ Wetlands support a disproportionate amount of aquatic and terrestrial biodiversi
 
 **Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. Prescribed fire promotes site recolonization in the Florida Bog Frog, _Lithobates okaloosae_. _in review_
 
-**Brooks, G. C.**, N. M. Caruso, H. C. Chandler, and C.A. Haas. Niche partitioning and the storage effect facilitate coexistence in an amphibian community. Ecology and Evolution: _in press_
+**Brooks, G. C.**, N. M. Caruso, H. C. Chandler, and C.A. Haas. Niche partitioning and the storage effect facilitate coexistence in an amphibian community. Ecology and Evolution 13:e10629. https://doi.org/10.1002/ece3.10629
 
 **Brooks, G. C.**, T. A. Gorman, K. C. Jones, H. C. Chandler, B. K. Rincon, M. A. Sission, J. Himes, and C. A. Haas. 2023. Removing duff layers in fire-suppressed wetlands can aid habitat restoration efforts. Wetlands 43:95. https://doi.org/10.1007/s13157-023-01739-7
 
