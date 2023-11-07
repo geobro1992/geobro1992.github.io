@@ -229,7 +229,7 @@ Striving, thriving\
 Struggling to surviving\
 It feels good to be alive
 
-Some c**t’s driving like a bellend\
+Some ****’s driving like a bellend\
 Brake, borrow, make, mend\
 A serial rear-ender\
 Returning to sender\
