@@ -25,11 +25,11 @@ My first postdoc with Holly Kindsvater sought to develop a life-history framewor
 
 **Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. _in review_
 
-**Brooks, G. C.** 2023. Why are vertebrates so big? Functional Ecology 37:2764-2766.
+**Brooks, G. C.** 2023. Why are vertebrates so big? Functional Ecology 37:2764-2766. [link](https://dx.doi.org/10.1111/1365-2435.14433)
 
 Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad. 2022. Macroevolutionary modeling of life history evolution in vertebrates. Evolution, Cleveland, OH, USA.
 
-**Brooks, G. C.** and H. K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. doi.org/10.3389/fevo.2022.813414
+**Brooks, G. C.** and H. K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. [link](https://doi.org/10.3389/fevo.2022.813414)
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/parity.jpg" alt="">
