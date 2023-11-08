@@ -25,7 +25,7 @@ This research was featured in the [New York Times](https://www.nytimes.com/2023/
 **Publications and talks**\
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate. Ecological Applications _in review_
 
-Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist 202: 92-106. doi.org/10.1086/724819
+Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist 202: 92-106. [link](https://doi.org/10.1086/724819)
 
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Concurrent threats jeopardize the viability of Virginia’s hellbender populations. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA.
 
