@@ -16,9 +16,9 @@ order_number: 1
 
 My PhD dissertation at Virginia Tech focussed on conducting a population viability analysis of flatwoods salamanders. 
 
-Using information on growth and survival obtained through drift fence monitoring, I constructed integral projection models (IPMs) to estimate extinction probabilities under different management scenarios.
+Using information on growth and survival obtained through drift fence monitoring, I constructed integral projection models (IPMs) to estimate extinction probabilities under different management scenarios (Pop. Ecol. _in press_).
 
-To build the IPM I developed growth curves, the first of their kind, that jointly model amphibian growth before and after metamorphosis (PLoS One 2020), and survival curves that account for seasonal differences in mortality (Ichthyol. Herpetol., in review). 
+To build the IPM I developed growth curves, the first of their kind, that jointly model amphibian growth before and after metamorphosis (PLoS One 2020), and survival curves that account for seasonal differences in mortality (Ichthyol. Herpetol., _in press_). 
 
 Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian (Aquat. Conser. 2019), and investigated the importance of detectibility and genetic diversity in the context of future reintroduction efforts (PeerJ 2021, Anim. Conserv. 2023).
 
