@@ -20,6 +20,7 @@ I am passionate about wetland ecosystems and wetland conservation. Wetlands are 
 Wetlands support a disproportionate amount of aquatic and terrestrial biodiversity, and thus their loss is of considerable conservation concern. I have a particular affinity for amphibians and reptiles that inhabit wetlands. Past projects include employing drift fences to investigate mechanisms of coexistence in amphibian communities, using call survey data to characterize the phenology and occupancy dynamics of the Florida Bog Frog, and building hydrology models to characterize the prefered habitat of the Bog Turtle.
 
 **Publications**
+Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden, and E. Hultin. A hydrologic and land cover-based habitat model for use in bog turtle (_Glyptemys muhlenbergii_) conservation. _in review_
 
 **Brooks,G. C.**, R. M. Moore, B. K. Rincon, T. A. Gorman, and C.A. Haas. Phenological differences help to maintain reproductive isolation and facilitate the coexistence of two sympatric frogs. _in review_
 
