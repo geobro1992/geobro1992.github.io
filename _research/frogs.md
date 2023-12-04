@@ -21,6 +21,8 @@ Wetlands support a disproportionate amount of aquatic and terrestrial biodiversi
 
 **Publications**
 
+Chandler, H. C., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (Ambystoma bishopi) management under future climate change. _in review_
+
 Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden, and E. Hultin. A hydrologic and land cover-based habitat model for use in bog turtle (_Glyptemys muhlenbergii_) conservation. _in review_
 
 **Brooks,G. C.**, R. M. Moore, B. K. Rincon, T. A. Gorman, and C.A. Haas. Phenological differences help to maintain reproductive isolation and facilitate the coexistence of two sympatric frogs. _in review_
