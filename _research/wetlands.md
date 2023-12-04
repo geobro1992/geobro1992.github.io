@@ -1,7 +1,7 @@
 ---
 layout: single-portfolio
 title: "wetland ecology and conservation"
-permalink: /frogs/
+permalink: /wetlands/
 author_profile: true
 excerpt: "<img src='/images/research/tree_frog.jpg' alt=''>"
 desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Exploring community dynamics in wetlands and devising restoration strategies</p>"
@@ -21,7 +21,7 @@ Wetlands support a disproportionate amount of aquatic and terrestrial biodiversi
 
 **Publications**
 
-Chandler, H. C., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (Ambystoma bishopi) management under future climate change. _in review_
+Chandler, H. C., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. _in review_
 
 Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden, and E. Hultin. A hydrologic and land cover-based habitat model for use in bog turtle (_Glyptemys muhlenbergii_) conservation. _in review_
 
