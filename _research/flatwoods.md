@@ -29,6 +29,8 @@ Ultimately, this body of work was used to aid flatwoods salamander recovery.
 **Publications, Talks, and Posters**\
 (* indicates co-author is an undergraduate or technician)
 
+Chandler, H. C. and **G. C. Brooks**. _in press_. The relationship between female body size and clutch size in flatwoods salamanders. Southeastern Naturalist.
+
 **Brooks, G. C.**, H. C. Chandler, D. Z. Childs, Y. Jiao, and C. A. Haas. _in press_. Predicting the population viability of an endangered amphibian under environmental and demographic uncertainty. Population Ecology.
 
 **Brooks, G. C.**, T. A. Gorman, and C. A. Haas. _in press_. Variation in flatwoods salamander survival is unrelated to temperature and rainfall. Ichthyology and Herpetology.
