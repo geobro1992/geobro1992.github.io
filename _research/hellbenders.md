@@ -23,7 +23,7 @@ Size-structured demographic models indicate that hellbenders appear to be in ext
 This research was featured in the [New York Times](https://www.nytimes.com/2023/04/20/science/salamander-dads-cannibals.html?smid=url-share), [Scientific American](https://www.scientificamerican.com/article/cannibalistic-dads-may-be-contributing-to-hellbender-salamander-declines/), and The Wildlife Professional. 
 
 **Publications and talks**\
-**Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate. Ecological Applications _in review_
+**Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate. Ecological Applications _in press_
 
 Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist 202: 92-106. [link](https://doi.org/10.1086/724819)
 
