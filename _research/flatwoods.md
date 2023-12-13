@@ -33,9 +33,9 @@ Chandler, H. C., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. Wetland hydrolo
 
 Chandler, H. C. and **G. C. Brooks**. _in press_. The relationship between female body size and clutch size in flatwoods salamanders. Southeastern Naturalist.
 
-**Brooks, G. C.**, H. C. Chandler, D. Z. Childs, Y. Jiao, and C. A. Haas. _in press_. Predicting the population viability of an endangered amphibian under environmental and demographic uncertainty. Population Ecology.
-
 **Brooks, G. C.**, T. A. Gorman, and C. A. Haas. _in press_. Variation in flatwoods salamander survival is unrelated to temperature and rainfall. Ichthyology and Herpetology.
+
+**Brooks, G. C.**, H. C. Chandler, D. Z. Childs, Y. Jiao, and C. A. Haas. 2023. Predicting the population viability of an endangered amphibian under environmental and demographic uncertainty. Population Ecology. [link](http://doi.org/10.1002/1438-390X.12172)
 
 **Brooks, G. C.**, T. A. Gorman, K. C. Jones, H. C. Chandler, B. K. Rincon, M. A. Sission, J. Himes, and C. A. Haas. 2023. Removing duff layers in fire-suppressed wetlands can aid habitat restoration efforts. Wetlands 43:95. [link](https://doi.org/10.1007/s13157-023-01739-7)
 
