@@ -66,6 +66,7 @@ author_profile: true
 
 ## Invited Speaker
 
+_Evolution_, Department of Biology, The Citadel 2023\
 _Animal Behaviour_, Department of Biology, Randolph College 2023\
 _Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2023\
 _Graduate Seminar_, Department of Fish and Wildlife Conservation, Virginia Tech 2022\
