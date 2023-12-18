@@ -31,9 +31,9 @@ Ultimately, this body of work was used to aid flatwoods salamander recovery.
 
 Chandler, H. C., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. _in review_
 
-Chandler, H. C. and **G. C. Brooks**. _in press_. The relationship between female body size and clutch size in flatwoods salamanders. Southeastern Naturalist.
-
 **Brooks, G. C.**, T. A. Gorman, and C. A. Haas. _in press_. Variation in flatwoods salamander survival is unrelated to temperature and rainfall. Ichthyology and Herpetology.
+
+Chandler, H. C. and **G. C. Brooks**. 2023. The relationship between female body size and clutch size in flatwoods salamanders. Southeastern Naturalist 22:588-594.
 
 **Brooks, G. C.**, H. C. Chandler, D. Z. Childs, Y. Jiao, and C. A. Haas. 2023. Predicting the population viability of an endangered amphibian under environmental and demographic uncertainty. Population Ecology. [link](http://doi.org/10.1002/1438-390X.12172)
 
