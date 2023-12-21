@@ -41,7 +41,7 @@ Chandler, H. C. and **G. C. Brooks**. 2023. The relationship between female body
 
 Chandler, H. C., N. M. Caruso, D. L. McLaughlin, Y. Jiao, **G. C. Brooks**, and C. A. Haas. 2023. Forecasting the flooding dynamics of flatwoods salamander breeding wetlands under future climate change scenarios. PeerJ 11:e16050. [link](https://doi.org/10.7717/peerj.16050)
 
-**G. C. Brooks**, A. Wendt, C. A. Haas, and J. H. Roberts. 2023. Comparing estimates of census and effective population size in an endangered amphibian. Animal Conservation. [link](https://doi.org/10.1111/acv.12871)
+**G. C. Brooks**, A. Wendt, C. A. Haas, and J. H. Roberts. 2023. Comparing estimates of census and effective population size in an endangered amphibian. Animal Conservation 26:839-850. [link](https://doi.org/10.1111/acv.12871)
 
 H. C. Chandler, N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2023. Reticulated flatwoods salamander phenology under future climate change. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
