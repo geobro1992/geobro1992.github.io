@@ -10,6 +10,8 @@ author_profile: true
 ## Talks 
 (* indicates co-author is an undergraduate or technician)
 
+Hultin E., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of _Arapaima spp_. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA. 
+
 **Brooks, G. C.** 2023. Assessing the Status of Virginia’s giant salamanders. Virginia Tech Postdoctoral Scholars Showcase, Blacksburg, VA, USA.
 
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Concurrent threats jeopardize the viability of Virginia's hellbender populations. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
