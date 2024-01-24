@@ -10,7 +10,9 @@ author_profile: true
 ## Talks 
 (* indicates co-author is an undergraduate or technician)
 
-Hultin E. A., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of _Arapaima spp_. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA. 
+Chandler H. C., **G. C. Brooks**, K. Jones, B. Rincon, and C. A. Haas. 2024. Lessons learned from long-term monitoring and research of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations on Eglin Air Force Base. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Nauvoo, AL, USA.
+
+Hultin E. A., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of _Arapaima_ spp. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA. 
 
 **Brooks, G. C.** 2023. Assessing the Status of Virginia’s giant salamanders. Virginia Tech Postdoctoral Scholars Showcase, Blacksburg, VA, USA.
 
@@ -42,6 +44,8 @@ Petters, J., J. A. Smith, **G. C. Brooks**, and C. A. Haas. 2018. Building data 
 
 ## Posters 
 (* indicates co-author is an undergraduate or technician)
+
+Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of Arapaima population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
 
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2023. Predicting the long-term viability of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations under future climate changes. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
