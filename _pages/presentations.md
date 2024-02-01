@@ -45,7 +45,7 @@ Petters, J., J. A. Smith, **G. C. Brooks**, and C. A. Haas. 2018. Building data 
 ## Posters 
 (* indicates co-author is an undergraduate or technician)
 
-Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of Arapaima population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
+Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of _Arapaima_ population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
 
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2023. Predicting the long-term viability of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations under future climate changes. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
