@@ -1,0 +1,30 @@
+---
+layout: single-portfolio
+title: "sustainable fisheries"
+permalink: /flarapaima/
+author_profile: true
+excerpt: "<img src='/images/research/fish.jpg' alt=''>"
+desc: "<small><cite>Image credit: rawpixel</cite></small> <p>Modeling fisheries as coupled human and natural systems</p>"
+collection: research
+order_number: 45
+---
+
+<figure class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/flounder.jpg" alt="">
+  <figcaption>Image credit: flickr alpha</figcaption>
+</figure> 
+
+Fisheries are increasingly being recognized as coupled human and natural systems (CHANS).
+
+CHANS are challenging to model due to their complexity, which arises from the intricate interactions and feedback loops between human societies and the natural environment.
+
+We developed quantitative models of fisheries that incorporate illegal fishing and adaptive management practices to predict long-term sustainability. 
+
+We then applied our models to two real-world examples - community based management of _Arapaima_ spp. in South America and commercial Flounder fisheries in the North Atlantic.
+
+### Publications and Talks
+**Brooks, G. C.**, E. A. Hultin, E. Martins, L. Castello, and H. K. Kindsvater.  _in prep_. Integrating unreported harvest information into ecological fisheries models. 
+
+Hultin E. A., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of Arapaima spp. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA.
+
+Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of Arapaima population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
