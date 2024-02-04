@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "sustainable fisheries"
+title: "fisheries dynamics and management"
 permalink: /flarapaima/
 author_profile: true
 excerpt: "<img src='/images/research/fish.jpg' alt=''>"
