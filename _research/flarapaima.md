@@ -11,7 +11,7 @@ order_number: 45
 
 <figure class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/flounder.jpg" alt="">
-  <figcaption>Image credit: flickr alpha</figcaption>
+  <figcaption>Image credit: flickr (alpha)</figcaption>
 </figure> 
 
 Fisheries are increasingly being recognized as coupled human and natural systems (CHANS).
