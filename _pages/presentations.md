@@ -8,11 +8,15 @@ author_profile: true
 <br />
 
 ## Talks 
-(* indicates co-author is an undergraduate or technician)
+(* indicates co-author is a student or technician)
+
+Castello, L., *A. Abreu, E. S. Brondizio, **G. C. Brooks**, S. J. Campos, *P. Cunha, A. Fleischmann, *C. Franco, *E. A. Hultin, *D. Hymans, H. K. Kindsvater, E. Martins, and M. Sorice. 2024. An approach to assess the integrated social-ecological dynamics of freshwater fisheries. Workshop on the Ostrom Workshop, Bloomington, Indiana, USA.
+
+*Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Predicting fishery sustainability with integrated socio-ecological models. Workshop on the Ostrom Workshop, Bloomington, Indiana, USA.
 
 Chandler H. C., **G. C. Brooks**, K. Jones, B. Rincon, and C. A. Haas. 2024. Lessons learned from long-term monitoring and research of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations on Eglin Air Force Base. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Nauvoo, AL, USA.
 
-Hultin E. A., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of _Arapaima_ spp. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA. 
+*Hultin E. A., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of _Arapaima_ spp. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA. 
 
 **Brooks, G. C.** 2023. Assessing the Status of Virginia’s giant salamanders. Virginia Tech Postdoctoral Scholars Showcase, Blacksburg, VA, USA.
 
@@ -43,13 +47,13 @@ Petters, J., J. A. Smith, **G. C. Brooks**, and C. A. Haas. 2018. Building data 
 <br />
 
 ## Posters 
-(* indicates co-author is an undergraduate or technician)
+(* indicates co-author is a student or technician)
 
-Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of _Arapaima_ population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
+*Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of _Arapaima_ population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
 
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2023. Predicting the long-term viability of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations under future climate changes. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
-Engler, T., C. A. Haas, N. M. Caruso, and **G. C. Brooks**. 2023. Tracking the decline and recovery of salamanders in Appalachian forests for 30 years following timber harvest, Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
+*Engler, T., C. A. Haas, N. M. Caruso, and **G. C. Brooks**. 2023. Tracking the decline and recovery of salamanders in Appalachian forests for 30 years following timber harvest, Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
 *Hawkins, R., **G. C. Brooks**, and C. A. Haas. 2019. A tale of natural history collections education at Virginia Tech. Dennis Dean Undergraduate Research and Creative Scholarship Conference, Blacksburg, VA, USA.
 
