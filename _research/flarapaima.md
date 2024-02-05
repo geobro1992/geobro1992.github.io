@@ -25,6 +25,10 @@ We then applied our models to two real-world examples - community based manageme
 ### Publications and Talks
 **Brooks, G. C.**, E. A. Hultin, E. Martins, L. Castello, and H. K. Kindsvater.  _in prep_. Integrating unreported harvest information into ecological fisheries models. 
 
+Castello, L., A. Abreu,  E. S. Brondizio, **G. C. Brooks**, S. J. Campos, P. Cunha, A. Fleischmann, C. Franco, E. A. Hultin, D. Hymans, H. K. Kindsvater, E. Martins, and M. Sorice. 2024. An approach to assess the integrated social-ecological dynamics of freshwater fisheries. Workshop on the Ostrom Workshop, Bloomington, Indiana, USA.
+
+Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Predicting fishery sustainability with integrated socio-ecological models. Workshop on the Ostrom Workshop, Bloomington, Indiana, USA.
+
 Hultin E. A., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of Arapaima spp. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA.
 
 Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of Arapaima population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
