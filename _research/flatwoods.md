@@ -16,9 +16,9 @@ order_number: 1
 
 My PhD dissertation at Virginia Tech focussed on conducting a population viability analysis of flatwoods salamanders. 
 
-Using information on growth and survival obtained through drift fence monitoring, I constructed integral projection models (IPMs) to estimate extinction probabilities under different management scenarios (Pop. Ecol. _in press_).
+Using information on growth and survival obtained through drift fence monitoring, I constructed integral projection models (IPMs) to estimate extinction probabilities under different management scenarios (Pop. Ecol. 2023).
 
-To build the IPM I developed growth curves, the first of their kind, that jointly model amphibian growth before and after metamorphosis (PLoS One 2020), and survival curves that account for seasonal differences in mortality (Ichthyol. Herpetol., _in press_). 
+To build the IPM I developed growth curves, the first of their kind, that jointly model amphibian growth before and after metamorphosis (PLoS One 2020), and survival curves that account for seasonal differences in mortality (Ichthyol. Herpetol. 2024). 
 
 Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian (Aquat. Conser. 2019), and investigated the importance of detectibility and genetic diversity in the context of future reintroduction efforts (PeerJ 2021, Anim. Conserv. 2023).
 
@@ -31,7 +31,7 @@ Ultimately, this body of work was used to aid flatwoods salamander recovery.
 
 Chandler, H. C., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. _in review_
 
-**Brooks, G. C.**, T. A. Gorman, and C. A. Haas. _in press_. Variation in flatwoods salamander survival is unrelated to temperature and rainfall. Ichthyology and Herpetology.
+**Brooks, G. C.**, T. A. Gorman, and C. A. Haas. 2024. Variation in flatwoods salamander survival is unrelated to temperature and rainfall. Ichthyology and Herpetology 114.
 
 Chandler, H. C. and **G. C. Brooks**. 2023. The relationship between female body size and clutch size in frosted flatwoods salamanders (_Ambystoma cingulatum_). Southeastern Naturalist 22:588-594. [link](https://doi.org/10.1656/058.022.0411)
 
@@ -69,5 +69,5 @@ Haas, C. A., H. C. Chandler, and **G. C. Brooks**. 2022. Habitat restoration, sa
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/survival.jpg" alt="">
-  <figcaption>Annual variation in survival rates of adult flatwoods salamanders</figcaption>
+  <figcaption>Annual variation in survival rates of adult flatwoods salamanders. From Brooks et al. (2024)</figcaption>
 </figure> 
