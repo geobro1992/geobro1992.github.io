@@ -33,5 +33,5 @@ Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/parity.jpg" alt="">
-  <figcaption>Life history space occupied by amphibians with different reproductive modes</figcaption>
+  <figcaption>Life history space occupied by amphibians with different reproductive modes. From Brooks and Kindsvater (2022)</figcaption>
 </figure> 
