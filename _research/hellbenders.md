@@ -33,5 +33,5 @@ Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowsk
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/hellbender_int.jpg" alt="">
-  <figcaption>The relationship between forest cover, clutch size, and hellbender nest fates</figcaption>
+  <figcaption>The relationship between forest cover, clutch size, and hellbender nest fates. From Hopkins et al. (2023)</figcaption>
 </figure> 
