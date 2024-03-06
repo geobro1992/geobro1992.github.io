@@ -27,8 +27,6 @@ Ultimately, this body of work was used to aid flatwoods salamander recovery.
 <br>
 
 **Publications, Talks, and Posters**\
-(* indicates co-author is an undergraduate or technician)
-
 Chandler, H. C., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. _in review_
 
 Chandler H. C., **G. C. Brooks**, K. Jones, B. Rincon, and C. A. Haas. 2024. Lessons learned from long-term monitoring and research of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations on Eglin Air Force Base. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Nauvoo, AL, USA.
@@ -59,9 +57,9 @@ Haas, C. A., H. C. Chandler, and **G. C. Brooks**. 2022. Habitat restoration, sa
 
 **Brooks, G. C.**, D. C. Childs, T. A. Gorman, and C. A. Haas. 2019. Assessing population viability and the efficacy of future management scenarios for an endangered amphibian. Joint Meeting of Ichthyologists and Herpetologists, Snowbird, UT, USA.
 
-*Leipold, A. E., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2019. Variations of growth within the breeding and non-breeding seasons of the Reticulated Flatwoods Salamander (Ambystoma bishopi). Annual Southeastern Partners in Amphibian and Reptile Conservation Meeting, Black Mountain, NC, USA.
+Leipold, A. E., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2019. Variations of growth within the breeding and non-breeding seasons of the Reticulated Flatwoods Salamander (Ambystoma bishopi). Annual Southeastern Partners in Amphibian and Reptile Conservation Meeting, Black Mountain, NC, USA.
 
-*Rincon, B., N. M. Caruso, **G. C. Brooks**, *K. C. Jones, and C. A. Haas. 2019. Monitoring Reticulated Flatwoods Salamanders with PIT tag antennas: Our first season of insights. Annual Southeastern Partners in Amphibian and Reptile Conservation Meeting, Black Mountain, NC, USA.
+Rincon, B., N. M. Caruso, **G. C. Brooks**, K. C. Jones, and C. A. Haas. 2019. Monitoring Reticulated Flatwoods Salamanders with PIT tag antennas: Our first season of insights. Annual Southeastern Partners in Amphibian and Reptile Conservation Meeting, Black Mountain, NC, USA.
 
 **Brooks, G. C.**, J. A. Smith, T. A. Gorman, and C. A. Haas. 2018. Discerning the environmental drivers of annual migrations in an endangered amphibian. Joint Meeting of Ichthyologists and Herpetologists, Rochester, NY, USA.
 
