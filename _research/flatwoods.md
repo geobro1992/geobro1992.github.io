@@ -29,6 +29,8 @@ Ultimately, this body of work was used to aid flatwoods salamander recovery.
 **Publications, Talks, and Posters**\
 Chandler, H. C., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. _in review_
 
+Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2024. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration. Joint Meeting of Ichthyologists and Herpetologists, Pittsburg, PA, USA.
+
 Chandler H. C., **G. C. Brooks**, K. Jones, B. Rincon, and C. A. Haas. 2024. Lessons learned from long-term monitoring and research of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations on Eglin Air Force Base. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Nauvoo, AL, USA.
 
 **Brooks, G. C.**, T. A. Gorman, and C. A. Haas. 2024. Variation in flatwoods salamander survival is unrelated to temperature and rainfall. Ichthyology and Herpetology 112:31-40. [link](https://doi.org/10.1643/h2020131)
