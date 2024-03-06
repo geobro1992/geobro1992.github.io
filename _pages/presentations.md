@@ -49,6 +49,8 @@ Petters, J., J. A. Smith, **G. C. Brooks**, and C. A. Haas. 2018. Building data 
 ## Posters 
 (* indicates co-author is a student or technician)
 
+Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2024. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration. Joint Meeting of Ichthyologists and Herpetologists, Pittsburg, PA, USA.
+
 *Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of _Arapaima_ population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
 
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2023. Predicting the long-term viability of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations under future climate changes. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
