@@ -14,7 +14,7 @@ Castello, L., *A. Abreu, E. S. Brondizio, **G. C. Brooks**, S. J. Campos, *P. Cu
 
 *Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Predicting fishery sustainability with integrated socio-ecological models. Workshop on the Ostrom Workshop, Bloomington, Indiana, USA.
 
-Chandler H. C., **G. C. Brooks**, K. Jones, B. Rincon, and C. A. Haas. 2024. Lessons learned from long-term monitoring and research of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations on Eglin Air Force Base. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Nauvoo, AL, USA.
+Chandler H. C., **G. C. Brooks**, K. C. Jones, B. K. Rincon, A. K. Martin, and C. A. Haas. 2024. Lessons learned from long-term monitoring and research of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations on Eglin Air Force Base. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Nauvoo, AL, USA.
 
 *Hultin E. A., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of _Arapaima_ spp. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA. 
 
