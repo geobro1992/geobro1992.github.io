@@ -66,6 +66,7 @@ author_profile: true
 
 ## Invited Speaker
 
+_Population Dynamics_, Department of Forest and Wildlife Ecology, UW-Madison 2024\
 _Evolution_, Department of Biology, The Citadel 2023\
 _Animal Behaviour_, Department of Biology, Randolph College 2023\
 _Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2023\
