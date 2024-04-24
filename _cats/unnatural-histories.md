@@ -29,9 +29,11 @@ The world’s a stage. So too in the natural sciences, George Evelyn Hutchinson 
 Yet hope springs eternal. 
 
 Rewilding is an attempt to restore the theatre to its former grandeur. Some have argued this to be pure folly - we lack the resources and the vision to pull off such an ambitious rebuild. Besides, nature does not stand still. The world as it was before is confined to the annals of history. The world as it will be resides solely in the haze of future possibilities. In this series we will describe the architecture of the modern ecological theatre, explore how this new environment has influenced the evolutionary stories of its actors, and speculate on the catalogue of dramas that await us. Curtain up!
+<br />
+<br />
 
 ## The Hitchhikers Guide
-Don’t Panic
+_Don’t Panic_\
 ~ Douglas Adams
 
 The concept of ‘survival of the fittest’ inevitably draws the same astute question: why is there so much diversity? This is an excellent question that, for the most part, baffles scientists. Explaining patterns of diversity is a major branch of the biological sciences, and answers to date are largely underwhelming in their explanatory power and often mind-bogglingly complex. Critics have a much easier time of it. If what you say about Darwinian evolution is true, the doubters assert, why does not one species dominate all others to the point of exclusion? Why isn’t there just one type of frog, the fittest, most well-adapted frog that drives all others to extinction? 
@@ -69,29 +71,30 @@ Fiercely aggressive, and forming huge super colonies, the red imported fire ant 
 
 Eating virtually anything and everything, as well as damaging the roots of several important cash crops, the accidental introduction of fire ants to North America has become an invasion of colossal proportions. Since the Mobile ‘landing’, human trade routes have brought fire ants to the shores of Asia and Australasia, and the same unfortunate drama is playing out again and again. Fire ants are spreading across China, Taiwan, Australia, and New Zealand. The invasion is now a global one, with no end in sight.
 
-## Coda - Bullfrog Moan
-Have you ever woke up with them bullfrogs on your mind?
-I got the bullfrog blues and I can’t be satisfied,
-Mexico got ‘em,
-Japan got ‘em,
-Cuba got ‘em,
-Jamaica got ‘em too,
-I got the bullfrog blues and I can’t be satisfied,
-Italy got ‘em,
-France got ‘em,
-Brazil got ‘em,
-the Netherlands got ‘em too
-I got the bullfrog blues and I can’t be satisfied,
-Canada got ‘em,
-China got ‘em,
-Brazil got ‘em,
-And Columbia got ‘em too,
-I got the bullfrog blues and I can’t be satisfied,
-Uruguay got ‘em,
-Venezuela got ‘em,
-Argentina got ‘em,
+### Coda - Bullfrog Moan
+Have you ever woke up with them bullfrogs on your mind?\
+I got the bullfrog blues and I can’t be satisfied,\
+Mexico got ‘em,\
+Japan got ‘em,\
+Cuba got ‘em,\
+Jamaica got ‘em too,\
+I got the bullfrog blues and I can’t be satisfied,\
+Italy got ‘em,\
+France got ‘em,\
+Brazil got ‘em,\
+the Netherlands got ‘em too\
+I got the bullfrog blues and I can’t be satisfied,\
+Canada got ‘em,\
+China got ‘em,\
+Brazil got ‘em,\
+And Columbia got ‘em too,\
+I got the bullfrog blues and I can’t be satisfied,\
+Uruguay got ‘em,\
+Venezuela got ‘em,\
+Argentina got ‘em,\
 And South Korea got ‘em too.
-
+<br />
+<br />
 
 ## Dazzling Urbanites
 coming soon!
