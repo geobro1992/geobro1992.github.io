@@ -10,9 +10,11 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
-Castello, L., *A. Abreu, E. S. Brondizio, **G. C. Brooks**, S. J. Campos, *P. Cunha, A. Fleischmann, *C. Franco, *E. A. Hultin, *D. Hymans, H. K. Kindsvater, E. Martins, and M. Sorice. 2024. An approach to assess the integrated social-ecological dynamics of freshwater fisheries. Workshop on the Ostrom Workshop, Bloomington, Indiana, USA.
+Kindsvater, H. K., **G. C. Brooks**, J. C. Uyeda, *H. Conrad, *N. Bone, and C. Mull. 2024. Fundamental constraints on the evolution of vertebrate life histories. Joint Congress on Evolutionary Biology, Montreal, QC, Canada.
 
-*Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Predicting fishery sustainability with integrated socio-ecological models. Workshop on the Ostrom Workshop, Bloomington, Indiana, USA.
+Castello, L., *A. Abreu, E. S. Brondizio, **G. C. Brooks**, S. J. Campos, *P. Cunha, A. Fleischmann, *C. Franco, *E. A. Hultin, *D. Hymans, H. K. Kindsvater, E. Martins, and M. Sorice. 2024. An approach to assess the integrated social-ecological dynamics of freshwater fisheries. Workshop on the Ostrom Workshop, Bloomington, IN, USA.
+
+*Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Predicting fishery sustainability with integrated socio-ecological models. Workshop on the Ostrom Workshop, Bloomington, IN, USA.
 
 Chandler H. C., **G. C. Brooks**, K. C. Jones, B. K. Rincon, A. K. Martin, and C. A. Haas. 2024. Lessons learned from long-term monitoring and research of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations on Eglin Air Force Base. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Nauvoo, AL, USA.
 
