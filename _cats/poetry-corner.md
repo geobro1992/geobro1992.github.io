@@ -19,6 +19,7 @@ order_number: 50
 [Vernal Pool](#vernal-pool)\
 [Bumper to Bumper](#bumper-to-bumper)\
 [Dusk](#dusk)\
+[Balti King](#balti-king)\
 [Water World](#water-world)\
 [Rituals](#rituals)\
 [With the Flow](#with-the-flow)\
@@ -187,6 +188,65 @@ Until we meet again
 
 Hurry down sunshine\
 Let’s see what tomorrow brings\
+<br />
+
+## Balti King
+Why didn’t you warn me sooner\
+About the perils of a rich lamb bhuna\
+My stomach’s a lead balloon\
+But there’s a rumour that I’ll resume\
+Coz I’m a consummate curry consumer
+
+The Mogul Dynasty\
+Stays open till three\
+The walls dripping in raita and ghee\
+The best Chutney in East Putney\
+I’m a consummate curry consumer
+
+A monumental lentil Dahl\
+Leads to gut fight at the OK Corral\
+Then a blockage down the Panama Canal\
+But nothing will fade my steadfast morale\
+Coz I’m a consummate curry consumer
+
+A mountain of rice\
+A nice blend of spice\
+A proverbial poppadom paradise\
+I won’t sacrifice\
+Coz I’m a consummate curry consumer
+
+Vindaloo joins the queue\
+My stomach must be black and blue\
+The heat clouds up my field of view\
+If I pull through, count me a reborn Hindu\
+Coz I’m a consummate curry consumer
+
+A Bangalori Tandoori\
+Steeped in garam masala and glory\
+The aftermath however is a gory story\
+Colon comeuppance obligatory\
+Coz I’m a consummate curry consumer
+
+Never pass on the madras\
+Never ignore a pakora\
+Never sneer a sag paneer\
+Never dismiss the Goan fish\
+Never turn away the aloo Bombay\
+Fill your plate before it’s too late
+
+It’s Korma that I crave\
+Tough to know if my belly will behave\
+Well fortune favours the brave\
+Besides it’s too late to try and save me from\
+The esophageal spasms\
+An early gastrointestinal grave\
+Coz I’m a consummate curry consumer
+
+These hunger pangs I need to quash\
+What better way than a Rogan Josh\
+And a keema naan if I can spare the dosh\
+But under the surface slosh slosh slosh\
+Why didn’t you warn me sooner\
 <br />
 
 ## Water World
