@@ -23,6 +23,7 @@ order_number: 50
 [Rituals](#rituals)\
 [With the Flow](#with-the-flow)\
 [Good to be Alive](#good-to-be-alive)\
+[The Heffalump](#the-heffalump)\
 <br />
 
 ## Colorful Language
@@ -262,4 +263,38 @@ Quick march, foot to the floor, hot-stepping action\
 Blink and you’ll miss it\
 Treasure every fleeting moment, they say\
 All things come to an end\
-It feels good to be alive
+It feels good to be alive\
+<br />
+
+## The Heffalump
+You know he’s the real deal\
+Ordering the bargain bucket meal deal\
+Four pounds fifty, what a steal deal\
+Calories his Achilles heel deal
+ 
+Jelly belly, diet dodger\
+Chunky monkey, porkey podger\
+Roly-poly, trolley codger\
+Gristle and grease are on the menu\
+At any available culinary venue
+
+Who ate all the pies?\
+You fat bastard\
+Telling doctors lies\
+You fat bastard\
+The scales keep rising\
+It’s hardly surprising\
+It don’t require no encephalizing
+
+Double chins come from double portions\
+Thunder thighs of colossal proportions\
+Bingo wings begin their contortions\
+As you guzzle ice cream by the gallon\
+A freak show guest spot on Jimmy Fallon
+
+The relationship is far from platonic\
+The plates of chips are borderline chronic\
+They claim his growth is supersonic\
+But he just eats their words\
+Sick of being\
+So histrionic
