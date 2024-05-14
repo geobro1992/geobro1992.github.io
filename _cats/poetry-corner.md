@@ -11,6 +11,7 @@ order_number: 50
 
 ### Contents
 [Colorful Language](#colorful-language)\
+[Appalachia](#appalachia)\
 [The Dragon Awakes](#the-dragon-awakes)\
 [Blue Lives, Blurred Lines](#blue-lives-blurred-lines)\
 [Shades of Green](#shades-of-green)\
@@ -32,6 +33,13 @@ Three of the nine Muses from ancient Greek mythology were dedicated to poetry. I
 As a biologist,  my primary source of inspiration, what I would consider the ultimate muse, is the natural world. The majesty of life on Earth is impossible to fully capture, even with a sizeable lexicon, but some literary greats before me have achieved heroic feats in the attempt. Here is my small contribution to that ongoing exploration and evolution of the English vernacular.
 
 Enjoy!\
+<br />
+
+## Appalachia
+A montane Meccah\
+A blue-ridged beauty\
+A geological dream catcher\
+Not even the Alps can match her stature\
 <br />
 
 ## The Dragon Awakes
