@@ -38,8 +38,9 @@ Enjoy!\
 <br />
 
 ## Appalachia
-A montane Meccah\
-A blue-ridged beauty\
+A montane Meccah in the heart of the States\
+With peaks that can enrapture\
+A blue-ridged beauty where adventure awaits\
 A geological dream catcher\
 Not even the Alps can match her stature\
 <br />
