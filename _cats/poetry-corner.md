@@ -213,14 +213,13 @@ Coz I’m a consummate curry consumer
 A mountain of rice\
 A nice blend of spice\
 A proverbial poppadom paradise\
-I won’t sacrifice\
+Save your advice, I'm not willing to sacrifice\
 Coz I’m a consummate curry consumer
 
 Vindaloo joins the queue\
 My stomach must be black and blue\
 The heat clouds up my field of view\
-If I pull through, count me a reborn Hindu\
-Coz I’m a consummate curry consumer
+If I pull through, count me a reborn Hindu
 
 A Bangalori Tandoori\
 Steeped in garam masala and glory\
@@ -237,10 +236,10 @@ Fill your plate before it’s too late
 
 It’s Korma that I crave\
 Tough to know if my belly will behave\
-Well fortune favours the brave\
+But fortune favours the brave\
 Besides it’s too late to try and save me from\
 The esophageal spasms\
-An early gastrointestinal grave\
+A shockwave sends me to an early gastrointestinal grave\
 Coz I’m a consummate curry consumer
 
 These hunger pangs I need to quash\
