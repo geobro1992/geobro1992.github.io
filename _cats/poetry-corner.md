@@ -18,6 +18,7 @@ order_number: 50
 [A Divisive Figure](#a-divisive-figure)\
 [Vernal Pool](#vernal-pool)\
 [Bumper to Bumper](#bumper-to-bumper)\
+[Winter in Wisconsin](#winter-in-wisconsin)\
 [Dusk](#dusk)\
 [Balti King](#balti-king)\
 [Water World](#water-world)\
@@ -172,6 +173,54 @@ They cavorted\
 What a commotion! he thought to himself\
 Before heading back inside and pouring another hot drink\
 <br />
+
+## Winter in Wisconsin
+Storm front rolls in all gas no brakes\
+Carving its way across the eight Great lakes\
+The Midwest is starting to see its first flurry of flakes\
+Chrissakes\
+One wrong move is all it takes\
+Winter in Wisconsin\
+Cold as aught\
+You won’t find me out and about
+
+Someone please pass the anti-freeze\
+Overnight it dropped a couple of degrees\
+Hanging from the traffic lights and hanging from the trees\
+Icicles as big as cross-country skis\
+Winter in Wisconsin\
+Cold as aught\
+You won’t find me out and about
+
+From a distance the ice looks nice\
+From a distance a polar paradise\
+A picture-perfect postcard slice to entice\
+But forget your gloves and you’ll pay the price\
+Winter in Wisconsin\
+Cold as aught\
+You won’t find me out and about
+
+Christ it’s cold, 15 below\
+And some wind chill to boot\
+Predicted six to nine feet of snow\
+On the off-chance work commute
+
+Could’ve been in Charleston, somewhere by the sea\
+Where even the oysters are warm\
+Should’ve been in Cambridge, sipping afternoon tea\
+Strolling the cloisters my norm
+
+But I’m here
+
+Here tomorrow and here today\
+It might start thawing come what May\
+Maybe global warming will curb the delay\
+We can only cross our fingers and pray\
+Well that’s one way to pass the time away\
+Winter in Wisconsin\
+It’s as cold as fuck\
+<br />
+
 
 ## Dusk
 Crimson skies blanket the mountains\
