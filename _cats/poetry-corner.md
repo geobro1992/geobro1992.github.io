@@ -198,7 +198,9 @@ A picture-perfect postcard slice to entice\
 But forget your gloves and you’ll pay the price\
 Winter in Wisconsin\
 Cold as aught\
-You won’t find me out and about
+You won’t find me out and about\
+That's what the boy scouts shout\
+Tired of string cheese and sourkraut
 
 Christ it’s cold, 15 below\
 And some wind chill to boot\
