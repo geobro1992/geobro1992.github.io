@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: ""
+title: "Conservation Initiatives"
 permalink: /conservation-initiatives/
 author_profile: true
 excerpt: "<img src='/images/cats/ConservationInitiatives.jpg' alt=''>"
