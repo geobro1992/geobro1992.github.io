@@ -13,6 +13,8 @@ order_number: 1
 _To steer between being useless and authoritarian is the great art of teaching_\
 ~ Earl Kelley
 
+Welcome to the blog series Back 2 School!
+
 This collection of essays was originally published back in 2017 as two separate blog series looking at the state of higher education and modern pedagogical techniques respectively. These were some of my earliest attempts at writing, and as to be expected, they lacked a bit of polish. Neither particularly stood up on its own as a series, yet there were some glimmers of promise that have caused me to revisit them. Learning is, after all, an iterative process. I have merged the two series, beefed up some of the weaker posts, abandoned some entirely, and added some new content that covers education in a post-pandemic world. Let’s hope, for all our sakes, my efforts have not been in vain.
 
 Pull up a chair, school is in session!
