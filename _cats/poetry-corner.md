@@ -9,6 +9,9 @@ collection: cats
 order_number: 50
 ---
 
+<br />
+<br />
+
 # Colorful Language
 Welcome to Poetry Corner!
 
