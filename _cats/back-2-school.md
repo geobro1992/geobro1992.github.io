@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "Back 2 School"
+title: ""
 permalink: /back-2-school/
 author_profile: true
 excerpt: "<img src='/images/cats/Back2School.jpg' alt=''>"
