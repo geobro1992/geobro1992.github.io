@@ -9,6 +9,9 @@ collection: cats
 order_number: 40
 ---
 
+<br />
+<br />
+
 # Curators in Crisis
 Welcome to the blog series Plight of the Museum!
 
