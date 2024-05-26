@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "Borrowed Time"
+title: ""
 permalink: /borrowed-time/
 author_profile: true
 excerpt: "<img src='/images/cats/BorrowedTime.jpg' alt=''>"
