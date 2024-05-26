@@ -9,6 +9,9 @@ collection: cats
 order_number: 1
 ---
 
+<br />
+<br />
+
 # School's In
 _To steer between being useless and authoritarian is the great art of teaching_\
 ~ Earl Kelley
