@@ -12,23 +12,23 @@ order_number: 50
 ### Contents
 [Colorful Language](#colorful-language)\
 [Appalachia](#appalachia)\
-[The Dragon Awakes](#the-dragon-awakes)\
-[Blue Lives, Blurred Lines](#blue-lives-blurred-lines)\
-[Shades of Green](#shades-of-green)\
-[A Divisive Figure](#a-divisive-figure)\
-[Vernal Pool](#vernal-pool)\
-[Bumper to Bumper](#bumper-to-bumper)\
-[Winter in Wisconsin](#winter-in-wisconsin)\
-[Dusk](#dusk)\
 [Balti King](#balti-king)\
-[Water World](#water-world)\
-[Rituals](#rituals)\
-[With the Flow](#with-the-flow)\
+[Blue Lives, Blurred Lines](#blue-lives-blurred-lines)\
+[Bumper to Bumper](#bumper-to-bumper)\
+[A Divisive Figure](#a-divisive-figure)\
+[The Dragon Awakes](#the-dragon-awakes)\
+[Dusk](#dusk)\
 [Good to be Alive](#good-to-be-alive)\
 [The Heffalump](#the-heffalump)\
+[Rituals](#rituals)\
+[Shades of Green](#shades-of-green)\
+[Vernal Pool](#vernal-pool)\
+[Winter in Wisconsin](#winter-in-wisconsin)\
+[Water World](#water-world)\
+[With the Flow](#with-the-flow)\
 <br />
 
-## Colorful Language
+# Colorful Language
 Welcome to Poetry Corner!
 
 Three of the nine Muses from ancient Greek mythology were dedicated to poetry. In our everyday lives language is often clumsy, vulgar, and limited. But in the right hands, the beauty of words is revealed. Song lyrics can stir the soul, written prose can enrapture the imagination.
@@ -44,202 +44,6 @@ With peaks that can enrapture\
 A blue-ridged beauty where adventure awaits\
 A geological dream catcher\
 Not even the Alps can match her stature\
-<br />
-
-## The Dragon Awakes
-Gazing to infinity\
-The mosaic of time lies etched across his features\
-As sand and stone collide\
-Life and love exist at the edge of nature’s dominion\
-Where giants fear to tread, the earth flows like wine\
-And he stands\
-Steeped in the struggles of a thousand suns\
-<br />
-
-## Blue Lives, Blurred Lines
-Pity the plight of the po-lice\
-In court they look so awfully sad\
-Guilty until proven innocent\
-It’s political correctness gone mad
-
-Pity the plight of the po-lice\
-Don’t act if you can’t do the time\
-If we lock them away for the rest of their life\
-They’ll think twice before committing a crime
-
-Their riot gear is starting to crumble\
-Their tear gas has long since expired\
-Can’t do our jobs anymore, they mumble\
-To fire is to risk getting fired
-
-A face of mace, a kick in the groin\
-Choked and pinned to the floor\
-Immigrants, criminals, what’s the difference?\
-We’ll find out once we kick down your door
-
-These bastards deserve nothing less\
-Plead the fifth, plead for mercy, plead for more\
-The thin blue line meets the man with no name\
-Don’t you know we’re the good guys? they implore
-
-Pity the plight of the po-lice\
-Keep your hands up, coz we shoot to kill\
-A high school dropout, bullied as a kid\
-Revenge is sweet, it’s a thrill
-
-Pity the plight of the po-lice\
-Without us, they angrily hiss\
-The world would descend into chaos\
-But let’s hope chaos is better than this\
-<br />
-
-## Shades of Green
-Stain-glass canopies split the sun’s rays\
-Glistening crowns in the valley of kings\
-The forest whispers\
-As midsummer’s breeze ebbs and flows\
-An eagle soars\
-The sun slowly sets\
-And the vast sky is blue and sentimental
-
-Nature’s soul is at the center of mine\
-Never to turn away\
-Trample the bodies of the fallen\
-Trample the promise of a fresh start\
-The first of new beginnings\
-The last reminder of times gone
-
-Stands turn to sways signaling storms on the horizon\
-A change of pace, a change of mood\
-Motion is all that remains\
-<br />
-
-## A Divisive Figure
-Listen to the crackpot, his hairbrained schemes\
-Listen to the crackpot’s uninterpretable dreams\
-Behold his muttered utterances\
-Behold his spluttered gutterances\
-Never flustered, he’s mustered a lack-lustered bluster
-
-Enraged, incensed, ignorant bliss\
-Hugs for free, fiver for a kiss\
-The walls come in, the tides go out\
-Bats in the belfry, rats up the spout
-
-Thoughts on this, thoughts on that\
-A tailor’s dummy in a porkpie hat\
-Thoughts to the contrary, thoughts in line\
-The straw on the backbone, sign of the time\
-A scarecrow’s apprentice in search of a spine\
-Will do just fine\
-We’ll do just fine
-
-Listen to the crackpot blather\
-Listen to the crackpot’s father\
-Listen to the crackpot rather\
-As the masses he tries to gather\
-Listen to the crackpot babble, dabble, empower the rabble\
-Listen to the crackpot slaver
-
-A helping hand\
-To make the last stand\
-Dangling from a rope of sand\
-Won’t it be grand?\
-Yes, and…\
-<br />
-
-## Vernal Pool
-Moonlight mirrored on the still water\
-Serpents patrol the slowly receding banks\
-Beauty lies beyond the eye\
-Frogs fill the air
-
-Willful abandon\
-Monotonous regularity\
-A spectacle, a display, a cacophony, a chorus\
-To be heard, to be seen, a chance at immortality\
-Love is an afterthought\
-Most vie in vain\
-<br />
-
-## Bumper to Bumper
-Phillip stepped out onto the veranda and coughed\
-His eyes struggled to focus in the mid-morning light\
-Scanning the garden, he affixed his gaze on two squirrels\
-Along the fence\
-Across the lawn\
-Up and down the trunk of an ancient walnut tree\
-They cavorted\
-What a commotion! he thought to himself\
-Before heading back inside and pouring another hot drink\
-<br />
-
-## Winter in Wisconsin
-Storm front rolls in all gas no brakes\
-Carving its way across the eight Great lakes\
-The Midwest is starting to see its first flurry of flakes\
-Chrissakes\
-One wrong move is all it takes\
-Winter in Wisconsin\
-Cold as aught\
-You won’t find me out and about
-
-Someone please pass the anti-freeze\
-Overnight it dropped a couple of degrees\
-Hanging from the traffic lights and hanging from the trees\
-Icicles as big as cross-country skis\
-Winter in Wisconsin\
-Cold as aught\
-You won’t find me out and about
-
-From a distance the ice looks nice\
-From a distance a polar paradise\
-A picture-perfect postcard slice to entice\
-But forget your gloves and you’ll pay the price\
-Winter in Wisconsin\
-Cold as aught\
-You won’t find me out and about\
-That's what the boy scouts shout\
-Tired of string cheese and sourkraut
-
-Christ it’s cold, 15 below\
-And some wind chill to boot\
-Predicted six to nine feet of snow\
-On the off-chance work commute
-
-Could’ve been in Charleston, somewhere by the sea\
-Where even the oysters are warm\
-Should’ve been in Cambridge, sipping afternoon tea\
-Strolling the cloisters my norm
-
-But I’m here
-
-Here tomorrow and here today\
-It might start thawing come what May\
-Maybe global warming will curb the delay\
-We can only cross our fingers and pray\
-Well that’s one way to pass the time away\
-Winter in Wisconsin\
-It’s as cold as fuck\
-<br />
-
-
-## Dusk
-Crimson skies blanket the mountains\
-Long shadows cross the lawn\
-Light fades to a whisper\
-A faint echo fractured through tangled branches
-
-Bound by time\
-The darkness looms
-
-Grainy vision begets grainy thoughts\
-A fawn hesitates beneath the stories of old\
-The dance of the fireflies tempt the stars to earth\
-Until we meet again
-
-Hurry down sunshine\
-Let’s see what tomorrow brings\
 <br />
 
 ## Balti King
@@ -300,46 +104,115 @@ But under the surface slosh slosh slosh\
 Why didn’t you warn me sooner\
 <br />
 
-## Water World
-Veins stretched across an open land\
-Waves crashing on an ocean spray\
-Reach for the skies, mister\
-Heaven giveth and heaven taketh away
+## Blue Lives, Blurred Lines
+Pity the plight of the po-lice\
+In court they look so awfully sad\
+Guilty until proven innocent\
+It’s political correctness gone mad
 
-Whether peat, or clay, or lime, or sand\
-Cradle the body, rock to sleep\
-The test of time, the toll, the toil\
-Catch the fallen, the clouds will weep
+Pity the plight of the po-lice\
+Don’t act if you can’t do the time\
+If we lock them away for the rest of their life\
+They’ll think twice before committing a crime
 
-Babbling brooks, raging rivers\
-Tributaries and channels\
-The streams that flow through the garden of Eden\
-Carving canyons, valleys, canals
+Their riot gear is starting to crumble\
+Their tear gas has long since expired\
+Can’t do our jobs anymore, they mumble\
+To fire is to risk getting fired
 
-Worship the way of the world\
-Sit back and admire\
-The lifeblood, the death knell, purgatory\
-Earth, wind, and fire
+A face of mace, a kick in the groin\
+Choked and pinned to the floor\
+Immigrants, criminals, what’s the difference?\
+We’ll find out once we kick down your door
 
-A drink, a drink! A toast, a toast!\
-To the fens that hath begotten\
-The swamp around us, all sticks and stones\
-Gone but not forgotten\
+These bastards deserve nothing less\
+Plead the fifth, plead for mercy, plead for more\
+The thin blue line meets the man with no name\
+Don’t you know we’re the good guys? they implore
+
+Pity the plight of the po-lice\
+Keep your hands up, coz we shoot to kill\
+A high school dropout, bullied as a kid\
+Revenge is sweet, it’s a thrill
+
+Pity the plight of the po-lice\
+Without us, they angrily hiss\
+The world would descend into chaos\
+But let’s hope chaos is better than this\
 <br />
 
-## Rituals
-The students are desperate\
-Desperate for some semblance of normality\
-The clock strikes twelve, and as one\
-They turn toward the statue and bow\
+## Bumper to Bumper
+Phillip stepped out onto the veranda and coughed\
+His eyes struggled to focus in the mid-morning light\
+Scanning the garden, he affixed his gaze on two squirrels\
+Along the fence\
+Across the lawn\
+Up and down the trunk of an ancient walnut tree\
+They cavorted\
+What a commotion! he thought to himself\
+Before heading back inside and pouring another hot drink\
 <br />
 
-## With the Flow
-The poor river\
-Battered and bruised\
-Black and blue\
-At the hands of egotistical adventurers\
-Damn them all!\
+## A Divisive Figure
+Listen to the crackpot, his hairbrained schemes\
+Listen to the crackpot’s uninterpretable dreams\
+Behold his muttered utterances\
+Behold his spluttered gutterances\
+Never flustered, he’s mustered a lack-lustered bluster
+
+Enraged, incensed, ignorant bliss\
+Hugs for free, fiver for a kiss\
+The walls come in, the tides go out\
+Bats in the belfry, rats up the spout
+
+Thoughts on this, thoughts on that\
+A tailor’s dummy in a porkpie hat\
+Thoughts to the contrary, thoughts in line\
+The straw on the backbone, sign of the time\
+A scarecrow’s apprentice in search of a spine\
+Will do just fine\
+We’ll do just fine
+
+Listen to the crackpot blather\
+Listen to the crackpot’s father\
+Listen to the crackpot rather\
+As the masses he tries to gather\
+Listen to the crackpot babble, dabble, empower the rabble\
+Listen to the crackpot slaver
+
+A helping hand\
+To make the last stand\
+Dangling from a rope of sand\
+Won’t it be grand?\
+Yes, and…\
+<br />
+
+## The Dragon Awakes
+Gazing to infinity\
+The mosaic of time lies etched across his features\
+As sand and stone collide\
+Life and love exist at the edge of nature’s dominion\
+Where giants fear to tread, the earth flows like wine\
+And he stands\
+Steeped in the struggles of a thousand suns\
+<br />
+
+## Dusk
+Crimson skies blanket the mountains\
+Long shadows cross the lawn\
+Light fades to a whisper\
+A faint echo fractured through tangled branches
+
+Bound by time\
+The darkness looms
+
+Grainy vision begets grainy thoughts\
+A fawn hesitates beneath the stories of old\
+The dance of the fireflies tempt the stars to earth\
+Until we meet again
+
+Hurry down sunshine\
+Let’s see what tomorrow brings\
 <br />
 
 ## Good to be Alive
@@ -408,4 +281,133 @@ The plates of chips are borderline chronic\
 They claim his growth is supersonic\
 But he just eats their words\
 Sick of being\
-So histrionic
+So histrionic\
+<br />
+
+## Rituals
+The students are desperate\
+Desperate for some semblance of normality\
+The clock strikes twelve, and as one\
+They turn toward the statue and bow\
+<br />
+
+## Shades of Green
+Stain-glass canopies split the sun’s rays\
+Glistening crowns in the valley of kings\
+The forest whispers\
+As midsummer’s breeze ebbs and flows\
+An eagle soars\
+The sun slowly sets\
+And the vast sky is blue and sentimental
+
+Nature’s soul is at the center of mine\
+Never to turn away\
+Trample the bodies of the fallen\
+Trample the promise of a fresh start\
+The first of new beginnings\
+The last reminder of times gone
+
+Stands turn to sways signaling storms on the horizon\
+A change of pace, a change of mood\
+Motion is all that remains\
+<br />
+
+## Vernal Pool
+Moonlight mirrored on the still water\
+Serpents patrol the slowly receding banks\
+Beauty lies beyond the eye\
+Frogs fill the air
+
+Willful abandon\
+Monotonous regularity\
+A spectacle, a display, a cacophony, a chorus\
+To be heard, to be seen, a chance at immortality\
+Love is an afterthought\
+Most vie in vain\
+<br />
+
+## Water World
+Veins stretched across an open land\
+Waves crashing on an ocean spray\
+Reach for the skies, mister\
+Heaven giveth and heaven taketh away
+
+Whether peat, or clay, or lime, or sand\
+Cradle the body, rock to sleep\
+The test of time, the toll, the toil\
+Catch the fallen, the clouds will weep
+
+Babbling brooks, raging rivers\
+Tributaries and channels\
+The streams that flow through the garden of Eden\
+Carving canyons, valleys, canals
+
+Worship the way of the world\
+Sit back and admire\
+The lifeblood, the death knell, purgatory\
+Earth, wind, and fire
+
+A drink, a drink! A toast, a toast!\
+To the fens that hath begotten\
+The swamp around us, all sticks and stones\
+Gone but not forgotten\
+<br />
+
+## Winter in Wisconsin
+Storm front rolls in all gas no brakes\
+Carving its way across the eight Great lakes\
+The Midwest is starting to see its first flurry of flakes\
+Chrissakes\
+One wrong move is all it takes\
+Winter in Wisconsin\
+Cold as aught\
+You won’t find me out and about
+
+Someone please pass the anti-freeze\
+Overnight it dropped a couple of degrees\
+Hanging from the traffic lights and hanging from the trees\
+Icicles as big as cross-country skis\
+Winter in Wisconsin\
+Cold as aught\
+You won’t find me out and about
+
+From a distance the ice looks nice\
+From a distance a polar paradise\
+A picture-perfect postcard slice to entice\
+But forget your gloves and you’ll pay the price\
+Winter in Wisconsin\
+Cold as aught\
+You won’t find me out and about\
+That's what the boy scouts shout\
+Tired of string cheese and sourkraut
+
+Christ it’s cold, 15 below\
+And some wind chill to boot\
+Predicted six to nine feet of snow\
+On the off-chance work commute
+
+Could’ve been in Charleston, somewhere by the sea\
+Where even the oysters are warm\
+Should’ve been in Cambridge, sipping afternoon tea\
+Strolling the cloisters my norm
+
+But I’m here
+
+Here tomorrow and here today\
+It might start thawing come what May\
+Maybe global warming will curb the delay\
+We can only cross our fingers and pray\
+Well that’s one way to pass the time away\
+Winter in Wisconsin\
+It’s as cold as fuck\
+<br />
+
+## With the Flow
+The poor river\
+Battered and bruised\
+Black and blue\
+At the hands of egotistical adventurers\
+Damn them all!\
+<br />
+
+
