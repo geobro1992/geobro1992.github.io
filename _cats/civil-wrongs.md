@@ -9,6 +9,9 @@ collection: cats
 order_number: 20
 ---
 
+<br />
+<br />
+
 # Dismantling the Master Race
 Welcome to the blog series Civil Wrongs!
 
