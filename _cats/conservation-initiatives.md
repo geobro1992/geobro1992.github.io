@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "Conservation Initiatives"
+title: ""
 permalink: /conservation-initiatives/
 author_profile: true
 excerpt: "<img src='/images/cats/ConservationInitiatives.jpg' alt=''>"
@@ -9,20 +9,7 @@ collection: cats
 order_number: 30
 ---
 
-### Contents
-[1. SOS](#sos)\
-[2. How to Save a Species](#how-to-save-a-species)\
-[3. How to Save a Species in Captivity](#how-to-save-a-species-in-captivity)\
-[4. How to Save a Species’ Habitat](#how-to-save-a-species-habitat)\
-[5. How to Save a Species in Court](#how-to-save-a-species-in-court)\
-[6. How to Save an Evolutionarily Significant Unit](#how-to-save-an-evolutionarily-significant-unit)\
-[7. How to Save a Species in Theory](#how-to-save-a-species-in-theory)\
-[8. How to Save a Number of Species](#how-to-save-a-number-of-species)\
-[9. Should we Save Species?](#should-we-save-species)\
-<br />
-<br />
-
-## SOS
+# SOS
 Welcome to the blog series Conservation Initiatives! In this collection of essays I hope to provide some insight into the theory and practice of preserving the natural world.
 
 Life is an interwoven tapestry, a majestic work of art, both through time and across space. In our struggle for self preservation, we tug at the threads of life and distort the carefully crafted images therein. In doing so we threaten our own existence, for humanity is very much a part of this intricate fabric. There is still time before life is in tatters, but we have already left an indelible mark.
@@ -30,6 +17,18 @@ Life is an interwoven tapestry, a majestic work of art, both through time and ac
 By studying the tears and inkblots inflicted by human civilization we learn something of the structure of nature, how things are put together. We also gain insight into how best to preserve and possibly restore such a marvelous composition before it is too late. I want to explore past successes and failures, the relative strengths and weaknesses of various approaches, and the fate of the environment in the 21st century.
 
 Conservation biology: _nil desperandum_
+<br />
+<br />
+
+### Contents
+[1. How to Save a Species](#how-to-save-a-species)\
+[2. How to Save a Species in Captivity](#how-to-save-a-species-in-captivity)\
+[3. How to Save a Species’ Habitat](#how-to-save-a-species-habitat)\
+[4. How to Save a Species in Court](#how-to-save-a-species-in-court)\
+[5. How to Save an Evolutionarily Significant Unit](#how-to-save-an-evolutionarily-significant-unit)\
+[6. How to Save a Species in Theory](#how-to-save-a-species-in-theory)\
+[7. How to Save a Number of Species](#how-to-save-a-number-of-species)\
+[8. Should we Save Species?](#should-we-save-species)\
 <br />
 <br />
 
