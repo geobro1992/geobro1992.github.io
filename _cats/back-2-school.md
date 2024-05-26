@@ -9,18 +9,7 @@ collection: cats
 order_number: 1
 ---
 
-### Contents
-[1. School's In](#schools-in)\
-[2. Your First Assignment](#your-first-assignment)\
-[3. Tools for Fools](#tools-for-fools)\
-[4. Question Everything](#question-everything)\
-[5. The Consummate Consumer](#the-consummate-consumer)\
-[6. Pax Academia](#pax-academia)\
-[7. At the Sound of the Bell](#at-the-sound-of-the-bell)
-<br />
-<br />
-
-## School's In
+# School's In
 _To steer between being useless and authoritarian is the great art of teaching_\
 ~ Earl Kelley
 
@@ -29,6 +18,17 @@ This collection of essays was originally published back in 2017 as two separate 
 Pull up a chair, school is in session!
 <br />
 <br />
+
+### Contents
+[1. Your First Assignment](#your-first-assignment)\
+[2. Tools for Fools](#tools-for-fools)\
+[3. Question Everything](#question-everything)\
+[4. The Consummate Consumer](#the-consummate-consumer)\
+[5. Pax Academia](#pax-academia)\
+[6. At the Sound of the Bell](#at-the-sound-of-the-bell)
+<br />
+<br />
+
 
 ## Your First Assignment
 _During this semester, I will be doing a great deal of talking. I will be giving lectures, answering questions, and conducting discussions. Since I am an imperfect scholar and, even more certainly, a fallible human being, I will inevitably be making factual errors, drawing some unjustifiable conclusions, and perhaps passing along my opinions as facts. I should be very unhappy if you were unaware of these mistakes. To minimize that possibility, I am going to make you all honorary members of Accuracy in Academia. Your task is to make sure that none of my errors goes by unnoticed. At the beginning of each class I will, in fact, ask you to reveal whatever errors I made in the previous session. You must, of course, say why these are errors, indicate the source of your authority, and, if possible, suggest a truer or more useful or less biased way of formulating what I said. Your grade in this course will be based to some extent on the rigor with which you pursue my mistakes. And to ensure that you do not fall into the torpor that is so common among students, I will, from time to time, deliberately include some patently untrue statements and some outrageous opinions. Nothing would please me more than for one or several of you to present a corrected or alternative version of one of my lectures._\
