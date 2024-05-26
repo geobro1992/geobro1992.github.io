@@ -9,18 +9,7 @@ collection: cats
 order_number: 10
 ---
 
-### Contents
-[1. The Majestic Clockwork](#the-majestic-clockwork)\
-[2. Time Immemorial](#time-immemorial)\
-[3. Life in the Fast Lane](#life-in-the-fast-lane)\
-[4. Life in the Slow Lane](#life-in-the-slow-lane)\
-[5. Analog vs Digital](#analog-vs-digital)\
-[6. In the Midnight Hour](#in-the-midnight-hour)\
-[7. A Change of Pace](#a-change-of-pace)
-<br />
-<br />
-
-## The Majestic Clockwork
+# The Majestic Clockwork
 _Theory without facts is fantasy, but facts without theory is chaos._\
 ~ Charles Otis Whitman
 
@@ -31,6 +20,17 @@ Most living things are small and most living things don’t live very long. Hand
 Every plant, every animal, every microbe; we are all living on borrowed time.
 <br />
 <br />
+
+### Contents
+[1. Time Immemorial](#time-immemorial)\
+[2. Life in the Fast Lane](#life-in-the-fast-lane)\
+[3. Life in the Slow Lane](#life-in-the-slow-lane)\
+[4. Analog vs Digital](#analog-vs-digital)\
+[5. In the Midnight Hour](#in-the-midnight-hour)\
+[6. A Change of Pace](#a-change-of-pace)
+<br />
+<br />
+
 
 ## Time Immemorial
 _Death comes to all. But great achievements build a monument which shall endure until the sun grows cold._\
