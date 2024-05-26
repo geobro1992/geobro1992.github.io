@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: ""
+title: "Plight of the Museum"
 permalink: /plight-of-museum/
 author_profile: true
 excerpt: "<img src='/images/cats/PlightOfMuseum.jpg' alt=''>"
