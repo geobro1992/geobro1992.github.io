@@ -9,6 +9,9 @@ collection: cats
 order_number: 30
 ---
 
+<br />
+<br />
+
 # SOS
 Welcome to the blog series Conservation Initiatives! In this collection of essays I hope to provide some insight into the theory and practice of preserving the natural world.
 
