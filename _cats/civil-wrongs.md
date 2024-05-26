@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: ""
+title: "Civil Wrongs"
 permalink: /civil-wrongs/
 author_profile: true
 excerpt: "<img src='/images/cats/CivilWrongs.jpg' alt=''>"
