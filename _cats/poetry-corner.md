@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: ""
+title: "Poetry Corner"
 permalink: /poetry-corner/
 author_profile: true
 excerpt: "<img src='/images/cats/PoetryCorner.jpg' alt=''>"
