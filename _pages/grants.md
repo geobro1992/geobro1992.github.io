@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ### EXTERNAL GRANTS
+2024: Restoring degraded wetlands to reverse imperiled species declines. C.A Haas (PI), **G.C. Brooks**, K.C. Jones. U.S. Fish and Wildlife Service State Wildlife Grant, $300,000
+
+2024: Flatwoods Salamander Monitoring and Endangered Species Management on Eglin Air Force Base, Florida. C.A Haas (PI), M.C. Mims, L.I. Blanc, **G.C. Brooks**, A.K Martin, J.R. Walters. U.S. Fish and Wildlife Service, $475,000
+
 2023: Creating a framework to guide restoration and management of longleaf pine embedded wetlands in the southeastern United States. H.C. Chandler (PI), **G.C. Brooks**, D. McLaughlin, and C.A. Haas. U.S. Department of Agriculture Natural Resources Conservation Service, $200,000
 
 2023: Eglin Air Force Base Endangered Species Adaptive Management and Monitoring on Eglin Air Force Base, Florida. C.A Haas (PI), L.I. Blanc, T.A. Gorman, **G.C. Brooks**, J.R. Walters. U.S. Fish and Wildlife Service, $165,000
