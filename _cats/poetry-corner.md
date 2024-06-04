@@ -32,6 +32,8 @@ Enjoy!\
 [Dusk](#dusk)\
 [Good to be Alive](#good-to-be-alive)\
 [The Heffalump](#the-heffalump)\
+[Horrid](#horrid)\
+[Numbskull](#numbskull)\
 [Rituals](#rituals)\
 [Shades of Green](#shades-of-green)\
 [Vernal Pool](#vernal-pool)\
@@ -284,6 +286,86 @@ They claim his growth is supersonic\
 But he just eats their words\
 Sick of being\
 So histrionic\
+<br />
+
+## Horrid
+Sporting a John Deere cap and stonewashed denim\
+Spitting vitriolic words equal part virtue and venom\
+As far as he’s concerned, he’s the only true yank\
+If you know what’s good for you, don’t tread on Hank
+
+Open your eyes, read the news, the country’s gone to pot\
+The jobs are gone, the women too, they’ve taken the bloody lot\
+The problem is those _____ you fill in the blank\
+And if you know what’s good for you, don’t tread on Hank
+
+A rifle on his mantle, antlers deck the walls\
+A tiger from Doc Antle, if he only had the balls\
+Got himself a hummer, cause he couldn’t front a tank\
+If you know what’s good for you, don’t tread on Hank
+
+He’s a staunch opponent of welfare\
+Wouldn’t give a crippled crab a crutch\
+A hipster proponent of self-care (before it was fashionable)\
+But that’s only because he empathises so much\
+Survive by your bootstraps and you’ll have him to thank
+
+An immigrant inquiry, it’s no more than we deserve\
+His doomsday stockpiling resembles the federal reserve\
+Public enemy number one, and you can take that to the bank\
+If you know what’s good for you, don’t tread on Hank
+
+Go on get, take your sad sack home\
+We’re better off without you, find somewhere else to roam\
+You’ve got to give him credit, he’s nothing if not frank\
+If you know what’s good for you, don’t tread on Hank
+
+He just wants to be left alone, to go about his day\
+He wouldn’t say a peep if people didn’t get in his way\
+A patriot, a concerned citizen, but they just call him crank\
+If you know what’s good for you, don’t tread on Hank
+
+A conscientious confederali steeped in the nation’s history\
+Make America great again but leave the details to mystery\
+Don’t turn bitter and take to twitter, that will amount to wank\
+And if you know what’s good for you, for christ’s sake don’t tread on Hank\
+<br />
+
+## Numbskull
+He could be famous\
+A celebrity ignoramus\
+Just like that guy I saw on MTV\
+Straight out of Wimbledon\
+The local London simpleton\
+His name in lights before he’s 23
+
+His booking agent promised to split the fee\
+But he’s a sensitive soul like that princess with the pea\
+Don’t blow it now nincompoop\
+If you want to rise you need to stoop\
+And see your name in lights before you’re 33
+
+Capitalise on being thick\
+Falling over or being sick\
+That’s the smart move sonny, don’t you see?\
+Choke on your own spit\
+And just grin like a half-wit\
+And see your name in lights before you’re 43
+
+Your following will double, that’s a guarantee\
+If you buy one, you’re sure to get one free\
+Oi over here dunderhead\
+Did you even hear what I just said?\
+Do you want your titular luminosity?
+
+Shame on you for fooling him once\
+For praying on the village dunce\
+Robbed him of his real reality\
+Now he sits at home alone\
+Staring blankly at his phone\
+A middle-aged, melancholic divorcee\
+His name in lights?\
+Could’ve fooled me boy, you could’ve fooled me\
 <br />
 
 ## Rituals
