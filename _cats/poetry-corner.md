@@ -359,7 +359,7 @@ Did you even hear what I just said?\
 Do you want your titular luminosity?
 
 Shame on you for fooling him once\
-For praying on the village dunce\
+For preying on the village dunce\
 Robbed him of his real reality\
 Now he sits at home alone\
 Staring blankly at his phone\
