@@ -18,7 +18,7 @@ Broiler chickens are typically housed in relatively barren conditions at high st
 
 We conducted experimental trials and observational studies to discern the influence of rearing environment on chicken behaviour.
 
-We found that environmental complexity and reduced stocking density can promote positive behavioural outcomes and reduce anxiety levels of individual birds. 
+We found that environmental complexity and reduced stocking density can promote positive behavioural outcomes and reduce anxiety levels of individual birds, but the magnitude of these benefits depends on the particular strain of broiler chicken being raised. 
 
 Our results can be used to design rearing environments to improve animal welfare and develop best practices for poultry farming.
 
