@@ -27,7 +27,7 @@ Chandler, H. C., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. Wetland hydrolo
 
 **Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. Prescribed fire promotes site recolonization in the Florida Bog Frog, _Lithobates okaloosae_. _in review_
 
-Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden, and E. Hultin. A hydrologic and land cover-based habitat model for use in bog turtle (_Glyptemys muhlenbergii_) conservation. Aquatic Conservation: Marine and Freshwater Ecosystems 34:e4129. [link](https://doi.org/10.1002/aqc.4215)
+Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden, and E. Hultin. A hydrologic and land cover-based habitat model for use in bog turtle (_Glyptemys muhlenbergii_) conservation. Aquatic Conservation: Marine and Freshwater Ecosystems 34:e4215. [link](https://doi.org/10.1002/aqc.4215)
 
 **Brooks, G. C.**, N. M. Caruso, H. C. Chandler, and C.A. Haas. 2023. Niche partitioning and the storage effect facilitate coexistence in an amphibian community. Ecology and Evolution 13:e10629. [link](https://doi.org/10.1002/ece3.10629)
 
