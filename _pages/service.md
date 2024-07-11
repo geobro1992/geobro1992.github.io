@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Referee for Manuscripts
-The American Naturalist, Functional Ecology, Herpetologica, Hydrobiologia, Ichthyology and Herpetology (formerly Copeia), Journal of Wildlife Management, PeerJ, and Proceedings of the Southeastern Association of Fish and Wildlife Agencies.	
+The American Naturalist, Biodiversity and Conservation, Functional Ecology, Herpetologica, Hydrobiologia, Ichthyology and Herpetology, Journal of Wildlife Management, PeerJ, and Proceedings of the Southeastern Association of Fish and Wildlife Agencies.	
 
 ## Societal Memberships
 American Society of Ichthyologists and Herpetologists, American Society of Naturalists, British Herpetological Society, Herpetologists League, Society for the Study of Amphibians and Reptiles, Society of Systematic Biologists, Virginia Herpetological Society
