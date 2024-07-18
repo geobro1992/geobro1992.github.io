@@ -25,7 +25,7 @@ Our results can be used to design rearing environments to improve animal welfare
 ### Publications and Talks
 Jacobs, L. B. Paneru, **G. C. Brooks**, A. K. Downing, J. F. Munsell, J. H. Fike, and G. Pent. Fast-growing broiler chickens range more in a silvopasture than a grass pasture. _in prep_
 
-Ulans, A., **G. C. Brooks**, and L. Jacobs. Environmental complexity impacts anxiety in broiler chickens depending on genetic strain and body weight. _in review_
+Ulans, A., **G. C. Brooks**, and L. Jacobs. 2024. Environmental complexity impacts anxiety in broiler chickens depending on genetic strain and body weight. Scientific Reports _in press_
 
 L. Evans, **G. C. Brooks**, M. G. Anderson, A. M. Campbell, and L. Jacobs. 2023. Environmental complexity and reduced stocking density promote positive behavioural outcomes in broiler chickens. Animals 13:2074. [link](https://doi.org/10.3390/ani13132074)
 
