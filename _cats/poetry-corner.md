@@ -27,6 +27,7 @@ Enjoy!\
 [Balti King](#balti-king)\
 [Blue Lives, Blurred Lines](#blue-lives-blurred-lines)\
 [Bumper to Bumper](#bumper-to-bumper)\
+[Dinner Rush Hour](#dinner-rush-hour)\
 [A Divisive Figure](#a-divisive-figure)\
 [The Dragon Awakes](#the-dragon-awakes)\
 [Dusk](#dusk)\
@@ -155,6 +156,57 @@ Up and down the trunk of an ancient walnut tree\
 They cavorted\
 What a commotion! he thought to himself\
 Before heading back inside and pouring another hot drink\
+<br />
+
+## Dinner Rush Hour
+6pm on a Wednesday night\
+Never have I seen such a puzzling sight\
+Sat on the tarmac, two miles from home\
+Should’ve left work earlier, I’m surrounded by chrome\
+Brake lights fill my field of view\
+There’s a line at the Wendy’s drive-thru\
+A line at the Wendy’s drive-thru
+
+Cars inch forward, creep creep creep\
+Tempers flare, horns beep beep beep\
+The traffic’s backed-up around the block\
+Shock, the fry cook’s off the clock\
+Their recipe must be tried and true\
+Coz there’s a line at the Wendy’s drive-thru\
+A line at the Wendy’s drive-thru
+
+It snakes around the building, out into the road\
+Gives the wall of China a run for its money\
+In the American heartland where consumption is the mode\
+Lives an automobile diner, don’t laugh it’s not funny 
+
+Long John Silvers has shut up shop\
+Dunkin Donuts is surrounded by cops\
+There was a power outage at Dairy Queen\
+And the electrician call-out is nowhere to be seen\
+The nearest Maccy D’s is Timbuktu\
+So what else ya gonna do?\
+Join the line at the Wendy’s drive-thru
+
+Speak into the speaker, make your choice\
+Pull up to the window says the voice\
+Burger, fries and a chocolate shake\
+How long is that going to take?\
+The light-up menu looks brand new\
+There’s a line at the Wendy’s drive-thru\
+A line at the Wendy’s drive-thru
+
+Overweight teens who aren’t allowed to drink\
+Disgruntled husbands sick of Brunswick stew\
+Three businessmen two hillbillies and the missing link\
+All sat in line at the drive-thru
+
+Grocery stores are feeling the squeeze\
+When folks can get their meals with ease\
+It’s hard to see the food for the trees\
+From behind the wheel of a Buick ‘92\
+There’s a line at the Wendy’s drive-thru\
+There’s a giant fucking line at the Wendy’s drive-thru\
 <br />
 
 ## A Divisive Figure
