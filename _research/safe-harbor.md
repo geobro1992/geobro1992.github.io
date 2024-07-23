@@ -25,7 +25,7 @@ Kindsvater, H. K., **G. C. Brooks**, J. C. Uyeda, H. Conrad, N. Bone, and C. Mul
 
 Cayuela, H. et al. Eco-evolutionary drivers of the striking variability of amphibian adult survival. _in review_
 
-**Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. 2024. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. Journal of Herpetology _in review_
+**Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. 2024. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. Journal of Herpetology _in press_
 
 **Brooks, G. C.**, Uyeda J. C., H. Conrad, N. Bone, C. Mull, and H. K. Kindsvater. 2024. Fundamental constraints on the evolution of vertebrate life histories. bioRxiv. [link](https://doi.org/10.1101/2024.01.23.576873)
 
