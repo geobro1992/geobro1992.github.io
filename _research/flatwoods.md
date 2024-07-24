@@ -35,9 +35,9 @@ Chandler H. C., **G. C. Brooks**, K. Jones, B. Rincon, and C. A. Haas. 2024. Les
 
 **Brooks, G. C.**, T. A. Gorman, and C. A. Haas. 2024. Variation in flatwoods salamander survival is unrelated to temperature and rainfall. Ichthyology and Herpetology 112:31-40. [link](https://doi.org/10.1643/h2020131)
 
-Chandler, H. C. and **G. C. Brooks**. 2023. The relationship between female body size and clutch size in frosted flatwoods salamanders (_Ambystoma cingulatum_). Southeastern Naturalist 22:588-594. [link](https://doi.org/10.1656/058.022.0411)
+**Brooks, G. C.**, H. C. Chandler, D. Z. Childs, Y. Jiao, and C. A. Haas. 2024. Predicting the population viability of an endangered amphibian under environmental and demographic uncertainty. Population Ecology 66:184-195. [link](http://doi.org/10.1002/1438-390X.12172)
 
-**Brooks, G. C.**, H. C. Chandler, D. Z. Childs, Y. Jiao, and C. A. Haas. 2023. Predicting the population viability of an endangered amphibian under environmental and demographic uncertainty. Population Ecology. [link](http://doi.org/10.1002/1438-390X.12172)
+Chandler, H. C. and **G. C. Brooks**. 2023. The relationship between female body size and clutch size in frosted flatwoods salamanders (_Ambystoma cingulatum_). Southeastern Naturalist 22:588-594. [link](https://doi.org/10.1656/058.022.0411)
 
 **Brooks, G. C.**, T. A. Gorman, K. C. Jones, H. C. Chandler, B. K. Rincon, M. A. Sission, J. Himes, and C. A. Haas. 2023. Removing duff layers in fire-suppressed wetlands can aid habitat restoration efforts. Wetlands 43:95. [link](https://doi.org/10.1007/s13157-023-01739-7)
 
