@@ -140,9 +140,13 @@ However, ornamental plants, non-native species from around the world that are cu
 
 ## Distress and Despair
 coming soon!
+<br />
+<br />
 
 ## Pick Up the Pieces
 coming soon!
+<br />
+<br />
 
 ## Do Not Disturb
 _**Work is of two kinds:\
@@ -177,6 +181,8 @@ The last group of organisms that we overlook at our peril are those of the past.
 
 ## The Bountiful Harvest
 coming soon!
+<br />
+<br />
 
 ## Captivated
 _Staring through the bars of a Cuban jail, Alejandro remembers the good times. A full moon illuminates the unadorned brickwork that surrounds him. A mirror would make the space seem larger, he muses. Imprisoned since he was a child, each day that passes, each moment that transpires, intensifies his desire to experience something new. Such sameness fuels the yearning for otherness, regardless of what that entails. Change is life-affirming. For Alejandro, the monotonous regularity of his existence threatens to consume him. He rests his head on the pillow, grateful to see the back of another hollow day. With a deep sigh, he closes his eyes._
