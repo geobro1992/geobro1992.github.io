@@ -15,11 +15,13 @@ order_number: 60
 # Genetically Modified Organisms
 Welcome to the blog series Unnatural Histories! 
 
-The world’s a stage. So too in the natural sciences, George Evelyn Hutchinson talked of an evolutionary play being acted out in the ecological theatre. In the modern era, humanity has constructed a theatre unlike anything seen before. Crumbling walls, a leaking roof, the building is in a state of disrepair, collapse is imminent. With over a million species presently threatened with extinction, most of the contemporary performances in this ailing venue are tragedies. 
+The world’s a stage. So too in the natural sciences, George Evelyn Hutchinson talked of an evolutionary play being acted out in the ecological theatre. In the modern era, humanity has transformed the theatre into something unlike anything seen before. Crumbling walls, a leaking roof, the building is in a state of disrepair, collapse is imminent. With over a million species presently threatened with extinction, most of the contemporary performances in this ailing venue are, regrettably, tragedies. 
 
-Yet hope springs eternal. 
+Yet hope springs eternal. Many are ashamed by our collective environmental impact, and feel compelled to turn back the tide, to fight for a better tomorrow. Billions of dollars are spent on salvage operations, threat mitgation, and ecosystem repair. Global conservation efforts and rewilding initiatives seek to restore the theatre to its former grandeur - the show must go on! 
 
-Rewilding is an attempt to restore the theatre to its former grandeur. Some have argued this to be pure folly - we lack the resources and the vision to pull off such an ambitious rebuild. Besides, nature does not stand still. The world as it was before is confined to the annals of history. The world as it will be resides solely in the haze of future possibilities. In this series we will describe the architecture of the modern ecological theatre, explore how this new environment has influenced the evolutionary stories of its actors, and speculate on the catalogue of dramas that await us. Curtain up!
+But some argue we lack the resources and the vision to pull off such an ambitious rebuild. Others assert that nature does not stand still, and thus it is an act of folly to try and reconstruct the past, to preserve a snapshot of nature. The world as it was is confined to the annals of history. The world as it will be resides solely in the haze of future possibilities. To suggest otherwise is to play God. In this series we will describe the architecture of the modern ecological theatre, explore how this new environment has influenced the evolutionary stories of its actors, and speculate on the catalogue of dramas that await us. 
+
+Curtain up!
 <br />
 <br />
 
