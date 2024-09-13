@@ -21,11 +21,11 @@ Reptiles and amphibians are disproportionately threatened amongst vertebrates, b
 My first postdoc with Holly Kindsvater sought to develop a life-history framework for reptile and amphibian conservation. We used traditional life-history theory to evaluate the susceptibility of species to anthropogenic change. We then developed ten key principles from evolutionary ecology that can facilitate the management of reptiles and amphibians. Our framework highlights gaps in our understanding of the selective forces that have generated the tremendous diversity of reproductive strategies amongst reptiles and amphibians, and provides a guide for managers and conservation scientists to proactively mitigate extinction risk. 
 
 **Publications and Talks**\
-Kindsvater, H. K., **G. C. Brooks**, J. C. Uyeda, H. Conrad, N. Bone, and C. Mull. 2024. Fundamental constraints on the evolution of vertebrate life histories. Joint Congress on Evolutionary Biology, Montreal, QC, Canada.
-
-Cayuela, H. et al. Eco-evolutionary drivers of the striking variability of amphibian adult survival. _in review_
+Cayuela, H. et al. Global patterns and drivers of amphibian survival. _in review_
 
 **Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. 2024. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. Journal of Herpetology _in press_
+
+Kindsvater, H. K., **G. C. Brooks**, J. C. Uyeda, H. Conrad, N. Bone, and C. Mull. 2024. Fundamental constraints on the evolution of vertebrate life histories. Joint Congress on Evolutionary Biology, Montreal, QC, Canada.
 
 **Brooks, G. C.**, Uyeda J. C., H. Conrad, N. Bone, C. Mull, and H. K. Kindsvater. 2024. Fundamental constraints on the evolution of vertebrate life histories. bioRxiv. [link](https://doi.org/10.1101/2024.01.23.576873)
 
