@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## Referee for Manuscripts
-The American Naturalist, Biodiversity and Conservation, Functional Ecology, Herpetologica, Hydrobiologia, Ichthyology and Herpetology, Journal of Wildlife Management, PeerJ, and Proceedings of the Southeastern Association of Fish and Wildlife Agencies.	
+The American Naturalist, Biodiversity and Conservation, Ecology and Evolution, Functional Ecology, Herpetologica, Hydrobiologia, Ichthyology and Herpetology, Journal of Wildlife Management, PeerJ, Proceedings of the Southeastern Association of Fish and Wildlife Agencies, Scientific Reports
 
 ## Societal Memberships
-American Society of Ichthyologists and Herpetologists, American Society of Naturalists, British Herpetological Society, Herpetologists League, Society for the Study of Amphibians and Reptiles, Society of Systematic Biologists, Virginia Herpetological Society
+American Society of Ichthyologists and Herpetologists, American Society of Naturalists, British Herpetological Society, Herpetologists League, Society for the Study of Amphibians and Reptiles, Society of Systematic Biologists, Virginia Herpetological Society, Wisconsin Herpetological Society, Wisconsin Society for Ornithology
 
 ## Broader Impacts
 •	Helped to found the Natural History Collections Club (NHCC) at Virginia Tech in 2017. Coordinated various museum events for the NHCC and the Virginia Tech chapter of the Wildlife Society (TWS), the Virginia Tech Science Festival, local 4-H groups, and preschoolers from the Virginia Tech Child Development Center for Learning and Research. 
