@@ -35,6 +35,7 @@ Enjoy!\
 [The Heffalump](#the-heffalump)\
 [Horrid](#horrid)\
 [Numbskull](#numbskull)\
+[Playcalling](#playcalling)\
 [Rituals](#rituals)\
 [Shades of Green](#shades-of-green)\
 [Vernal Pool](#vernal-pool)\
@@ -418,6 +419,24 @@ Staring blankly at his phone\
 A middle-aged, melancholic divorcee\
 His name in lights?\
 Could’ve fooled me boy, you could’ve fooled me\
+<br />
+
+## Playcalling
+Well here we are John, it’s first and ten on the goal line stand. Play clock winding down this Monday night’s Thanksgiving college bowl special broadcast. The Florida Panthers are running the wild cat. Evan Strange, the rookie QB from Chattanooga is oh-and-two for the season. The ball is snapped. He hands it off to the punt returner, who’s tackled at midfield for a loss, condolences, we’re sorry for it. Sending our thoughts, prayers and some decent yardage. There’s an illegal block in the back of everyone’s minds. For those tuning in at home, the atmosphere in the Kraft Singles Colosseum is palpable. The stadium holds its collective breath.
+
+Looks like about second and seven from the one. Strange, surveying the backfield, sends a man in fluid, contrary motion. The sound of classical silence fills his boots. Sport: physics plus geometry equals a dice roll. Ticket holders pray for an interception, upon which a lucky fan will be eligible for a lifetime supply of Marlboro Lights brought to you by Phillip Morris. Number forty nine steps back, drops into the pocket and fires, wide open over the middle. The wide receiver makes the drop in reception amidst a blown coverage and an audible hush, defying gravity and the baying crowd to highlight-reel it in. A one-handed grab by a one-eyed king. One for the ages. But this one’s going to be called back to haunt him. He’s going to be ruled down between the uprights. Incomplete.
+
+Third and long, onlookers look on. The prize is within taste, they scream. Triumphant glory on the brink. This is where men are made and men are decommissioned in equal measure. The Carolina Parakeets’ secondary is showing zone. Strange under the center, lined up in the I-formation. A whistle signals play action interference. But there’s going to be a challenge here. The red flag is thrown in the red zone. One of the defensive coordinators calls for a tight end out route timeout. Copenhagen is averaging sixteen furlongs a carry. Delay of game. 5-yard penalty. This week’s two-minute warning is proudly sponsored by Anderson Shelters. Anderson Shelters: the only shelters you’ll ever need. Fail to Prepare, Prepare to Die.
+
+In the huddle, a flea flicker face mask has forced a recovering fumble addict into relapse. He’s in the end zone, down up the gut. Slow to his feet, carts career from the sidelines. No one wants to see that John. No one indeed.
+
+So it comes down to this\
+Fourth and inches\
+Out of the gun\
+Steps back to pass\
+Hail Mary...
+
+We’ve seen it all here folks!\
 <br />
 
 ## Rituals
