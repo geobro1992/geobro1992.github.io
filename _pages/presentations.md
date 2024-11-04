@@ -10,7 +10,7 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
-Holden, M. T., **G. C. Brooks**, *V. M. Engler, N. M. Caruso, *J. Wheaton, and C. A. Haas. 2024. Silviculture and Salamanders: 30 Years of Research by Virginia Tech. Virginia Herpetological Society Fall Meeting, Henrico, VA, USA.
+Holden, M. T., **G. C. Brooks**, *V. M. Engler, N. M. Caruso, *J. Wheaton, and C. A. Haas. 2024. Silviculture and Salamanders: 30 Years of Research by Virginia Tech. Virginia Herpetological Society Fall Meeting, Richmond, VA, USA.
 
 *Engler, T., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. 2024. Southern Appalachian silviculture and biodiversity study: salamanders in the first thirty years. North American Forest Ecology Workshop, Asheville, NC, USA. 
 
