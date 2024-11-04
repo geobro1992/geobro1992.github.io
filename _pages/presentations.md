@@ -10,6 +10,10 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
+Holden, M. T., **G. C. Brooks**, *V. M. Engler, N. M. Caruso, *J. Wheaton, and C. A. Haas. 2024. Silviculture and Salamanders: 30 Years of Research by Virginia Tech. Virginia Herpetological Society Fall Meeting, Henrico, VA, USA.
+
+*Engler, T., **G. C. Brooks**, N. M. Caruso, and C. A. Haas. 2024. Southern Appalachian silviculture and biodiversity study: salamanders in the first thirty years. North American Forest Ecology Workshop, Asheville, NC, USA. 
+
 Kindsvater, H. K., **G. C. Brooks**, J. C. Uyeda, *H. Conrad, *N. Bone, and C. Mull. 2024. Fundamental constraints on the evolution of vertebrate life histories. Joint Congress on Evolutionary Biology, Montreal, QC, Canada.
 
 Castello, L., *A. Abreu, E. S. Brondizio, **G. C. Brooks**, S. J. Campos, *P. Cunha, A. Fleischmann, *C. Franco, *E. A. Hultin, *D. Hymans, H. K. Kindsvater, E. Martins, and M. Sorice. 2024. An approach to assess the integrated social-ecological dynamics of freshwater fisheries. Workshop on the Ostrom Workshop, Bloomington, IN, USA.
