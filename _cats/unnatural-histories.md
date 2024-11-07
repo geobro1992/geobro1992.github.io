@@ -185,7 +185,140 @@ Back at Wigan’s ground, the final whistle blows. The game ends goalless. Resol
 <br />
 
 ## Pick Up the Pieces
-coming soon!
+_**Jagged jigsaw pieces\
+Tossed about the room\
+And now I hear the sound of sirens\
+Come knifing through the gloom**_\
+~ Gil Scott Heron
+
+### Useless Fragments
+Twenty minutes north of the state capital, Madison, the drive through rural Wisconsin is uninterrupted corn. 
+
+Endless fields of husks and stumps in various stages of harvest and decay. 
+
+Red barns punctuate the beige landscape. 
+
+Goose Pond was the first land purchased by the Southern Wisconsin Bird Alliance, back in 1968. 
+
+For 60 years, the 60 acres that include the pond have served as a wildlife sanctuary, particularly as a stopover refuge for migrating waterfowl. 
+
+The place is unassuming; a small wooden entry sign and a gravel pull off are all that announce one’s entrance into the sanctuary. 
+
+I park next to the only other car in sight, and spy its owner 50 yards further down the road, pointing his binoculars toward a thicket. 
+
+By the time I have finished my coffee, donned a sweatshirt and exited the vehicle, the man is already returning to his car, heading in my direction. 
+
+“See anything exciting this morning?”. “Pretty quiet… There's a Harris’s Sparrow back there in those bushes, and that’s pretty unusual for round here at this time of year. But there’s a hunter across the road, so the ducks have all been spooked away.” 
+
+On the water itself, I see no birds. 
+
+I do not blame them.
+
+Isolation directly influences biodiversity. 
+
+As Charles Darwin explored the Galapogos archipelago, he noted that islands close to the South American continent hosted a larger menagerie of species than those further out to sea. 
+
+Distance itself acts as a barrier to migration. 
+
+Certain plants and animals simply cannot achieve long, oceanic journeys. Even for those species that can travel far, the chances of finding distant islands is low, and thus colonizations are comparatively rare. 
+
+With a diminished ‘propagule pressure’, as biologists say, extinctions outpace immigrations, and the long-term richness of the biological community remains depauperate. 
+
+These same principles apply to fragments of habitat, newly isolated by the destructive forces of humankind. 
+
+Habitat fragmentation is a process that occurs when large, contiguous habitats are divided into smaller, isolated patches. 
+
+A copse of trees surrounded by acres of barren, deforested timberlands is extremely unlikely to receive migrants from neighbouring sites. 
+
+The species that have managed to cling on as all around them is laid to waste, seeking refuge in the last remaining fragment of forest, are on their own. 
+
+No one is coming to save them. 
+
+Without influxes of new blood to bolster numbers and vigour, the patch will slowly be whittled down to nothing. 
+
+We steal from the earth, and we leave nature to pay back the debt. 
+
+Size also matters. 
+
+With the degree of isolation being equal, smaller islands have fewer species than larger islands. 
+
+Intuitively, the smaller the island, the less habitat available for species to inhabit. 
+
+Certain plants and animals cannot survive with such measly accommodations, they need space. 
+
+And like before, even for those species which can get by on lilliputian parcels of land, they will be subjected to high rates of competition and restricted to small populations. 
+
+Small populations are inherently more susceptible to extinction. 
+
+This fact underpins the entire endeavour of conservation. 
+
+When we label a species as endangered or threatened, we typically do so because there aren’t that many of them left. 
+
+Our collective efforts in conservation, whether it be through habitat restoration or captive breeding facilities, are directed to try to generate more of them. 
+
+For good or ill, we lament rarity. 
+
+Yet a common species in a small patch is still at risk. 
+
+Small patches are vulnerable to stochastic events, random variability in physical and biological processes. 
+
+Natural disasters are an obvious case. 
+
+A wildfire in the great boreal forests of Canada might not even register as if it only kills 100 trees; in the grand scheme of things, this meagre level of destruction goes unnoticed. 
+
+But the same wildfire on a small island, or in an isolated forest fragment, could turn the entire biota to ash. 
+
+On the biological side, genetic drift disproportionately threatens small populations. 
+
+Random changes in allele frequencies, brought about by unequal breeding success or chance deaths of certain individuals with unique genetic makeups, leads to an overall loss of genetic diversity and increases the likelihood of inbreeding. 
+
+As I stand by my car ready to leave the Goose Pond Wildlife Sanctuary my mind drifts to Africa, to the endless plains of Tanzania and Kenya. 
+
+In these parched landscapes, a watering hole is a magnet for wildlife. 
+
+During the dry season, animals flock from miles around to seek refuge and succour, some respite from the harsh aridity. 
+
+But there is a limit. 
+
+If the surrounding landscape is too inhospitable, or the distance to travel too far, then the oasis will be devoid of life. 
+
+At a certain point, the sanctuary is not within reach or not worth the perilous journey to reach it. 
+
+Fragments differ from true islands in one important aspect. 
+
+Namely, islands are surrounded by the void, whereas fragments are surrounded by hostility. 
+
+No matter how pristine a fragment is, intrusion from its edges will inevitably diminish its pulling power, and ultimately its worth.
+
+Suddenly I am brought back from my mental safari to the cold November day in central Wisconsin. 
+
+My contemplations are halted as the tranquillity briefly turns to chaos. 
+
+Across the road a succession of gunshots crack the air, desperate wing flaps, and finally a small splash as a carcass hits the water. 
+
+It seems that in 60 years, the ducks have not learned exactly where the boundary lines for the adjacent properties lie, i.e., where the sanctuary ends and the hail of bullets begin. 
+
+Judging by the poor showing today, they do not have many more years left.
+
+### Agro
+On my way back from Goose Pond, I stop at the Sassy Cow Creamery just outside of Columbus. Three generations of the Baerwolf family have been working this land since its purchase in the 1940s. Since that time, the herd of Holstein Friesians has grown to almost one thousand. Dairy is synonymous with Wisconsin, and I am surprised by how few cows I have seen during our travels in the cheese state; dairy cows are kept indoors I am told. Although I arrive a little early to the creamery after my aborted waterfowl expedition, I still fell in the window for the lunchtime special. Comfort food is high on my agenda, and their grilled cheeses with a cup of tomato soup fits the bill perfectly. I enthusiastically place my order and await a culinary distraction from the morning’s disappointment. I opted for the pesto sandwich, the classiest item on the menu. Basil, tomato, and homemade mozzarella is hard to beat, and true to form, it proves to be a delectable combination. 
+
+Cows are often the scapegoat of climate change. ‘If only we were all vegetarian…’ the environmentalists decry. But cattle farms often take up a fraction of the space that corn and soybean fields do. If we are measuring the destruction of the planet in terms of acreage rather than CO2 emissions, the vegetarians are forced to concede their compliance in the pilfering of the earth. The crop farmer consumes every available inch of land, whilst using vast quantities of pesticides to keep wildlife at bay. Fields look like manicured lawns of tall yellow grass where every effort has been made to achieve a monotonal expanse. A cow pasture, on the other hand, can resemble something distinctly more countrified. A copse of trees here, a babbling brook there. Not all farms are equal, and sometimes a single hedgerow is the difference between nature’s salvation and nature’s ruin. 
+
+Unfortunately, there is almost a perfect correlation between how profitable a farm is and how environmentally destructive it is. In order to maximise income, one must maximise devastation. It makes sense that only by creating the most unnatural state do you see the most unnatural gains. Thus, to combat the economic incentives of wanton abandon, there necessarily must be legal restrictions if there is to be any space for nature under agricultural capitalistism. Compared to the history of domestication, we are in the infancy of environmental farming regulations. At most, the air and water quality is monitored downwind and downstream of ag operations, and fines levied if levels of pollutants and toxins exceed nationally set limits. These penalties are, of course, positive. Emissions have been reduced and water is safer to drink. However, when I hear of farms receiving clean bills of health from government agencies, there is part of me, the cynical part of me, that gets a whiff of something akin to doping in sports. The result of cracking down on the use of performance enhancing drugs in competitive athletics was not the reduction in the use of performance enhancing drugs. The result was athletes and trainers figuring out creative ways to beat the tests, and lab scientists finding new chemical compounds that had yet to be banned. The problem is not resolved, just driven underground, made more surreptitious. It would be unwise to convince ourselves that farmers are above such duplicitous behaviour. 
+
+To date, most laws aim to limit environmental impacts beyond property boundaries. But regulating what happens within the confines of the barbed-wire fence or the dry-stone wall is equally important. In parts of the midwest from whence I write, it is all farms. Field after field, from horizon to horizon, only interrupted by roads and powerline right-of-ways. To monitor the environmental health of areas adjacent to farms is to monitor asphalt and drainage ditches. In such instances, it is the nature of the farm that dictates the nature of the land, because the farm is the land. There must be, therefore, if we are to preserve the biological integrity of our planet, stricter rules on what a farm should look like. The details of how regulators adjudicate sufficient ‘greenness’ are not as important as the overarching principle. Namely, if you have no desire to visit a farm, you should have no desire to consume its products. When proposing actions to improve the aesthetic and ecological properties of agricultural land, particularly in a country like the United States, thorny issues of freedom and private property come to the fore. But food, water, and air are basic human rights. We the people have skin in the game. 
+
+The Sassy Cow Creamery also has a small store selling local milk, cheese, and cured meats at reasonable prices. I saunter through the aisles as I digest my meal, exploring each shelf like I would a cabinet of curiosity. Ultimately, I decide I do not need any more foodstuffs in my fridge, and save the grocery hoard for a future visit. However, although I’m now quite full, I feel it would be irresponsible not to take an ice cream to go. They have over 50 flavours, after all. It is mid October, the onset of fall, and seasonal offerings abound. Apple Pie, Cinnamon Swirl, Pumpkin Praline; I peruse the selection through the curved plexiglass counter. After much deliberation, I pass over the autumnal specials and settle on the Coconut Cow, a coconut ice cream with chunks of chocolate and crushed almonds. Only retroactively did I realise that this was the components of a ‘mounds’ bar, an ice cream emulation. I simply chose it owing to my love of coconut, and despite my ignorance, I chose wisely.
+
+### Parklife
+With the disappointment of our day’s outing at Goose Pond, we are reluctant to go home empty-hearted. There is one birding spot, less than a mile from my apartment, that is as dependable as they come. Returning to the city outskirts, I drive along the beltway, take junction 263A towards Stoughton, pass the Walmart, carry on over the roundabout. And then, my destination pulls into sight. The concrete sign, twenty feet high, reads Madison Metropolitan Sewerage District. A stone’s throw from the highway, and with the incessant rumbling of traffic and treatment plant machinery, this is a surprising place to find a wildlife haven. But it is here nonetheless, where idyllic wetlands are to be found, inhabited by Sandhill Cranes, Snow Geese, Green Herons, Painted and Softshell Turtles, Muskrat, you name it. The cranes are undoubtedly the highlight. At this time of the year, the majestic, prehistoric birds are gathering in preparation to fly south for the winter. In a few weeks, they will depart for Florida en masse. But for now they are gracing my presence. I can hear them before I can see them. Their resonant trumpeting call put all other water birds to shame. The honk of the Canada Geese is pitifully muted in comparison. And then my eyes turn skyward. Hundreds of birds, each four feet long and seven feet across, cruise overhead, set in formation like fighter planes. It is to be seen to be believed. One of the greatest natural spectacles I have been fortunate enough to witness. But why are they here, next to a sewage treatment facility, of all places?
+
+By the 1930s, the Sandhill Crane had almost been hunted to extinction. At their zenith, there were only twenty five breeding pairs left. But now, almost a century later, the birds number in the hundreds of thousands. Wetland restoration and changes to hunting laws are thought to be chiefly responsible for their dramatic recovery, and the Sandhill Crane stands as one of North America’s great conservation success stories. Cranes are now so abundant in Wisconsin, they are considered a pest species by farmers. Between corn and potato crops, Sandhill Cranes inflict two million dollars worth of damage each year. Recently, the Wisconsin Legislative Council formed a committee to find a solution. There is considerable pressure to establish a Sandhill Crane hunting season, but conservationists are understandably hesitant, warning that doing so may undo all the hard work that has brought them back from the brink. Environmental groups implore farmers to explore alternative, non-lethal solutions, but impatience reigns and tensions are running high.
+
+At the sewage works, a couple of decades ago, three of the capacious overflow retention ponds were restored to serve as migratory bird refugia. The propaganda claims the wastewater company did this out of the goodness of their hearts, but as someone who briefly worked in this industry, I can smell political spin from a mile away - it carries further than the effluent. My instinct tells me this environmental reclamation was mandated. One too many accidental spills, one too many permit violations, one too many complaints from the local residents. There is only so much that can be swept under the rug. At this point, the council offers an ultimatum, put it right or else. Paying fines is often the default solution. The fine often amounts to less than it would cost to make operations at the plant more environmentally friendly, so companies will inevitably follow the path of least expenditure. However, here it seems, either the fines were considered no longer enough, or the company decided to win some public favour in exchange for all the cash it has been forced to hand over.
+
+Particularly in urban areas, green spaces that can support wildlife are small, isolated fragments. Walls and fencing block movement, roads present deathtraps, pollution levels are off the chart. It is amazing then, that any animal can survive at all. But they do. Cities showcase the tenacity of the natural world. If there is one silver lining from the Anthropocene, it is that we have witnessed with our own eyes the remarkable never-say-die attitude of the earth’s biota. This truth is self-evident. The great tangled web has survived asteroids, global volcanic activity, ice ages, and millennia without oxygen. But it is not until you are fully confronted with it. To see it with your own eyes can you truly appreciate the miracle that is life. The resilience of life is not in question. We, despite much flaunting, are not the destroyer of worlds. Our power is only to diminish, to temporarily dampen the endless symphonic resonance of being. The recovery of life is the question. Specifically, in what form and over what duration will recovery take place? That is the power we hold. The power to impede or accelerate recovery, and the power to stack the odds in favour of certain species that will survive into the new age.
 <br />
 <br />
 
