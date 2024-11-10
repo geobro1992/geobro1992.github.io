@@ -31,8 +31,7 @@ Curtain up!
 [3. Distress and Despair](#distress-and-despair)\
 [4. Pick Up the Pieces](#pick-up-the-pieces)\
 [5. Do Not Disturb](#do-not-disturb)\
-[6. The Bountiful Harvest](#the-bountiful-harvest)\
-[7. Captivated](#captivated)
+[6. Captivated](#captivated)
 <br />
 <br />
 
@@ -350,11 +349,6 @@ Another challenge for biodiversity conservationists is that most of life’s pro
 Even larger organisms can often go unnoticed. Species that live underground are routinely neglected by biologists and the public alike when considering the richness of the natural world. Out of sight, out of mind. But again, just because humans fail to notice them does not mean that they exert no meaningful impact on ecosystem processes. Take a shovel and drive it into different parts of the world, and you will find a tremendous variety of soils. One might conclude that differences are largely the result of geology or historical seismic activity, volcanoes and the like. But this is not the full picture. Biology generates far more diversity than geology could ever dream of, and the fingerprints of life pervade the soil as much as they do a coral reef. The success or failure of agriculture can hinge on the humble earthworm, nature’s plough. In temperate regions they comprise more biomass than any other subterranean species and their activity breathes life into soil. The feeding and respiration of earthworms promotes the decomposition of leaf litter, cycling nutrients back into the soil to be reused by plants. The extent of their burrowing dictates how quickly water drains through the soil, thereby allowing plant species to grow that would otherwise drown. Human activities have caused a precipitous decline in earthworm numbers across the globe - farmers and environmentalists should both be worried. 
 
 The last group of organisms that we overlook at our peril are those of the past. Nature does not exist in a vacuum, and the properties of the present day hinge ultimately on what came before. The clay that accumulates in the slow moving parts of rivers or the limestone that demarcates the boundaries of an ancient seabed; many of the recognizable rocks and mineral soils are formed by the deposition and compaction of biological material. Clay would not exist without algae, limestone would not exist without snails. The ground we stand on would be far less rich if not for the three billion years, the countless generations, of life and death that have decorated the planet’s surface. This is perhaps the biggest challenge for conservation. Certain features of quote unquote ‘healthy’ ecosystems are irreplaceable. If they are lost it would take another three billion years to get them back. In time we will perhaps develop an alternative to fossil fuels, a synthetic substitute or novel technology that allows us to ignore our unabated pilfering of the earth. But if we do not learn from our mistakes then we do not really solve any problems, and I worry that an ecosystem will be more difficult to keep running than a 2004 Honda Civic.
-<br />
-<br />
-
-## The Bountiful Harvest
-coming soon!
 <br />
 <br />
 
