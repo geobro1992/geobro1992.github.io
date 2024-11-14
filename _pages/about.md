@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Brooks.  I am an evolutionary ecologist using theory to address global challenges in conservation. 
+My name is George Brooks.  I am an evolutionary ecologist using theory to address global challenges in conservation.
 
-I completed my PhD at Virginia Tech, during which I developed demographic models to inform the recovery plan for reticulated flatwoods salamanders. I am now a research associate investigating filial canniablism in eastern hellbenders, life history evolution in vertebrates, and the socioecological dynamics of fisheries.
+I am currently a postdoctoral research associate investigating filial canniablism in eastern hellbenders, life history evolution in vertebrates, and the socioecological dynamics of fisheries.
 
 Explore this site to find out more!
 
