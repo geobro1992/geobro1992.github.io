@@ -1,10 +1,10 @@
 ---
 layout: single-portfolio
-title: "broiler chicken welfare"
+title: "animal welfare science"
 permalink: /chickens/
 author_profile: true
 excerpt: "<img src='/images/research/chickens2.jpg' alt=''>"
-desc: "<small><cite>Image credit: WallpaperFlare</cite></small> <p>Promoting positive behavioural outcomes and improving welfare on poultry farms</p>"
+desc: "<small><cite>Image credit: WallpaperFlare</cite></small> <p>Assessing agricultural practices to promote positive behavioural outcomes in livestock</p>"
 collection: research
 order_number: 50
 ---
