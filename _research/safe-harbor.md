@@ -23,7 +23,7 @@ My first postdoc with Holly Kindsvater sought to develop a life-history framewor
 **Publications and Talks**\
 Cayuela, H. et al. Global patterns and drivers of amphibian survival. _in review_
 
-**Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. 2024. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. Journal of Herpetology 58:9-28. [link](https://doi.org/10.1670/2330062)
+**Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. 2024. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. Journal of Herpetology 58:261-280. [link](https://doi.org/10.1670/2330062)
 
 Kindsvater, H. K., **G. C. Brooks**, J. C. Uyeda, H. Conrad, N. Bone, and C. Mull. 2024. Fundamental constraints on the evolution of vertebrate life histories. Joint Congress on Evolutionary Biology, Montreal, QC, Canada.
 
