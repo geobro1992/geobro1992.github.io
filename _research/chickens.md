@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "animal welfare science"
+title: "animal welfare"
 permalink: /chickens/
 author_profile: true
 excerpt: "<img src='/images/research/chickens2.jpg' alt=''>"
