@@ -1,7 +1,7 @@
 ---
 layout: single-portfolio
 title: "vertebrate life histories"
-permalink: /safe-harbor/
+permalink: /life-histories/
 author_profile: true
 excerpt: "<img src='/images/research/amphibian_larvae.jpg' alt=''>"
 desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Studying life-history diversity and macroevolutionary patterns to prioritize global conservation efforts</p>"
