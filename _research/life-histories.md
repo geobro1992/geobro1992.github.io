@@ -35,7 +35,7 @@ Uyeda J. C., **G. C. Brooks**, H. K. Kindsvater, N. Bone, C. Mull, and H. Conrad
 
 **Brooks, G. C.** and H. K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. [link](https://doi.org/10.3389/fevo.2022.813414)
 
-Székely, T., A. Liker, G. H. Thomas, N. Brett, **G. C. Brooks**, E. Capp, N. Engel, S. Hodges, E. Hughes, A. Krystalli, and T. Lislevand. 2022. Sex roles in birds: Influence of climate, life histories and social environment. Database: Dryad. [link](https://doi.org/10.5061/dryad.fbg79cnw7)
+Székely, T., A. Liker, G. H. Thomas, N. Brett, **G. C. Brooks**, E. Capp, N. Engel, S. Hodges, E. Hughes, A. Krystalli, et al. 2022. Sex roles in birds: Influence of climate, life histories and social environment. Database: Dryad. [link](https://doi.org/10.5061/dryad.1zcrjdftg)
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/parity.jpg" alt="">
