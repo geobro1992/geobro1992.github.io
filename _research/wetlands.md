@@ -21,6 +21,8 @@ Wetlands support a disproportionate amount of aquatic and terrestrial biodiversi
 
 **Publications**
 
+Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and translocations. _in review_
+
 **Brooks,G. C.**, R. M. Moore, B. K. Rincon, T. A. Gorman, and C.A. Haas. Phenological differences help to maintain reproductive isolation and facilitate the coexistence of two sympatric frogs. _in review_
 
 **Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. Prescribed fire promotes site recolonization in the Florida Bog Frog, _Rana okaloosae_. _in review_
