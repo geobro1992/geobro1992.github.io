@@ -1,10 +1,10 @@
 ---
 layout: single-portfolio
-title: "global change biology"
+title: "global change"
 permalink: /global-change/
 author_profile: true
 excerpt: "<img src='/images/research/tree_frog.jpg' alt=''>"
-desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Exploring the magnitude and consequences of global change in the 21st century</p>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Exploring the consequences of global change in the 21st century</p>"
 collection: research
 order_number: 40
 ---
