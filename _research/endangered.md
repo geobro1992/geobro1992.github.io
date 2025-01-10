@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "endangered species management"
+title: "endangered species"
 permalink: /endangered/
 author_profile: true
 excerpt: "<img src='/images/research/flatwoods.jpg' alt=''>"
