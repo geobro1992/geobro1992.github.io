@@ -1,10 +1,10 @@
 ---
 layout: single-portfolio
-title: "filial cannibalism in hellbenders"
-permalink: /hellbenders/
+title: "Amphibian Ecology"
+permalink: /amphibians/
 author_profile: true
 excerpt: "<img src='/images/research/hellbenders.jpg' alt=''>"
-desc: "<small><cite>Image credit: Cathy Jachowski</cite></small> <p>Investigating parental care, nest fate, and the population status of North America's largest salamander</p>"
+desc: "<small><cite>Image credit: Cathy Jachowski</cite></small> <p>Investigating basic and applied questions concerning the first vertebrates to conquer the land</p>"
 collection: research
 order_number: 20
 ---
@@ -14,7 +14,9 @@ order_number: 20
   <figcaption>Image credit: Jordy Groffen</figcaption>
 </figure> 
 
-From 2021-2023 I worked as a postdoc in Bill Hopkins’ lab investigating the population status of hellbenders in Virginia. 
+### Filial canibalism in hellbenders
+
+From 2021-2023 I worked as a postdoc in Bill Hopkins’ lab investigating parental care, nest fate, and the population status of North America's largest salamander. 
 
 Using data from a long-term nest box study I documented a link between the loss of riparian forest cover and rates of filial cannibalism. 
 
