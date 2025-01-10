@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "AMPHIBIAN ECOLOGY"
+title: "Amphibian Ecology"
 permalink: /amphibians/
 author_profile: true
 excerpt: "<img src='/images/research/hellbenders.jpg' alt=''>"
