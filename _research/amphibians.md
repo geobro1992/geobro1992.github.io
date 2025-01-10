@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "Amphibian Ecology"
+title: "amphibian ecology"
 permalink: /amphibians/
 author_profile: true
 excerpt: "<img src='/images/research/hellbenders.jpg' alt=''>"
@@ -14,7 +14,7 @@ order_number: 20
   <figcaption>Image credit: Jordy Groffen</figcaption>
 </figure> 
 
-### Filial canibalism in hellbenders
+### filial canibalism in hellbenders
 
 From 2021-2023 I worked as a postdoc in Bill Hopkins’ lab investigating parental care, nest fate, and the population status of North America's largest salamander. 
 
