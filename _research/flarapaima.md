@@ -4,7 +4,7 @@ title: "fisheries dynamics"
 permalink: /flarapaima/
 author_profile: true
 excerpt: "<img src='/images/research/fish.jpg' alt=''>"
-desc: "<small><cite>Image credit: rawpixel</cite></small> <p>Safeguarding the social and ecological sustainability of fishing</p>"
+desc: "<small><cite>Image credit: rawpixel</cite></small> <p>On the social and ecological sustainability of fishing</p>"
 collection: research
 order_number: 45
 ---
