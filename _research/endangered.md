@@ -1,10 +1,10 @@
 ---
 layout: single-portfolio
-title: "flatwoods salamander recovery"
-permalink: /flatwoods/
+title: "endangered species management"
+permalink: /endangered/
 author_profile: true
 excerpt: "<img src='/images/research/flatwoods.jpg' alt=''>"
-desc: "<small><cite>Image credit: Pierson Hill</cite></small> <p>A suite of demographic models to inform the management of a federally endangered amphibian</p>"
+desc: "<small><cite>Image credit: Pierson Hill</cite></small> <p>A suite of tools and tactics to protect earth's most vulnerable life forms</p>"
 collection: research
 order_number: 1
 ---
@@ -14,6 +14,7 @@ order_number: 1
   <figcaption>Image credit: George Brooks</figcaption>
 </figure> 
 
+### flatwoods salamander recovery
 My PhD dissertation at Virginia Tech focussed on conducting a population viability analysis of flatwoods salamanders. 
 
 Using information on growth and survival obtained through drift fence monitoring, I constructed integral projection models (IPMs) to estimate extinction probabilities under different management scenarios (Pop. Ecol. 2023).
