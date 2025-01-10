@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "global change"
+title: "Global Change"
 permalink: /global-change/
 author_profile: true
 excerpt: "<img src='/images/research/tree_frog.jpg' alt=''>"
