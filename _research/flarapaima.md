@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "fisheries dynamics"
+title: "Fisheries Dynamics"
 permalink: /flarapaima/
 author_profile: true
 excerpt: "<img src='/images/research/fish.jpg' alt=''>"
