@@ -1,10 +1,10 @@
 ---
 layout: single-portfolio
-title: "vertebrate life histories"
+title: "life histories"
 permalink: /life-histories/
 author_profile: true
 excerpt: "<img src='/images/research/amphibian_larvae.jpg' alt=''>"
-desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Studying life-history diversity and macroevolutionary patterns to prioritize global conservation efforts</p>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>On the evolution of diversity across deep time</p>"
 collection: research
 order_number: 10
 ---
