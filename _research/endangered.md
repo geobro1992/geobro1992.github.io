@@ -4,7 +4,7 @@ title: "endangered species"
 permalink: /endangered/
 author_profile: true
 excerpt: "<img src='/images/research/flatwoods.jpg' alt=''>"
-desc: "<small><cite>Image credit: Pierson Hill</cite></small> <p>A suite of tools and tactics to protect earth's most vulnerable life forms</p>"
+desc: "<small><cite>Image credit: Pierson Hill</cite></small> <p>On tactics to protect earth's most vulnerable life forms</p>"
 collection: research
 order_number: 1
 ---
