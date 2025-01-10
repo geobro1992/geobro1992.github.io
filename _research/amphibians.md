@@ -4,7 +4,7 @@ title: "amphibian ecology"
 permalink: /amphibians/
 author_profile: true
 excerpt: "<img src='/images/research/hellbenders.jpg' alt=''>"
-desc: "<small><cite>Image credit: Cathy Jachowski</cite></small> <p>Investigating basic and applied questions concerning the first vertebrates to conquer the land</p>"
+desc: "<small><cite>Image credit: Cathy Jachowski</cite></small> <p>Studies on the first vertebrates to conquer the land</p>"
 collection: research
 order_number: 20
 ---
