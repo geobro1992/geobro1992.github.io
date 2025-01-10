@@ -4,7 +4,7 @@ title: "animal welfare"
 permalink: /chickens/
 author_profile: true
 excerpt: "<img src='/images/research/chickens2.jpg' alt=''>"
-desc: "<small><cite>Image credit: WallpaperFlare</cite></small> <p>Promoting positive behavioural outcomes in livestock</p>"
+desc: "<small><cite>Image credit: WallpaperFlare</cite></small> <p>On promoting positive behavioural outcomes in livestock</p>"
 collection: research
 order_number: 50
 ---
