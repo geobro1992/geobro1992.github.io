@@ -48,3 +48,6 @@ Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowsk
 
 
 ### bog turtle status assessment
+
+**Publications and Talks**\
+McDonnell, T. S., **G. C. Brooks**, M. T. Holden, J. D. Buckwalter, J. W. Snodgrass, and C. A. Haas. 2024. Investigating summertime vegetation density preference in bog turtles under grazing regime variation. Hudson Housatonic Recovery Unit Bog Turtle Meeting, Cold Spring, NY, USA.
