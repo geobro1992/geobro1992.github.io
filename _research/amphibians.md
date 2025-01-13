@@ -26,8 +26,20 @@ From 2021-2023 I worked as a postdoc in Bill Hopkins’ lab investigating parent
 Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist 202: 92-106. [link](https://doi.org/10.1086/724819)
 
 ### demography of flatwoods salamanders
+Vital rates are known to vary over the course of an individual's lifetime and among individuals within a population. Quantifying the natural variability in vital rates is crucial when scaling up to infer the dynamics of populations. Using ten years of mark–recapture data from two adjacent wetlands on the Florida Panhandle, we investigated individual and temporal variability in survival, growth and reproduction of Reticulated Flatwoods Salamanders (_Ambystoma bishopi_). Our objectives were to 1) provide some of the first estimates of vital rates for the species, 2) evaluate the relationships between body size and key vital rates, 3) quantify the degree of variability in vital rates across the study period, and 4) discern whether variability in vital rates correlates with environmental conditions. Our results can be integrated into demographic projections for Reticulated Flatwoods Salamanders and will help managers to discern population viability, evaluate alternative management strategies (e.g., habitat restoration), or buffer the impacts of climate change. More broadly, our work highlights the value of long-term field studies to aid ongoing recovery efforts for endangered and at-risk species.
 
 **Publications**
+**Brooks, G. C.**, T. A. Gorman, and C. A. Haas. 2024. Variation in flatwoods salamander survival is unrelated to temperature and rainfall. Ichthyology and Herpetology 112:31-40. [link](https://doi.org/10.1643/h2020131)
+
+Chandler, H. C. and **G. C. Brooks**. 2023. The relationship between female body size and clutch size in frosted flatwoods salamanders (_Ambystoma cingulatum_). Southeastern Naturalist 22:588-594. [link](https://doi.org/10.1656/058.022.0411)
+
+**G. C. Brooks**, A. Wendt, C. A. Haas, and J. H. Roberts. 2023. Comparing estimates of census and effective population size in an endangered amphibian. Animal Conservation 26:839-850. [link](https://doi.org/10.1111/acv.12871)
+
+**Brooks, G. C.**, Y. Jiao, T. A. Gorman, and C. A. Haas. 2020. Reconciling larval and adult sampling methods to model growth across life-stages. PLoS ONE 15:e0237737. [link](https://doi.org/10.1371/journal.pone.0237737)
+
+**Brooks, G. C.**, J. A. Smith, E. Frimpong, T. A. Gorman, H. Chandler, and C. A. Haas. 2019. Indirect connectivity estimates of amphibian breeding wetlands from spatially explicit occupancy models. Aquatic Conservation: Marine and Freshwater Ecosystems 29:1815-1825. [link](https://doi.org/10.1002/aqc.3190)
+
+**Brooks, G. C.**, J. A. Smith, T. A. Gorman, and C. A. Haas. 2019. Discerning the environmental drivers of annual migrations in an endangered amphibian. Copeia 107:270-276. [link](https://doi.org/10.1643/CH-18-068)
 
 
 ### wetland communities
