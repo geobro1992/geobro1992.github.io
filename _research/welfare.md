@@ -1,7 +1,7 @@
 ---
 layout: single-portfolio
-title: "Animal Welfare"
-permalink: /chickens/
+title: "Animal Welfare Science"
+permalink: /welfare/
 author_profile: true
 excerpt: "<img src='/images/research/chickens2.jpg' alt=''>"
 desc: "<small><cite>Image credit: WallpaperFlare</cite></small> <p>On promoting positive behavioural outcomes in livestock</p>"
@@ -14,13 +14,7 @@ order_number: 50
   <figcaption>Image credit: Bob Nichols</figcaption>
 </figure> 
 
-Broiler chickens are typically housed in relatively barren conditions at high stocking densities, contributing to low activity levels and limited expression of natural behaviours.
-
-We conducted experimental trials and observational studies to discern the influence of rearing environment on chicken behaviour.
-
-We found that environmental complexity and reduced stocking density can promote positive behavioural outcomes and reduce anxiety levels of individual birds, but the magnitude of these benefits depends on the particular strain of broiler chicken being raised. 
-
-Our results can be used to design rearing environments to improve animal welfare and develop best practices for poultry farming.
+Broiler chickens are typically housed in relatively barren conditions at high stocking densities, contributing to low activity levels and limited expression of natural behaviours. We conducted experimental trials and observational studies to discern the influence of rearing environment on chicken behaviour. We found that environmental complexity and reduced stocking density can promote positive behavioural outcomes and reduce anxiety levels of individual birds, but the magnitude of these benefits depends on the particular strain of broiler chicken being raised. Our results can be used to design rearing environments to improve animal welfare and develop best practices for poultry farming.
 
 ### Publications and Talks
 Jacobs, L. B. Paneru, **G. C. Brooks**, A. K. Downing, J. F. Munsell, J. H. Fike, and G. Pent. Fast-growing broiler chickens range more in a silvopasture than a grass pasture. _in prep_
