@@ -9,11 +9,6 @@ collection: research
 order_number: 10
 ---
 
-<figure class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/werner_adaptation.jpg" alt="">
-  <figcaption>Trade-offs in aquatic and terrestrial environments <br /> predict amphibian metamorphosis, or lack thereof. <br /> Adapted from Werner (1986)</figcaption>
-</figure> 
-
 ### the rise of vertebrates
 Life histories evolve in response to selection imposed by environmental pressures. Despite the well-recognized shifts in selective pressures accompanying transitions among environments, identifying the conditions driving innovation and the consequences for life-history evolution remain an outstanding question. Here, we compare the traits of aquatic and terrestrial vertebrates to infer shifts in evolutionary constraints that explain differences in life-history optimization. Specifically, our results emphasize the reduced potential for life-history diversification on land, especially that of reproductive strategies. Moreover, our study reveals differences between the evolution of viviparity in the two realms. Transitions from egg laying to live birth represents a major shift across life-history space for aquatic organisms, whereas terrestrial egg-laying organisms evolve live birth without drastic changes in life-history strategy. Whilst trade-offs in the allocation of resources place fundamental constraints on the way life histories can vary, ecological setting influences the position of species within the viable phenotypic space available for adaptive evolution. 
 
