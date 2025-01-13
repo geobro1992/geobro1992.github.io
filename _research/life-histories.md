@@ -1,6 +1,6 @@
 ---
 layout: single-portfolio
-title: "Life Histories"
+title: "Life-History Theory"
 permalink: /life-histories/
 author_profile: true
 excerpt: "<img src='/images/research/amphibian_larvae.jpg' alt=''>"
