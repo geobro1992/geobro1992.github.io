@@ -4,7 +4,7 @@ title: "Scammers Beware"
 permalink: /scammers-beware/
 author_profile: true
 excerpt: "<img src='/images/cats/ScammersBeware.jpg' alt=''>"
-desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Exploring modern charlatanism and ways to combat falling victim</p>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>On the plague of charlatanism and ways to combat falling victim</p>"
 collection: cats
 order_number: 52
 ---
