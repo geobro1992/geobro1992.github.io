@@ -50,4 +50,6 @@ Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowsk
 ### bog turtle status assessment
 
 **Publications and Talks**\
+Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden, and E. Hultin. 2024. A hydrologic and land cover-based habitat model for use in bog turtle (_Glyptemys muhlenbergii_) conservation. Aquatic Conservation: Marine and Freshwater Ecosystems 34:e4215. [link](https://doi.org/10.1002/aqc.4215)
+
 McDonnell, T. S., **G. C. Brooks**, M. T. Holden, J. D. Buckwalter, J. W. Snodgrass, and C. A. Haas. 2024. Investigating summertime vegetation density preference in bog turtles under grazing regime variation. Hudson Housatonic Recovery Unit Bog Turtle Meeting, Cold Spring, NY, USA.
