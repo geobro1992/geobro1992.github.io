@@ -4,7 +4,7 @@ title: "Plight of the Museum"
 permalink: /plight-of-museum/
 author_profile: true
 excerpt: "<img src='/images/cats/PlightOfMuseum.jpg' alt=''>"
-desc: "<small><cite>Image credit: Olivia Coleman</cite></small> <p>Exploring the rise and fall of natural history collections</p>"
+desc: "<small><cite>Image credit: Olivia Coleman</cite></small> <p>On the rise and fall of natural history collections</p>"
 collection: cats
 order_number: 40
 ---
