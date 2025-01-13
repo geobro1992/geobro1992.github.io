@@ -35,8 +35,3 @@ Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden
 **Brooks, G. C.**, T. A. Gorman, K. C. Jones, H. C. Chandler, B. K. Rincon, M. A. Sission, J. Himes, and C. A. Haas. 2023. Removing duff layers in fire-suppressed wetlands can aid habitat restoration efforts. Wetlands 43:95. [link](https://doi.org/10.1007/s13157-023-01739-7)
 
 Chandler, H. C., N. M. Caruso, D. L. McLaughlin, Y. Jiao, **G. C. Brooks**, and C. A. Haas. 2023. Forecasting the flooding dynamics of flatwoods salamander breeding wetlands under future climate change scenarios. PeerJ 11:e16050. [link](https://doi.org/10.7717/peerj.16050)
-
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research/syncrony.jpg" alt="">
-  <figcaption>Phenological synchrony in an amphibian community on Eglin Air Force Base, FL. From Brooks et al. (2023)</figcaption>
-</figure> 
