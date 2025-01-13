@@ -9,7 +9,7 @@ redirect_from:
 
 My name is George Brooks.  I am an evolutionary ecologist using theory to address global challenges in conservation.
 
-I am currently a postdoctoral research associate investigating filial canniablism in eastern hellbenders, life history evolution in vertebrates, and the socioecological dynamics of fisheries.
+I am currently a postdoctoral research associate investigating filial cannibalism in eastern hellbenders, life history evolution in vertebrates, and the socioecological dynamics of fisheries.
 
 Explore this site to find out more!
 
