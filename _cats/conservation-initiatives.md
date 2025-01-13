@@ -4,7 +4,7 @@ title: "Conservation Initiatives"
 permalink: /conservation-initiatives/
 author_profile: true
 excerpt: "<img src='/images/cats/ConservationInitiatives.jpg' alt=''>"
-desc: "<small><cite>Image credit: George Brooks</cite></small> <p>Exploring the fate of the environment in the 21st century</p>"
+desc: "<small><cite>Image credit: George Brooks</cite></small> <p>On the fate of the environment in the 21st century</p>"
 collection: cats
 order_number: 30
 ---
