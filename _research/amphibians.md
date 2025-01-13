@@ -27,5 +27,19 @@ Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowsk
 
 ### demography of flatwoods salamanders
 
+**Publications**
+
 
 ### wetland communities
+
+**Publications**
+**Brooks,G. C.**, R. M. Moore, B. K. Rincon, T. A. Gorman, and C.A. Haas. Phenological differences help to maintain reproductive isolation and facilitate the coexistence of two sympatric frogs. _in review_
+
+**Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. Prescribed fire promotes site recolonization in the Florida Bog Frog, _Rana okaloosae_. _in review_
+
+**Brooks, G. C.**, N. M. Caruso, H. C. Chandler, and C.A. Haas. 2023. Niche partitioning and the storage effect facilitate coexistence in an amphibian community. Ecology and Evolution 13:e10629. [link](https://doi.org/10.1002/ece3.10629)
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/syncrony.jpg" alt="">
+  <figcaption>Phenological synchrony in an amphibian community on Eglin Air Force Base, FL. From Brooks et al. (2023)</figcaption>
+</figure> 
