@@ -9,10 +9,10 @@ collection: research
 order_number: 10
 ---
 
-### the rise of vertebrates
+### The Rise of Vertebrates
 Life histories evolve in response to selection imposed by environmental pressures. Despite the well-recognized shifts in selective pressures accompanying transitions among environments, identifying the conditions driving innovation and the consequences for life-history evolution remain an outstanding question. Here, we compare the traits of aquatic and terrestrial vertebrates to infer shifts in evolutionary constraints that explain differences in life-history optimization. Specifically, our results emphasize the reduced potential for life-history diversification on land, especially that of reproductive strategies. Moreover, our study reveals differences between the evolution of viviparity in the two realms. Transitions from egg laying to live birth represents a major shift across life-history space for aquatic organisms, whereas terrestrial egg-laying organisms evolve live birth without drastic changes in life-history strategy. Whilst trade-offs in the allocation of resources place fundamental constraints on the way life histories can vary, ecological setting influences the position of species within the viable phenotypic space available for adaptive evolution. 
 
-**Publications and Talks**\
+**Relevant Publications and Talks**\
 Cayuela, H. et al. Global patterns and drivers of amphibian survival. _in review_
 
 **Brooks, G. C.**, Uyeda J. C., H. Conrad, N. Bone, C. Mull, and H. K. Kindsvater. 2024. Fundamental constraints on the evolution of vertebrate life histories. bioRxiv. [link](https://doi.org/10.1101/2024.01.23.576873)
@@ -23,10 +23,10 @@ Székely, T., A. Liker, G. H. Thomas, N. Brett, **G. C. Brooks**, E. Capp, N. En
 </br>
 </br>
 
-### evolutionary ecology as a conservation tool
+### Evolutionary Ecology as a Conservation Tool
 Reptiles and amphibians are disproportionately threatened amongst vertebrates, but are lagging behind other vertebrate taxa with regards to ecological studies and conservation plans. As the need to triage data-limited, at-risk species becomes evermore necessary, calls for conservation priorities to be based on evolutionary considerations are increasing. My first postdoc sought to develop a life-history framework for reptile and amphibian conservation. We used traditional life-history theory to evaluate the susceptibility of species to anthropogenic change. We then developed ten key principles from evolutionary ecology that can facilitate the management of reptiles and amphibians. Our framework highlights gaps in our understanding of the selective forces that have generated the tremendous diversity of reproductive strategies amongst reptiles and amphibians, and provides a guide for managers and conservation scientists to proactively mitigate extinction risk. 
 
-**Publications**\
+**Relevant Publications**\
 **Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. 2024. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. Journal of Herpetology 58:261-280. [link](https://doi.org/10.1670/2330062)
 
 **Brooks, G. C.** and H. K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. [link](https://doi.org/10.3389/fevo.2022.813414)
