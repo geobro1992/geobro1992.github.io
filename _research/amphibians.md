@@ -14,7 +14,7 @@ order_number: 20
   <figcaption>Image credit: Jordy Groffen</figcaption>
 </figure> 
 
-### Filial Cannibalism in Eastern Hellbenders
+## Filial Cannibalism in Eastern Hellbenders
 From 2021-2023 I worked as a postdoc in Bill Hopkins’ lab investigating parental care, nest fate, and the population status of North America's largest salamander. Using data from a long-term nest box study I documented a link between the loss of riparian forest cover and rates of filial cannibalism. Size-structured demographic models indicate that hellbenders appear to be in extinction debt across much of their range, whereby long-lived adults persist on the landscape but the streams they inhabit no longer support sufficient recruitment for populations to persist. We caution against reintroductions until the factors driving declines in wild populations have been sufficiently addressed. This body of research was featured in the [New York Times](https://www.nytimes.com/2023/04/20/science/salamander-dads-cannibals.html?smid=url-share), [Scientific American](https://www.scientificamerican.com/article/cannibalistic-dads-may-be-contributing-to-hellbender-salamander-declines/), and The Wildlife Professional. 
 
 **Relevant Publications**\
@@ -26,7 +26,7 @@ Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowsk
 <br>
 <br>
 
-### Demography of Reticulated Flatwoods Salamanders
+## Demography of Reticulated Flatwoods Salamanders
 Vital rates are known to vary over the course of an individual's lifetime and among individuals within a population. Quantifying the natural variability in vital rates is crucial when scaling up to infer the dynamics of populations. Using ten years of mark–recapture data from two adjacent wetlands on the Florida Panhandle, we investigated individual and temporal variability in survival, growth and reproduction of Reticulated Flatwoods Salamanders (_Ambystoma bishopi_). Our objectives were to 1) provide some of the first estimates of vital rates for the species, 2) evaluate the relationships between body size and key vital rates, 3) quantify the degree of variability in vital rates across the study period, and 4) discern whether variability in vital rates correlates with environmental conditions. Our results can be integrated into demographic projections for Reticulated Flatwoods Salamanders and will help managers to discern population viability, evaluate alternative management strategies (e.g., habitat restoration), or buffer the impacts of climate change. More broadly, our work highlights the value of long-term field studies to aid ongoing recovery efforts for endangered and at-risk species.
 
 **Relevant Publications**\
@@ -44,7 +44,7 @@ Chandler, H. C. and **G. C. Brooks**. 2023. The relationship between female body
 <br>
 <br>
 
-### Dynamics of Wetland Communities
+## Wetland Community Dynamics
 Virtually all natural community assemblages are dominated by a handful of common species. Dominant species can exert negative impacts on biodiversity through competitive exclusion, and thus there is a strong incentive to understand imbalances in community composition, changes in dominance hierarchies through time, and mechanisms of coexistence. Pond-breeding amphibians that utilize ephemeral wetlands provide an excellent opportunity to evaluate theoretical predictions of community composition in stochastic environments. One of the most striking features of pond-breeding amphibians is the marked stochastic fluctuations in abundance across years. Given strong theoretical and empirical links between evenness and biomass, one would expect community evenness to change from year to year. Moreover, if different species exhibit different boom-and-bust reproductive cycles, then a storage effect may help to explain why one species does not outcompete all others. Here, we explore the interplay between biotic and abiotic conditions in shaping amphibian communities on Eglin Air Force Base, Florida. The similar phenology and demography of species argues against a storage effect as the sole mechanism for coexistence and instead points to niche partitioning as a more important factor. We hope that our work reinvigorates interest in amphibian communities and highlights ephemeral wetlands as model systems to study community dynamics in stochastic environments.
 
 **Relevant Publications**\
