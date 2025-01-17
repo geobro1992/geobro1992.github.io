@@ -9,9 +9,6 @@ collection: research
 order_number: 40
 ---
 
-</br>
-</br>
-
 <figure class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/hyla.JPG" alt="">
   <figcaption>Image credit: George Brooks</figcaption>
