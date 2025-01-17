@@ -9,10 +9,10 @@ collection: research
 order_number: 1
 ---
 
-### flatwoods salamander recovery
+## Reticullated Flatwoods Salamander Recovery
 My PhD dissertation at Virginia Tech focussed on conducting a population viability analysis of flatwoods salamanders. Using information on growth and survival obtained through drift fence monitoring, I constructed integral projection models (IPMs) to estimate extinction probabilities under different management scenarios. To build the IPM I developed growth curves, the first of their kind, that jointly model amphibian growth before and after metamorphosis, and survival curves that account for seasonal differences in mortality. Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian, and investigated the importance of detectibility and genetic diversity in the context of future reintroduction efforts. Ultimately, this body of work was used to aid flatwoods salamander recovery. 
 
-**Publications**\
+**Relevant Publications**\
 Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and translocations. _in review_
 
 Chandler, H. C., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2024. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. Ichthyology and Herpetology 112:531-543. [link](https://doi.org/10.1643/h2023052)
@@ -31,7 +31,7 @@ Chandler, H. C., N. M. Caruso, D. L. McLaughlin, Y. Jiao, **G. C. Brooks**, and 
 <br>
 <br>
 
-### diagnosing hellbender declines
+## Diagnosing Eastern Hellbender Declines
 Detecting declines and quantifying extinction risk of long-lived, highly fecund vertebrates can be challenging. In addition to the false notion that large clutches always buffer against population declines, the imperiled status of long-lived species can often be masked by extinction debt, wherein adults persist on the landscape for several years after populations cease to be viable. Here we develop a demographic model for the Eastern Hellbender (Cryptobranchus alleganiensis), an imperiled aquatic salamander with paternal care. We examined the individual and interactive effects of three of the leading threats hypothesized to contribute to the species’ demise: habitat loss due to siltation, high rates of nest failure, and excess adult mortality caused by fishing and harvest. Our model suggests that high rates of nest failure observed in the field are sufficient to drive hellbender populations towards a geriatric age distribution and eventually to localized extinction, but that this process takes decades. The combination of limited nest site availability due to siltation, nest failure, and stochastic adult mortality can interact to increase the likelihood and pace of extinction, and density-dependence in larval survival and recruitment can severely hamper a population’s ability to recover from declines. Our model helps to identify tipping points beyond which extinction becomes certain and management interventions become necessary. The most common intervention however - reintroduction of captive-bred animals - does not address the causes of declines. It is therefore unlikely to achieve recovery goals in isolation, and will require considerabel expense if reintroductions will have to be performed indefinitely. We used our modelling framework to evaluate various reintroduction strategies to see whether the expected benefit is worth the cost. 
 
 **Publications**\
@@ -47,7 +47,7 @@ Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowsk
 </figure> 
 
 
-### bog turtle status assessment
+## Bog Turtle Status Assessment
 
 **Publications and Talks**\
 Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden, and E. Hultin. 2024. A hydrologic and land cover-based habitat model for use in bog turtle (_Glyptemys muhlenbergii_) conservation. Aquatic Conservation: Marine and Freshwater Ecosystems 34:e4215. [link](https://doi.org/10.1002/aqc.4215)
