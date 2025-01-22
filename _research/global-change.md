@@ -36,6 +36,6 @@ The coastal plain of the southeastern United States was historically dominated b
 **Relevant Publications**\
 **Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. Prescribed fire promotes site recolonization in the Florida Bog Frog, _Rana okaloosae_. _in review_
 
-**Brooks, G. C.**, S. Goodman, W. Moore, H. C. Chandler, N. M. Caruso, J. A. Smith, T. A. Gorman, and C. A. Haas. 2025. Gopher Tortoise (_Gopherus polyphemus_) burrow associate communities are depauperate in modified landscapes. Community Ecology _in press_
+**Brooks, G. C.**, S. Goodman, W. Moore, H. C. Chandler, N. M. Caruso, J. A. Smith, T. A. Gorman, and C. A. Haas. 2025. Gopher Tortoise (_Gopherus polyphemus_) burrow associate communities are depauperate in modified landscapes. Community Ecology. [link](https://doi.org/10.1007/s42974-025-00232-x)
 
 **Brooks, G. C.**, T. A. Gorman, K. C. Jones, H. C. Chandler, B. K. Rincon, M. A. Sission, J. Himes, and C. A. Haas. 2023. Removing duff layers in fire-suppressed wetlands can aid habitat restoration efforts. Wetlands 43:95. [link](https://doi.org/10.1007/s13157-023-01739-7)
