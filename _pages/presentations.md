@@ -10,7 +10,7 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
-*Kaloczi, J., M. J. Hamel, G. Jones, R. N. Hupfeld, R. M. Krogman, **G. C. Brooks**, and M. M. Moore. 2025. Comparing methods to estimate age and growth of Shovelnose Sturgeon in the Cedar River. Iowa Chapter of the American Fisheries Society Annual Conference, Ames, IA. 
+*Kaloczi, J., M. J. Hamel, G. Jones, R. N. Hupfeld, R. M. Krogman, **G. C. Brooks**, and M. M. Moore. 2025. Comparing methods to estimate age and growth of Shovelnose Sturgeon in the Cedar River. Iowa Chapter of the American Fisheries Society Annual Conference, Ames, IA, USA. 
 
 *McDonnell, T. S., **G. C. Brooks**, M. T. Holden, J. D. Buckwalter, J. W. Snodgrass, and C. A. Haas. 2024. Investigating summertime vegetation density preference in bog turtles under grazing regime variation. Hudson Housatonic Recovery Unit Bog Turtle Meeting, Cold Spring, NY, USA.
 
