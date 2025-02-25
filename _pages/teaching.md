@@ -9,7 +9,7 @@ author_profile: true
 
 # _Undergratuate Teaching_
 
-## Instructor, 4344 Herpetology (Spring 2020)
+## Instructor, 4344 Herpetology
 
 -Taught lecture and lab to 40 undergraduate students\
 -Developed lecture and lab material, quizzes, exams, and homework assignments\
@@ -17,7 +17,7 @@ author_profile: true
 -migrated entire course online following COVID-19
 
 
-## Instructor, 2324 Wildlife Field Biology (Spring 2019)
+## Instructor, 2324 Wildlife Field Biology
 
 -Taught lecture and lab to 40 undergraduate students\
 -Developed lecture and lab material, quizzes, exams, and homework assignments\
@@ -25,7 +25,7 @@ author_profile: true
 -Evaluated highly by students for approachability, enthusiasm, and improving students’ understanding of difficult concepts
 
 
-## Course Assistant, 4984 Natural History Collections and Curation (Spring 2019)
+## Course Assistant, 4984 Natural History Collections and Curation
 
 -Involved with the design and planning of the course\
 -Organized guest speakers and led in-class discussions\
@@ -34,13 +34,13 @@ author_profile: true
 -Received the Outstanding Teaching Assistant Award (College of Natural Resources and Environment)
 
 
-## Mentor, 4994 Undergraduate Research (2018-2019)
+## Mentor, 4994 Undergraduate Research
 
 -Mentored 2 undergraduate independent research projects\
 -One student presented a poster at a regional conference, the other has a manuscript in prep
 
 
-## Teaching Assistant, 2324 Wildlife Field Biology (2016-2018)
+## Teaching Assistant, 2324 Wildlife Field Biology
 
 -Taught lecture and lab to 40 undergraduate students each spring semester\
 -Developed lecture and lab material, quizzes, exams, and homework assignments\
@@ -52,13 +52,13 @@ author_profile: true
 
 # _Other Teaching Experience_
 
-## Workshop Coordinator, Inclusive Pedagogy (Spring 2022)
+## Workshop Coordinator, Inclusive Pedagogy
 
 -Designed and co-taught monthly workshops for graduate students\
 -Introduced students to modern teaching methods and DEI related issues in the classroom\
 -Topics covered all areas of instruction, from syllabus design to unbiased methods of assessment
 
-## Workshop Coordinator, Introduction to Ecological Modeling in R (Spring 2022)
+## Workshop Coordinator, Introduction to Ecological Modeling in R
 
 -Taught weekly workshops throughout the semester to graduate students\
 -Introduced students to coding best practices and the philosophy of statistical modeling\
@@ -66,7 +66,9 @@ author_profile: true
 
 ## Invited Speaker
 
+_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2025\
 _Population Dynamics_, Department of Forest and Wildlife Ecology, UW-Madison 2024\
+_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2024\
 _Evolution_, Department of Biology, The Citadel 2023\
 _Animal Behaviour_, Department of Biology, Randolph College 2023\
 _Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2023\
