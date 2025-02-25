@@ -34,7 +34,7 @@ Chandler H. C., **G. C. Brooks**, K. C. Jones, B. K. Rincon, A. K. Martin, and C
 
 H. C. Chandler, N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2023. Reticulated flatwoods salamander phenology under future climate change. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
-Ulans, A., **G. Brooks**, and L. Jacobs. 2023. Anxiety in broiler chickens is affected by strain, body weight, and environmental complexity. The 56th Congress of the International Society for Applied Ethology, Tallin, Estonia.
+Ulans, A., **G. Brooks**, and L. Jacobs. 2023. Anxiety in broiler chickens is affected by strain, body weight, and environmental complexity. 56th Congress of the International Society for Applied Ethology, Tallin, Estonia.
 
 Haas, C. A., H. C. Chandler, and **G. C. Brooks**. 2022. Habitat restoration, sampling, and translocation planning on Eglin Air Force Base.  Presentation to the Flatwoods Salamander Recovery Working Group meeting, Virtual.
 
