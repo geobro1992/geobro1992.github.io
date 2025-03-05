@@ -34,9 +34,9 @@ Chandler H. C., **G. C. Brooks**, K. C. Jones, B. K. Rincon, A. K. Martin, and C
 
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Concurrent threats jeopardize the viability of Virginia's hellbender populations. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
-H. C. Chandler, N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2023. Reticulated flatwoods salamander phenology under future climate change. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
+Chandler, H. C., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2023. Reticulated flatwoods salamander phenology under future climate change. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
-Ulans, A., **G. Brooks**, and L. Jacobs. 2023. Anxiety in broiler chickens is affected by strain, body weight, and environmental complexity. 56th Congress of the International Society for Applied Ethology, Tallin, Estonia.
+Ulans, A., **G. C. Brooks**, and L. Jacobs. 2023. Anxiety in broiler chickens is affected by strain, body weight, and environmental complexity. 56th Congress of the International Society for Applied Ethology, Tallin, Estonia.
 
 Haas, C. A., H. C. Chandler, and **G. C. Brooks**. 2022. Habitat restoration, sampling, and translocation planning on Eglin Air Force Base.  Presentation to the Flatwoods Salamander Recovery Working Group meeting, Virtual.
 
