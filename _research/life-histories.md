@@ -15,7 +15,7 @@ Life histories evolve in response to selection imposed by environmental pressure
 **Relevant Publications and Talks**\
 Cayuela, H. et al. Global patterns and drivers of amphibian survival. _in review_
 
-**Brooks, G. C.**, Uyeda J. C., H. Conrad, N. Bone, C. Mull, and H. K. Kindsvater. 2025. Fundamental constraints on vertebrate life history are shaped by aquatic-terrestrial transitions and reproductive mode. Nature Ecology and Evolution. _in press_ [link](https://doi.org/10.1101/2024.01.23.576873)
+**Brooks, G. C.**, Uyeda J. C., H. Conrad, N. Bone, C. Mull, and H. K. Kindsvater. 2025. Fundamental constraints on vertebrate life history are shaped by aquatic-terrestrial transitions and reproductive mode. Nature Ecology and Evolution. [link](https://doi.org/10.1038/s41559-025-02663-1)
 
 **Brooks, G. C.** 2023. Why are vertebrates so big? Functional Ecology 37:2764-2766. [link](https://dx.doi.org/10.1111/1365-2435.14433)
 
