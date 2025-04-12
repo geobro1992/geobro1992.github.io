@@ -22,7 +22,7 @@ Hilt, M. E., **G. C. Brooks**, M. K. Hamed, and E. L. Faison. Factors affecting 
 
 Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and translocations. _in review_
 
-**Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. 2025. Prescribed fire promotes colonization by the Florida Bog Frog. Fire Ecology 21:21. [link](https://doi.org/10.1186/s42408-025-00358-3)
+**Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. 2025. Prescribed fire promotes colonization by the Florida Bog Frog. Fire Ecology 21:1-14. [link](https://doi.org/10.1186/s42408-025-00358-3)
 
 Chandler, H. C., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2024. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. Ichthyology and Herpetology 112:531-543. [link](https://doi.org/10.1643/h2023052)
 
@@ -38,7 +38,7 @@ Chandler, H. C., N. M. Caruso, D. L. McLaughlin, Y. Jiao, **G. C. Brooks**, and 
 The coastal plain of the southeastern United States was historically dominated by longleaf (Pinus palustris) and slash (P. elliottii) forests and maintained by frequent fire. By the early 1930s, however, 97% of old growth forests had been cleared and fire suppression by land managers had become widespread. Following the removal of fire-related drivers, the vegetation shifts to communities that consist of dense canopies, a shrubby midstory, and a notable lack of herbaceous groundcover. As a result, intact, fire-maintained longleaf pine is one of the rarest ecosystems on earth. Restoration has primarily involved the reintroduction of natural fire regimes through prescribed fire, however there is evidence that current practices may not be sufficient for the re-establishment of natural floral and faunal assemblages. In one of the largest remaining tracts of longleaf pine, we have documented how habitat alterations impact Gopher Tortoise's role as a keystone species, investigated the link between fire frequency and occupancy dynamics of the Florida Bog Frog, and developed management techniques to improve restoration outcomes.
 
 **Relevant Publications**\
-**Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. 2025. Prescribed fire promotes colonization by the Florida Bog Frog. Fire Ecology 21:21. [link](https://doi.org/10.1186/s42408-025-00358-3)
+**Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. 2025. Prescribed fire promotes colonization by the Florida Bog Frog. Fire Ecology 21:1-14. [link](https://doi.org/10.1186/s42408-025-00358-3)
 
 **Brooks, G. C.**, S. Goodman, W. Moore, H. C. Chandler, N. M. Caruso, J. A. Smith, T. A. Gorman, and C. A. Haas. 2025. Gopher Tortoise (_Gopherus polyphemus_) burrow associate communities are depauperate in modified landscapes. Community Ecology. [link](https://doi.org/10.1007/s42974-025-00232-x)
 
