@@ -10,6 +10,8 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
+**Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. 2025. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate. Joint Meeting of Ichthyologists and Herpetologists, St. Paul, MN, USA.
+
 Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2025. Analyzing wetlandscapes to inform Reticulated Flatwoods Salamander (Ambystoma bishopi) recovery, including translocation strategies for public and private lands. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Guntersville, AL, USA. 
 
 *Kaloczi, J., M. J. Hamel, G. Jones, R. N. Hupfeld, R. M. Krogman, **G. C. Brooks**, and M. M. Moore. 2025. Comparing methods to estimate age and growth of Shovelnose Sturgeon in the Cedar River. Iowa Chapter of the American Fisheries Society Annual Conference, Ames, IA, USA. 
