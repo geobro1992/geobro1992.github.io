@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-## Referee for Manuscripts
+## Reviewer for Manuscripts
 The American Naturalist, Aquatic Conservation: Marine and Freshwater Ecosystems, Biodiversity and Conservation, Canadian Journal of Zoology, Ecology and Evolution, Functional Ecology, Herpetologica, Hydrobiologia, Ichthyology and Herpetology, Journal of Wildlife Management, PeerJ, Proceedings of the Southeastern Association of Fish and Wildlife Agencies, Scientific Reports, Wetlands Ecology and Management
 
 ## Reviewer for Student Awards
