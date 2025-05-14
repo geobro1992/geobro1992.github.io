@@ -8,6 +8,9 @@ author_profile: true
 ## Referee for Manuscripts
 The American Naturalist, Aquatic Conservation: Marine and Freshwater Ecosystems, Biodiversity and Conservation, Canadian Journal of Zoology, Ecology and Evolution, Functional Ecology, Herpetologica, Hydrobiologia, Ichthyology and Herpetology, Journal of Wildlife Management, PeerJ, Proceedings of the Southeastern Association of Fish and Wildlife Agencies, Scientific Reports, Wetlands Ecology and Management
 
+## Reviewer for Student Awards
+Louis Stokes Alliance for Minority Participation Undergraduate Poster Award, American Society of Ichthyologists and Herpetologists Stoye Oral Presentation Award, Society of Systematic Biologists Graduate Student Research Award
+
 ## Societal Memberships
 American Society of Ichthyologists and Herpetologists, American Society of Naturalists, British Herpetological Society, Herpetologists League, Society for the Study of Amphibians and Reptiles, Society of Systematic Biologists, Virginia Herpetological Society, Wisconsin Herpetological Society, Wisconsin Society for Ornithology
 
