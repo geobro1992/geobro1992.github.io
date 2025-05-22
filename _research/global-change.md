@@ -18,6 +18,8 @@ order_number: 40
 I am passionate about wetland ecosystems and wetland conservation. Wetlands are some of the most endangered habitats on earth. Loss of wetlands has been most severe in North America, with over 50% disappearing in the last two centuries. I have worked on wetland restoration projects in Florida and used historical maps to document landscape-scale wetland changes in Virginia. Wetlands support a disproportionate amount of aquatic and terrestrial biodiversity, and thus their loss is of considerable conservation concern. I have a particular affinity for amphibians and reptiles that inhabit wetlands. Past projects include employing drift fences to investigate mechanisms of coexistence in amphibian communities, using call survey data to characterize the phenology and occupancy dynamics of the Florida Bog Frog, and building hydrology models to characterize the prefered habitat of the Bog Turtle.
 
 **Relevant Publications**\
+Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. Predicting long-term population viability for an imperiled salamander under future climate changes. _in review_
+
 Hilt, M. E., **G. C. Brooks**, M. K. Hamed, and E. L. Faison. Factors affecting the growth of a moss species necessary for nesting habitat restoration of the four-toed salamander (Hemidactylium scutatum, Temminck and Schlegel 1838). _in review_
 
 Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and translocations. _in review_
