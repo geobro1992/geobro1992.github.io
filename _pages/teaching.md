@@ -79,3 +79,11 @@ _Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2021\
 _Graduate Seminar_, Department of Fish and Wildlife Conservation, Virginia Tech 2019\
 _Graduate Seminar_, Department of Fish and Wildlife Conservation, Virginia Tech 2017\
 _CNRE First Year Experience_, College of Natural Resources and Environment, Virginia Tech 2016
+<br />
+<br />
+
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/prof_zippy.jpg" alt="">
+  <figcaption>Professor Zippy, ready to inspire young minds!</figcaption>
+</figure> 
