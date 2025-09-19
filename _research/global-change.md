@@ -20,7 +20,7 @@ I am passionate about wetland ecosystems and wetland conservation. Wetlands are 
 **Relevant Publications**\
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. Predicting long-term population viability for an imperiled salamander under future climate changes. _in review_
 
-Hilt, M. E., **G. C. Brooks**, M. K. Hamed, and E. L. Faison. Factors affecting the growth of a moss species necessary for nesting habitat restoration of the four-toed salamander (Hemidactylium scutatum, Temminck and Schlegel 1838). _in review_
+Hilt, M. E., **G. C. Brooks**, M. K. Hamed, and E. L. Faison. Factors affecting the growth of a moss species necessary for nesting habitat restoration of the four-toed salamander (Hemidactylium scutatum, Temminck and Schlegel 1838). _in press_
 
 Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and translocations. Conservation Science and Practice _in press_
 
