@@ -15,7 +15,7 @@ My PhD dissertation at Virginia Tech focussed on conducting a population viabili
 **Relevant Publications**\
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. Predicting long-term population viability for an imperiled salamander under future climate changes. _in review_
 
-Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and translocations. Conservation Science and Practice _in press_
+Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2025. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and translocations. Conservation Science and Practice e70144. [link](https://www.doi.org/10.1111/csp2.70144)
 
 Chandler, H. C., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2024. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. Ichthyology and Herpetology 112:531-543. [link](https://doi.org/10.1643/h2023052)
 
