@@ -22,7 +22,7 @@ Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. Predicting long-term
 
 Hilt, M. E., **G. C. Brooks**, M. K. Hamed, and E. L. Faison. Factors affecting the growth of a moss species necessary for nesting habitat restoration of the four-toed salamander (Hemidactylium scutatum, Temminck and Schlegel 1838). _in press_
 
-Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and translocations. Conservation Science and Practice _in press_
+Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2025. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and translocations. Conservation Science and Practice e70144 [link](https://www.doi.org/10.1111/csp2.70144)
 
 **Brooks, G. C.**, T. A. Gorman, C. Proctor, B. K. Rincon, and C.A. Haas. 2025. Prescribed fire promotes colonization by the Florida Bog Frog. Fire Ecology 21:1-14. [link](https://doi.org/10.1186/s42408-025-00358-3)
 
