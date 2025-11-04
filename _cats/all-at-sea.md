@@ -81,7 +81,7 @@ My journey in science - my quest to find inscrutable facts and concrete numbers 
 <br />
 
 ## Making Hand over Fist
-_**Ah! how cheerfully we consign ourselves to perdition.**_
+_**Ah! how cheerfully we consign ourselves to perdition**_\
 ~ Hermann Melville
 
 ### Slush Fund
