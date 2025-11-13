@@ -66,6 +66,9 @@ author_profile: true
 
 ## Invited Speaker
 
+_Quantitative Methods in Ecology_, Department of Integrative Biology, UW-Madison 2025\
+_Amphibian Conservation_, Center for Applied Population Biology, Lincoln Park Zoo 2025\
+_Life-History Evolution_, School of Natural Sciences, Macquarie University 2025\
 _Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2025\
 _Population Dynamics_, Department of Forest and Wildlife Ecology, UW-Madison 2024\
 _Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2024\
