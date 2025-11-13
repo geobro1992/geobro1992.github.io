@@ -40,4 +40,6 @@ An overlooked component of climate change impacts on fisheries is shifting behav
 
 **Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. _in review_. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate.
 
+**Brooks, G. C.** 2025. Is climate change really shrinking fish? UW–Madison Postdoctoral Research Symposium, Madison, WI, USA.
+
 **Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. 2025. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate. Joint Meeting of Ichthyologists and Herpetologists, St. Pauls, MN, USA.
