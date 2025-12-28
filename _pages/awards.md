@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 ### Research Awards
-Georgia Pacific Dean’s Graduate Fellowship\
-Dwight Chamberlain Graduate Wildlife Fellowship
+- Georgia Pacific Dean’s Graduate Fellowship
+- Dwight Chamberlain Graduate Wildlife Fellowship
 
 ### Teaching Awards
-Virginia Tech’s Graduate Instructor of Record Award\
-College of Natural Resources Outstanding Teaching Assistant of the Year Award
+- Virginia Tech’s Graduate Instructor of Record Award
+- College of Natural Resources Outstanding Teaching Assistant of the Year Award
 
 ### Writing Awards
-Population Ecology Young Author Award\
-Wisconsin Initiative for Science Literacy Award
+- Population Ecology Young Author Award
+- Wisconsin Initiative for Science Literacy Award
 <br />
 <br />
 
