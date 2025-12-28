@@ -18,7 +18,7 @@ order_number: 50
 Broiler chickens are typically housed in relatively barren conditions at high stocking densities, contributing to low activity levels and limited expression of natural behaviours. We conducted experimental trials and observational studies to discern the influence of rearing environment on chicken behaviour. We found that environmental complexity and reduced stocking density can promote positive behavioural outcomes and reduce anxiety levels of individual birds, but the magnitude of these benefits depends on the particular strain of broiler chicken being raised. Our results can be used to design rearing environments to improve animal welfare and develop best practices for poultry farming.
 
 ### Publications and Talks
-Jacobs, L. B. Paneru, **G. C. Brooks**, A. K. Downing, J. F. Munsell, J. H. Fike, and G. Pent. Fast-growing broiler chickens range more in a silvopasture than a grass pasture based on live observations. _in review_
+Jacobs, L. B. Paneru, **G. C. Brooks**, A. K. Downing, J. F. Munsell, J. H. Fike, and G. Pent. 2025. Fast-growing broiler chickens range more in a silvopasture than a grass pasture based on live observations. Frontiers in Animal Science 6:1721759. [link](https://doi.org/10.3389/fanim.2025.1721759)
 
 Ulans, A., **G. C. Brooks**, and L. Jacobs. 2024. Environmental complexity impacts anxiety in broiler chickens depending on genetic strain and body weight. Scientific Reports 14:17535. [link](https://doi.org/10.1038/s41598-024-67965-z)
 
