@@ -10,9 +10,12 @@ Georgia Pacific Dean’s Graduate Fellowship\
 Dwight Chamberlain Graduate Wildlife Fellowship
 
 ### Teaching Awards
-Departmental nominee for Virginia Tech’s Instructor of Record Award\
+Virginia Tech’s Graduate Instructor of Record Award\
 College of Natural Resources Outstanding Teaching Assistant of the Year Award
 
+### Writing Awards
+Population Ecology Young Author Award\
+Wisconsin Initiative for Science Literacy Award
 <br />
 <br />
 
