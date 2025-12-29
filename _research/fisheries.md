@@ -14,7 +14,7 @@ order_number: 45
   <figcaption>Image credit: flickr (alpha)</figcaption>
 </figure> 
 
-### Community-based management of _Arapaima_
+## Community-Based Management of _Arapaima_
 When fishing activity is illegal, unreported, and/or unregulated (IUU), traditional fisheries models can underestimate the vulnerability of fish stocks to collapse. There is a need, therefore, to develop general methods to incorporate information about human decisions regarding when and how much to fish, and rule compliance into population assessments. We developed novel approachs to model population demography of fished populations, incorporating ecological estimates of natural mortality, population censuses, and catch data that can inform estimates of reported and unreported fishing mortality. We consider four alternative modelling parameterizations that reflect real-world scenarios in which the degree of unreported fishing and the relationship between reporting rate and fish abundance differs. We show that ignoring IUU fishing can severely bias estimates of vital rates and population dynamics. Using social knowledge to account for IUU in model formulations can improve their predictive accuracy. We then applied our models to _Arapaima_ fisheries in South America.
 
 ### Publications and Talks
@@ -32,7 +32,7 @@ Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identi
 <br>
 <br>
 
-### Climate resiliency of Midwestern fisheries
+## Climate Resiliency of Midwestern Fisheries
 An overlooked component of climate change impacts on fisheries is shifting behavior of fishers in response to warming trends. Shifting social dynamics may allow for compensation of climate driven declines if they result in reduced harvest of climate-sensitive species or if they suppress populations of warm-adapted competitors. To understand the potential outcomes of fisheries threatened by climate change, we constructed a spatially explicit, multi-species population model that includes feedbacks between ecological and social dynamics. The model compares specialist and generalist fishing communities comprised of individuals that will only fish the cold-adapted species and individuals that fish whichever species is most abundant respectively. We show that specialist fishing exacerbates climate-driven declines, as harvest pressure is concentrated on an ever-decreasing number of populations. However, when fishers are willing to switch target species based on perceived abundance, fishing can slow the pace of extinction. By increasing the harvest rates of a warm-adapted competitor, a generalist fishery can facilitate coexistence and therefore sustainability. Our modelling framework has broad utility for predicting fishing outcomes in at-risk systems and devising effective long-term management regulations.
 
 ### Publications and Talks
