@@ -20,8 +20,8 @@ Cayuela, H. et al. Global patterns and drivers of amphibian survival. _in review
 **Brooks, G. C.** 2023. Why are vertebrates so big? Functional Ecology 37:2764-2766. [link](https://dx.doi.org/10.1111/1365-2435.14433)
 
 Székely, T., A. Liker, G. H. Thomas, N. Brett, **G. C. Brooks**, E. Capp, N. Engel, S. Hodges, E. Hughes, A. Krystalli, et al. 2022. Sex roles in birds: Influence of climate, life histories and social environment. Database: Dryad. [link](https://doi.org/10.5061/dryad.1zcrjdftg)
-</br>
-</br>
+<br>
+<br>
 
 ## Evolutionary Ecology as a Conservation Tool
 Reptiles and amphibians are disproportionately threatened amongst vertebrates, but are lagging behind other vertebrate taxa with regards to ecological studies and conservation plans. As the need to triage data-limited, at-risk species becomes evermore necessary, calls for conservation priorities to be based on evolutionary considerations are increasing. My first postdoc sought to develop a life-history framework for reptile and amphibian conservation. We used traditional life-history theory to evaluate the susceptibility of species to anthropogenic change. We then developed ten key principles from evolutionary ecology that can facilitate the management of reptiles and amphibians. Our framework highlights gaps in our understanding of the selective forces that have generated the tremendous diversity of reproductive strategies amongst reptiles and amphibians, and provides a guide for managers and conservation scientists to proactively mitigate extinction risk. 
