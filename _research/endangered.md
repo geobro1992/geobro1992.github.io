@@ -9,7 +9,7 @@ collection: research
 order_number: 1
 ---
 
-## Reticullated Flatwoods Salamander Recovery
+## Reticulated Flatwoods Salamander Recovery
 My PhD dissertation at Virginia Tech focussed on conducting a population viability analysis of flatwoods salamanders. Using information on growth and survival obtained through drift fence monitoring, I constructed integral projection models (IPMs) to estimate extinction probabilities under different management scenarios. To build the IPM I developed growth curves, the first of their kind, that jointly model amphibian growth before and after metamorphosis, and survival curves that account for seasonal differences in mortality. Scaling up from individual populations to the landscape level, I developed one of the first spatially-explicit metapopulation models for a pond-breeding amphibian, and investigated the importance of detectibility and genetic diversity in the context of future reintroduction efforts. This work has been featured in [The Wildlife Society](https://wildlife.org/wetland-restoration-boosts-flatwoods-salamander-numbers/), [Garden & Gun](https://gardenandgun.com/articles/a-federally-endangered-species-was-released-on-private-land-in-florida-thats-a-big-deal/), and [Newsweek](https://www.newsweek.com/imperiled-salamander-brink-extinction-bred-captivity-first-time-1677139).
 
 **Relevant Publications**\
