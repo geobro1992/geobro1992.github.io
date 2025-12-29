@@ -29,8 +29,8 @@ Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Predic
 Hultin E. A., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of _Arapaima_ spp. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA.
 
 Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of _Arapaima_ population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
-</br>
-</br>
+<br>
+<br>
 
 ### Climate resiliency of Midwestern fisheries
 An overlooked component of climate change impacts on fisheries is shifting behavior of fishers in response to warming trends. Shifting social dynamics may allow for compensation of climate driven declines if they result in reduced harvest of climate-sensitive species or if they suppress populations of warm-adapted competitors. To understand the potential outcomes of fisheries threatened by climate change, we constructed a spatially explicit, multi-species population model that includes feedbacks between ecological and social dynamics. The model compares specialist and generalist fishing communities comprised of individuals that will only fish the cold-adapted species and individuals that fish whichever species is most abundant respectively. We show that specialist fishing exacerbates climate-driven declines, as harvest pressure is concentrated on an ever-decreasing number of populations. However, when fishers are willing to switch target species based on perceived abundance, fishing can slow the pace of extinction. By increasing the harvest rates of a warm-adapted competitor, a generalist fishery can facilitate coexistence and therefore sustainability. Our modelling framework has broad utility for predicting fishing outcomes in at-risk systems and devising effective long-term management regulations.
