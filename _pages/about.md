@@ -9,7 +9,7 @@ redirect_from:
 
 My name is George Brooks.  I am an evolutionary ecologist using theory to address global challenges in conservation and fisheries management.
 
-I am currently a postdoctoral research associate at the University of Wisconsin-Madison investigating the socioecological dynamics of fisheries.
+I am currently a research scientist at the University of Wisconsin-Madison investigating the socioecological dynamics of fisheries.
 
 Explore this site to find out more!
 
