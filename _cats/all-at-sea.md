@@ -15,9 +15,9 @@ order_number: 65
 # All Aboard
 Welcome to the blog series All at Sea!
 
-The oceans are the last frontier on Earth. We know more about the surface of Mars. Yet our survival depends on one considerably more than the other. The oceans shape the global climate, fill the atmosphere with oxygen, and contain a bounty to feed entire civilizations. In short, they make this planet inhabitable. Indeed, ancient shallow seas almost certainly served as the crucible for life’s origin.
+The oceans are the last frontier on Earth. We know more about the surface of Mars. Yet our survival depends on one considerably more than the other. The oceans shape the global climate, fill the atmosphere with oxygen, and contain a bounty to feed entire civilizations. In short, they make this planet inhabitable. Indeed, it is being stated with increasing certitude that ancient, shallow seas served as the crucible for life’s humble origins.
 
-It fosters equal parts surprise and alarm then, to discover that much remains a mystery. Where did the water come from? How do species evolve beneath the waves? What lurks at the bottom? Here, we will set sail on a quest for answers, a great voyage that will take us from the inlets of Argyll to the coral reefs of Zanzibar, shedding light on humanity's inseparable connection to water worlds. For this series at least, call me Ishmael.
+It fosters equal parts surprise and alarm, then, to discover that so much of the aquaitc realm remains a mystery. Where did the water come from? How do species evolve beneath the waves? What fantastical, undiscovered, unimagined creatures lurk in the deep? Here, we will set sail on a quest for answers, a great voyage that will take us from the inlets of Argyll to the coral reefs of Zanzibar, shedding light on humanity's inseparable connection to water worlds. For this series at least, call me Ishmael.
 <br />
 <br />
 
