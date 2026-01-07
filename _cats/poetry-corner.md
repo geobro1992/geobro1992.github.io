@@ -37,6 +37,7 @@ Enjoy!\
 [Numbskull](#numbskull)\
 [Playcalling](#playcalling)\
 [Rituals](#rituals)\
+[Robert](#robert)\
 [Shades of Green](#shades-of-green)\
 [Vernal Pool](#vernal-pool)\
 [Winter in Wisconsin](#winter-in-wisconsin)\
@@ -444,6 +445,10 @@ The students are desperate\
 Desperate for some semblance of normality\
 The clock strikes twelve, and as one\
 They turn toward the statue and bow\
+<br />
+
+## Robert
+Robert rocks up to the recording room ready. The room reeks of rum and reefer. A rhodes resides on a ratty rug and ropes reign down from the rafters. Right! He resounds, what’s the rub? A row rages over the running. One rude boy requires a rebellious rocksteady, another requests a return to roots. Regardless, it must be real. Real and wrapped in religiosity. Righteous riffs reinforcing Rastafari revelations of repatriation. In reggae, rectitude and reciprocity rule; the row is rapidly reconciled. Robbed of their rights, the men remain resilient, renouncing resignation and rising up. Relinquished of their repression they can rip it up and risk it all. Riches reverberate through the rarefied air. The riffs are revised, remixed, and reviewed, until resourcefulness is rubbed raw. Repeat, repeat, repeat. A ragamuffin reclines behind a rusty rig, revelling in the reimagined riddims. Raka, raka, rimshot. Raka, raka, rimshot. Top rankin. Upon release, ridiculers and remonstrators rush to rage against the rancid rural rot. But Robert rises, resolute, reticent; and the record books are reluctantly rewritten.
 <br />
 
 ## Shades of Green
