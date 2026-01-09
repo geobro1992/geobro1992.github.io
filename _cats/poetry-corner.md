@@ -31,6 +31,7 @@ Enjoy!\
 [A Divisive Figure](#a-divisive-figure)\
 [The Dragon Awakes](#the-dragon-awakes)\
 [Dusk](#dusk)\
+[Episode 1](#episode-1-acquaints-the-reader-with-the-particulars-of-a-brutal-murder-and-expounds-upon-the-tendency-of-modern-society-through-exploitation-of-humanitys-perverse-rubbernecking-inclination-to-monetize-past-atrocities)\
 [Good to be Alive](#good-to-be-alive)\
 [The Heffalump](#the-heffalump)\
 [Horrid](#horrid)\
@@ -271,6 +272,20 @@ Until we meet again
 
 Hurry down sunshine\
 Let’s see what tomorrow brings\
+<br />
+
+## Episode 1: Acquaints the reader with the particulars of a brutal murder, and expounds upon the tendency of modern society, through exploitation of humanity’s perverse rubbernecking inclination, to monetize past atrocities
+Maria del Carmen Estrada\
+Maria del Carmen Estrada\
+Calling all officers\
+Calling all officers to the scene\
+At the Dairy Queen\
+The license found on the victim’s person reads:\
+Maria del Carmen Estrada
+
+Texas, Tournicates, Terror, and Tragedy\
+Sounds Terrific\
+Lets make a TV show about it\
 <br />
 
 ## Good to be Alive
