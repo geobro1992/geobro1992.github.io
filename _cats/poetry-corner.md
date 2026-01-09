@@ -279,11 +279,11 @@ Maria del Carmen Estrada\
 Maria del Carmen Estrada\
 Calling all officers\
 Calling all officers to the scene\
-At the Dairy Queen\
+The scene at the Dairy Queen\
 The license found on the victim’s person reads:\
 Maria del Carmen Estrada
 
-Texas, Tournicates, Terror, and Tragedy\
+Texas, Tourniquets, Terror, and Tragedy\
 Sounds Terrific\
 Lets make a TV show about it\
 <br />
