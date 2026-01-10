@@ -6,7 +6,7 @@ author_profile: true
 excerpt: "<img src='/images/cats/Back2School.jpg' alt=''>"
 desc: "<small><cite>Image credit: CERN / Science Photo Library</cite></small> <p>On modern teaching and the future of higher education</p>"
 collection: cats
-order_number: 1
+order_number: 5
 ---
 
 <br />
