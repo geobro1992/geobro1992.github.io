@@ -33,8 +33,8 @@ Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden
 **Brooks, G. C.**, T. A. Gorman, K. C. Jones, H. C. Chandler, B. K. Rincon, M. A. Sission, J. Himes, and C. A. Haas. 2023. Removing duff layers in fire-suppressed wetlands can aid habitat restoration efforts. Wetlands 43:95. [link](https://doi.org/10.1007/s13157-023-01739-7)
 
 Chandler, H. C., N. M. Caruso, D. L. McLaughlin, Y. Jiao, **G. C. Brooks**, and C. A. Haas. 2023. Forecasting the flooding dynamics of flatwoods salamander breeding wetlands under future climate change scenarios. PeerJ 11:e16050. [link](https://doi.org/10.7717/peerj.16050)
-</br>
-</br>
+<br>
+<br>
 
 ## Longleaf Pine Communities
 The coastal plain of the southeastern United States was historically dominated by longleaf (Pinus palustris) and slash (P. elliottii) forests and maintained by frequent fire. By the early 1930s, however, 97% of old growth forests had been cleared and fire suppression by land managers had become widespread. Following the removal of fire-related drivers, the vegetation shifts to communities that consist of dense canopies, a shrubby midstory, and a notable lack of herbaceous groundcover. As a result, intact, fire-maintained longleaf pine is one of the rarest ecosystems on earth. Restoration has primarily involved the reintroduction of natural fire regimes through prescribed fire, however there is evidence that current practices may not be sufficient for the re-establishment of natural floral and faunal assemblages. In one of the largest remaining tracts of longleaf pine, we have documented how habitat alterations impact Gopher Tortoise's role as a keystone species, investigated the link between fire frequency and occupancy dynamics of the Florida Bog Frog, and developed management techniques to improve restoration outcomes.
