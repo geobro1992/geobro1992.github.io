@@ -274,7 +274,7 @@ Hurry down sunshine\
 Let’s see what tomorrow brings\
 <br />
 
-## Episode 1: Acquaints the reader with the particulars of a brutal murder, and expounds upon the tendency of modern society, through exploitation of humanity’s perverse rubbernecking inclination, to monetize past atrocities
+## Episode 1: Acquaints the reader with the particulars of a brutal murder, whilst simultaneously revealing an inconvenient truth of modern society, that being the tendency, through exploitation of humanity’s perverse rubbernecking inclination, to monetize past atrocities
 Maria del Carmen Estrada\
 Maria del Carmen Estrada\
 Calling all officers\
