@@ -10,15 +10,15 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
-Chandler H. C., **G. C. Brooks**, A. K. Martin, and C. A. Haas. 2026. Prioritizing habitat restoration for Reticulated Flatwoods Salamander (_Ambystoma bishopi_) metapopulations. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
+Chandler H. C., **G. C. Brooks**, A. K. Martin, and C. A. Haas. 2026. Prioritizing habitat restoration for Reticulated Flatwoods Salamander (_Ambystoma bishopi_) metapopulations. Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
-Martin, A. K., K. C. Jones, B. K. Rincon, **G. C. Brooks**, C. M. Ewers, H. C. Chandler, and C. A. Haas. 2026. Successful translocation of an imperiled amphibian following targeted habitat restoration efforts. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
+Martin, A. K., K. C. Jones, B. K. Rincon, **G. C. Brooks**, C. M. Ewers, H. C. Chandler, and C. A. Haas. 2026. Successful translocation of an imperiled amphibian following targeted habitat restoration efforts. Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
 **Brooks, G. C.** 2025. Is climate change really shrinking fish? UW–Madison Postdoctoral Research Symposium, Madison, WI, USA.
 
 **Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. 2025. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate. Joint Meeting of Ichthyologists and Herpetologists, St. Paul, MN, USA.
 
-Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2025. Analyzing wetlandscapes to inform Reticulated Flatwoods Salamander (Ambystoma bishopi) recovery, including translocation strategies for public and private lands. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Guntersville, AL, USA. 
+Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2025. Analyzing wetlandscapes to inform Reticulated Flatwoods Salamander (Ambystoma bishopi) recovery, including translocation strategies for public and private lands. Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Guntersville, AL, USA. 
 
 *Kaloczi, J., M. J. Hamel, G. Jones, R. N. Hupfeld, R. M. Krogman, **G. C. Brooks**, and M. M. Moore. 2025. Comparing methods to estimate age and growth of Shovelnose Sturgeon in the Cedar River. Iowa Chapter of the American Fisheries Society Annual Conference, Ames, IA, USA. 
 
@@ -34,7 +34,7 @@ Castello, L., *A. Abreu, E. S. Brondizio, **G. C. Brooks**, S. J. Campos, *P. Cu
 
 *Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Predicting fishery sustainability with integrated socio-ecological models. Workshop on the Ostrom Workshop, Bloomington, IN, USA.
 
-Chandler H. C., **G. C. Brooks**, K. C. Jones, B. K. Rincon, A. K. Martin, and C. A. Haas. 2024. Lessons learned from long-term monitoring and research of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations on Eglin Air Force Base. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Nauvoo, AL, USA.
+Chandler H. C., **G. C. Brooks**, K. C. Jones, B. K. Rincon, A. K. Martin, and C. A. Haas. 2024. Lessons learned from long-term monitoring and research of Reticulated Flatwoods Salamander (_Ambystoma bishopi_) populations on Eglin Air Force Base. Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Nauvoo, AL, USA.
 
 *Hultin E. A., H. K. Kindsvater, **G. C. Brooks**, and L. Castello. 2024. Predicting population dynamics of _Arapaima_ spp. from social and ecological variables. World Fisheries Conference, Seattle, WA, USA. 
 
@@ -42,7 +42,7 @@ Chandler H. C., **G. C. Brooks**, K. C. Jones, B. K. Rincon, A. K. Martin, and C
 
 **Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2023. Concurrent threats jeopardize the viability of Virginia's hellbender populations. Joint Meeting of Ichthyologists and Herpetologists, Norfolk, VA, USA. 
 
-Chandler, H. C., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2023. Reticulated flatwoods salamander phenology under future climate change. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
+Chandler, H. C., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2023. Reticulated flatwoods salamander phenology under future climate change. Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
 Ulans, A., **G. C. Brooks**, and L. Jacobs. 2023. Anxiety in broiler chickens is affected by strain, body weight, and environmental complexity. 56th Congress of the International Society for Applied Ethology, Tallin, Estonia.
 
@@ -69,6 +69,8 @@ Petters, J., J. A. Smith, **G. C. Brooks**, and C. A. Haas. 2018. Building data 
 ## Posters 
 (* indicates co-author is a student or technician)
 
+Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2025. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and assisted translocations. Northeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Dingmans Ferry, PA, USA.
+
 Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2024. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration. Joint Meeting of Ichthyologists and Herpetologists, Pittsburg, PA, USA.
 
 *Hultin, E. A., **G. C. Brooks**, H. K. Kindsvater, and L. Castello. 2024. Identifying drivers of _Arapaima_ population dynamics in a floodplain ecosystem. Southern Division American Fisheries Society Meeting, Chattanooga, TN, USA.
@@ -81,9 +83,9 @@ Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2023. Predicting the
 
 *Nelson, C. A., **G. C. Brooks**, C. A. Haas, and M. R. Stocker. 2019. Incorporating technology and multidisciplinary thinking into university collections. Dennis Dean Undergraduate Research and Creative Scholarship Conference, Blacksburg, VA, USA.
 
-*Leipold, A. E., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2019. Variations of growth within the breeding and non-breeding seasons of the Reticulated Flatwoods Salamander (Ambystoma bishopi).  Annual Southeastern Partners in Amphibian and Reptile Conservation Meeting, Black Mountain, NC, USA.
+*Leipold, A. E., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2019. Variations of growth within the breeding and non-breeding seasons of the Reticulated Flatwoods Salamander (Ambystoma bishopi). Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
-*Rincon, B., N. M. Caruso, **G. C. Brooks**, *K. C. Jones, and C. A. Haas. 2019. Monitoring Reticulated Flatwoods Salamanders with PIT tag antennas: Our first season of insights. Annual Southeastern Partners in Amphibian and Reptile Conservation Meeting, Black Mountain, NC, USA.
+*Rincon, B., N. M. Caruso, **G. C. Brooks**, *K. C. Jones, and C. A. Haas. 2019. Monitoring Reticulated Flatwoods Salamanders with PIT tag antennas: Our first season of insights. Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
 **Brooks, G. C.**, J. A. Smith, T. A. Gorman, and C. A. Haas. 2018. Discerning the environmental drivers of annual migrations in an endangered amphibian. Joint Meeting of Ichthyologists and Herpetologists, Rochester, NY, USA.
 
