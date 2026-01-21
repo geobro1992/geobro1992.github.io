@@ -10,6 +10,12 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
+Chandler H. C., **G. C. Brooks**, A. K. Martin, and C. A. Haas. 2026. Prioritizing habitat restoration for Reticulated Flatwoods Salamander (_Ambystoma bishopi_) metapopulations. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
+
+Martin, A. K., K. C. Jones, B. K. Rincon, **G. C. Brooks**, C. M. Ewers, H. C. Chandler, and C. A. Haas. 2026. Successful translocation of an imperiled amphibian following targeted habitat restoration efforts. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
+
+**Brooks, G. C.** 2025. Is climate change really shrinking fish? UW–Madison Postdoctoral Research Symposium, Madison, WI, USA.
+
 **Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. 2025. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate. Joint Meeting of Ichthyologists and Herpetologists, St. Paul, MN, USA.
 
 Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2025. Analyzing wetlandscapes to inform Reticulated Flatwoods Salamander (Ambystoma bishopi) recovery, including translocation strategies for public and private lands. Southeast Partners in Amphibian and Reptile Conservation Annual Meeting, Guntersville, AL, USA. 
