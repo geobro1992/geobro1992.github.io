@@ -267,7 +267,7 @@ The darkness looms
 
 Grainy vision begets grainy thoughts\
 A fawn hesitates beneath the stories of old\
-The dance of the fireflies tempt the stars to earth\
+The dance of the fireflies tempts the stars to earth\
 Until we meet again
 
 Hurry down sunshine\
