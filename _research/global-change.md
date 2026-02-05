@@ -34,6 +34,10 @@ Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden
 ## Climate Change in Aquatic Systems
 Global biodiversity loss has been driven, in part, by climate change. Climate change has a variety of effects on aquatic species, altering both demographic processes and underlying environmental conditions. These changes can threaten the long‐term viability of populations and limit the effectiveness of ongoing management programs. To accurately predict the effects of warming on wildlife, and thereby design climate-smart mitigation strategies, we need a better understanding of how temperature shapes organisms' vital rates and species' ecologies in natural systems. Previous projects include testing predictions of the temperature-size rule in freshwater fish of the Midwest, forecasting phenological mismatches in pond-breeding amphibians, and developing theoretical models of socioecological dynamics to inform fisheries management under climate change.
 
+**Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. _in review_. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate.
+
+**Brooks, G. C.**, P. N. Frater, , O. P. Jensen, G. J. A. Hansen, C. Paukert, M. Verhoeven, L. Wszola, L. Xu, and Z. S. Feiner. 2026. Mixed support for the temperature-size rule in wild freshwater fishes. Ecology Letters
+
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2025. Predicting long-term population viability for an imperiled salamander under future climate changes. Journal of Wildlife Management e70158. [link](https://doi.org/10.1002/jwmg.70158)
 
 Chandler, H. C., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2024. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. Ichthyology and Herpetology 112:531-543. [link](https://doi.org/10.1643/h2023052)
