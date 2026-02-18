@@ -38,7 +38,7 @@ An overlooked component of climate change impacts on fisheries is shifting behav
 ### Publications and Talks
 **Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. _in review_. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate.
 
-**Brooks, G. C.**, P. N. Frater, , O. P. Jensen, G. J. A. Hansen, C. Paukert, M. Verhoeven, L. Wszola, L. Xu, and Z. S. Feiner. 2026. Mixed support for the temperature-size rule in wild freshwater fishes. Ecology Letters
+**Brooks, G. C.**, P. N. Frater, , O. P. Jensen, G. J. A. Hansen, C. Paukert, M. Verhoeven, L. Wszola, L. Xu, and Z. S. Feiner. 2026. Mixed support for the temperature-size rule in wild freshwater fishes. Ecology Letters 29:e70344. [link](http://dx.doi.org/10.1111/ele.70344)
 
 **Brooks, G. C.** 2025. Is climate change really shrinking fish? UW–Madison Postdoctoral Research Symposium, Madison, WI, USA.
 
