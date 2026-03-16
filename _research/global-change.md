@@ -41,7 +41,7 @@ Global biodiversity loss has been driven, in part, by climate change. Climate ch
 
 **Brooks, G. C.**, P. N. Frater, , O. P. Jensen, G. J. A. Hansen, C. Paukert, M. Verhoeven, L. Wszola, L. Xu, and Z. S. Feiner. 2026. Mixed support for the temperature-size rule in wild freshwater fishes. Ecology Letters
 
-Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2025. Predicting long-term population viability for an imperiled salamander under future climate changes. Journal of Wildlife Management e70158. [link](https://doi.org/10.1002/jwmg.70158)
+Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2026. Predicting long-term population viability for an imperiled salamander under future climate changes. Journal of Wildlife Management 90:e70158. [link](https://doi.org/10.1002/jwmg.70158)
 
 Chandler, H. C., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2024. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. Ichthyology and Herpetology 112:531-543. [link](https://doi.org/10.1643/h2023052)
 
