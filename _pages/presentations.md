@@ -10,6 +10,8 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
+**Brooks, G. C.** 2026. Safe operating spaces for aquatic plant management in Wisconsin lakes. Wisconsin Aquatic Invasive Species Partnership Meeting, Manitowish Waters, WI, USA.
+
 Chandler H. C., **G. C. Brooks**, A. K. Martin, and C. A. Haas. 2026. Prioritizing habitat restoration for Reticulated Flatwoods Salamander (_Ambystoma bishopi_) metapopulations. Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
 
 Martin, A. K., K. C. Jones, B. K. Rincon, **G. C. Brooks**, C. M. Ewers, H. C. Chandler, and C. A. Haas. 2026. Successful translocation of an imperiled amphibian following targeted habitat restoration efforts. Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
