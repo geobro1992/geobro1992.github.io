@@ -9,4 +9,4 @@ collection: cats
 order_number: 55
 ---
 
-set to release in 2026!
+set to release in 2027!
