@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Brooks.  I am an evolutionary ecologist using theory to address global challenges in conservation and fisheries management.
+My name is George Brooks.  I am an evolutionary ecologist using theory to address global challenges in wildlife conservation.
 
 I am currently a research scientist at the University of Wisconsin-Madison investigating the socioecological dynamics of fisheries.
 
