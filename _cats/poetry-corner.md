@@ -125,10 +125,10 @@ They’ll think twice before committing a crime
 
 Their riot gear is starting to crumble\
 Their tear gas has long since expired\
-Can’t do our jobs anymore, they mumble\
+Can’t do our jobs anymore, they grumble\
 To fire is to risk getting fired
 
-A face of mace, a kick in the groin\
+A face of mace, a knee to the groin\
 Choked and pinned to the floor\
 Immigrants, criminals, what’s the difference?\
 We’ll find out once we kick down your door
