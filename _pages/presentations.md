@@ -10,6 +10,12 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
+*Hultin, E. A., H. K. Kindsvater, L. Castello, **G. C. Brooks**, P. Cunha, C. Franco, M. Sorice. 2026. Integrated modeling approach to disentangle sources of mortality in floodplain fisheries. American Fisheries Society Annual Meeting, Columbus, OH, USA.
+
+Chandler H. C., **G. C. Brooks**, D. L. McLaughlin, A. K. Martin, and C. A. Haas. 2026. Prioritizing habitat restoration for Reticulated Flatwoods Salamander (_Ambystoma bishopi_) metapopulations. Joint Meeting of Ichthyologists and Herpetologists, New Orleans, LA, USA.
+
+**Brooks, G. C.**, Z. S. Feiner, and O. P. Jensen. 2026. Halos of depletion in harvested fish populations across the upper Midwest. Joint Meeting of Ichthyologists and Herpetologists, New Orleans, LA, USA.
+
 **Brooks, G. C.** 2026. Safe operating spaces for aquatic plant management in Wisconsin lakes. Wisconsin Aquatic Invasive Species Partnership Meeting, Manitowish Waters, WI, USA.
 
 Chandler H. C., **G. C. Brooks**, A. K. Martin, and C. A. Haas. 2026. Prioritizing habitat restoration for Reticulated Flatwoods Salamander (_Ambystoma bishopi_) metapopulations. Southeastern Partners in Amphibian and Reptile Conservation Annual Meeting, Black Mountain, NC, USA.
