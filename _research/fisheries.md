@@ -20,7 +20,7 @@ When fishing activity is illegal, unreported, and/or unregulated (IUU), traditio
 ### Publications and Talks
 Castello, L., A. Abreu, **G. C. Brooks**, J. V. Campos-Silva, P. R. Cunha, A. Fleischmann, C. Franco, A. C. Gonçalves, E. Hultin, H. K. Kindsvater, E. Martins, C. I. B. Silva, M. G. Sorice, and E. S. Brondizio. 2026. Integrating social-ecological feedbacks to assess small-scale fisheries. Ambio
 
-**Brooks, G. C.**, E. A. Hultin, E. G. Martins, L. Castello, M. G. Sorice, and H. K. Kindsvater. 2026. Accounting for unreported harvest in fisheries with diverse social dynamics. Ecosphere e70644. [link](https://doi.org/10.1002/ecs2.70644)
+**Brooks, G. C.**, E. A. Hultin, E. G. Martins, L. Castello, M. G. Sorice, and H. K. Kindsvater. 2026. Accounting for unreported harvest in fisheries with diverse social dynamics. Ecosphere 17:e70644. [link](https://doi.org/10.1002/ecs2.70644)
 
 Castello, L., A. Abreu,  E. S. Brondizio, **G. C. Brooks**, S. J. Campos, P. Cunha, A. Fleischmann, C. Franco, E. A. Hultin, D. Hymans, H. K. Kindsvater, E. Martins, and M. Sorice. 2024. An approach to assess the integrated social-ecological dynamics of freshwater fisheries. Workshop on the Ostrom Workshop, Bloomington, Indiana, USA.
 
