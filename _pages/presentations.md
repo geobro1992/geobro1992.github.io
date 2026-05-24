@@ -10,6 +10,8 @@ author_profile: true
 ## Talks 
 (* indicates co-author is a student or technician)
 
+Andrukonis, A., **G. C. Brooks**, and E. N. Feuerbacher. 2026. Assessing the impact of treat preference on shelter cats’ response to feeding enrichment. Animal Behavior Society Annual Conference, Cincinnati, OH, USA.
+
 *Hultin, E. A., H. K. Kindsvater, L. Castello, **G. C. Brooks**, P. Cunha, C. Franco, M. Sorice. 2026. Integrated modeling approach to disentangle sources of mortality in floodplain fisheries. American Fisheries Society Annual Meeting, Columbus, OH, USA.
 
 Chandler H. C., **G. C. Brooks**, D. L. McLaughlin, A. K. Martin, and C. A. Haas. 2026. Prioritizing habitat restoration for Reticulated Flatwoods Salamander (_Ambystoma bishopi_) metapopulations. Joint Meeting of Ichthyologists and Herpetologists, New Orleans, LA, USA.
