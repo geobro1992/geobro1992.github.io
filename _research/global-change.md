@@ -39,7 +39,7 @@ Global biodiversity loss has been driven, in part, by climate change. Climate ch
 **Relevant Publications**\
 **Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. _in review_. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate.
 
-**Brooks, G. C.**, P. N. Frater, , O. P. Jensen, G. J. A. Hansen, C. Paukert, M. Verhoeven, L. Wszola, L. Xu, and Z. S. Feiner. 2026. Mixed support for the temperature-size rule in wild freshwater fishes. Ecology Letters
+**Brooks, G. C.**, P. N. Frater, , O. P. Jensen, G. J. A. Hansen, C. Paukert, M. Verhoeven, L. Wszola, L. Xu, and Z. S. Feiner. 2026. Mixed support for the temperature-size rule in wild freshwater fishes. Ecology Letters 29:e70344. [link](http://dx.doi.org/10.1111/ele.70344)
 
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2026. Predicting long-term population viability for an imperiled salamander under future climate changes. Journal of Wildlife Management 90:e70158. [link](https://doi.org/10.1002/jwmg.70158)
 
