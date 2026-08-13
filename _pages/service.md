@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## Reviewer for Manuscripts
-The American Naturalist, Aquatic Conservation: Marine & Freshwater Ecosystems, Biodiversity & Conservation, Canadian Journal of Zoology, Communications Earth & Environment, Conservation Biology, Ecology & Evolution, Ecology Letters, Frontiers in Amphibian & Reptile Science, Functional Ecology, Herpetologica, Hydrobiologia, Ichthyology & Herpetology, Integrative Zoology, Journal of Wildlife Management, Molecular Ecology, PeerJ, Proceedings of the Southeastern Association of Fish and Wildlife Agencies, Scientific Reports, Theoretical Ecology, Wetlands Ecology & Management
+The American Naturalist, Aquatic Conservation: Marine & Freshwater Ecosystems, Biodiversity & Conservation, Canadian Journal of Zoology, Communications Earth & Environment, Conservation Biology, Ecology & Evolution, Ecology Letters, Frontiers in Amphibian & Reptile Science, Functional Ecology, Herpetologica, Hydrobiologia, Ichthyology & Herpetology, Integrative Zoology, Journal of Asia-Pacific Biodiversity, Journal of Wildlife Management, Molecular Ecology, PeerJ, Proceedings of the Southeastern Association of Fish and Wildlife Agencies, Scientific Reports, Theoretical Ecology, Wetlands Ecology & Management
 
 ## Reviewer for Student Awards
-Louis Stokes Alliance for Minority Participation Undergraduate Poster Award, American Society of Ichthyologists and Herpetologists Stoye Oral Presentation Award, Society of Systematic Biologists Graduate Student Research Award
+Louis Stokes Alliance for Minority Participation Undergraduate Poster Award, American Society of Ichthyologists and Herpetologists Storer Poster Award, American Society of Ichthyologists and Herpetologists Stoye Oral Presentation Award, Society of Systematic Biologists Graduate Student Research Award	
 
 ## Societal Memberships
 American Society of Ichthyologists and Herpetologists, American Society of Naturalists, British Herpetological Society, Herpetologists League, Society for the Study of Amphibians and Reptiles, Society of Systematic Biologists, Virginia Herpetological Society, Wisconsin Herpetological Society, Wisconsin Society for Ornithology
