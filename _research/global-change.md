@@ -39,7 +39,7 @@ Feaga, J. B., J. Barron, **G. C. Brooks**, E. A. Frimpong, C. A. Haas, M. Holden
 Global biodiversity loss has been driven, in part, by climate change. Climate change has a variety of effects on aquatic species, altering both demographic processes and underlying environmental conditions. These changes can threaten the long‐term viability of populations and limit the effectiveness of ongoing management programs. To accurately predict the effects of warming on wildlife, and thereby design climate-smart mitigation strategies, we need a better understanding of how temperature shapes organisms' vital rates and species' ecologies in natural systems. Previous projects include testing predictions of the temperature-size rule in freshwater fish of the Midwest, forecasting phenological mismatches in pond-breeding amphibians, and developing theoretical models of socioecological dynamics to inform fisheries management under climate change.
 
 **Relevant Publications**\
-**Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. _in review_. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate.
+**Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. 2026. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate. Ecological Modelling
 
 Xu, L., **G. C. Brooks**, R. Bi, S. A. Ludsin, Y. Jiao, and O. P. Jensen. 2026. A multi-model framework for evaluating and partitioning environmental change impacts on fish population dynamics: a case study with Lake Erie Yellow Perch. Canadian Journal of Fisheries and Aquatic Sciences
 
