@@ -20,9 +20,9 @@ From 2021-2023 I worked as a postdoc in Bill Hopkins’ lab investigating parent
 **Relevant Publications**\
 **Brooks, G. C.**, H. K. Kindsvater, J. T. Briggler, J. M. Elden, J. T. Hoverman, S. D. Reinsch, R. N. Williams, and W. A. Hopkins. Optimizing benefit-cost ratios of amphibian reintroductions. _in review_
 
-**Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2024. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate with parental care. Ecological Applications 34: e2946. [link](https://doi.org/10.1002/eap.2946)
+**Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2024. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate with parental care. Ecological Applications 34:e2946. [link](https://doi.org/10.1002/eap.2946)
 
-Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist 202: 92-106. [link](https://doi.org/10.1086/724819)
+Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist 202:92-106. [link](https://doi.org/10.1086/724819)
 <br>
 <br>
 
