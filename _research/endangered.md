@@ -19,7 +19,7 @@ Martin, A. K., K. C. Jones, B. K. Rincon, **G. C. Brooks**, C. Ewers, H. C. Chan
 
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2026. Predicting long-term population viability for an imperiled salamander under future climate changes. Journal of Wildlife Management 90:e70158. [link](https://doi.org/10.1002/jwmg.70158)
 
-Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2025. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and assisted translocations. Conservation Science and Practice e70144. [link](https://www.doi.org/10.1111/csp2.70144)
+Martin, A. K., **G. C. Brooks**, H. C. Chandler, K. C. Jones, B. K. Rincon, and C. A. Haas. 2025. Tracking Reticulated Flatwoods Salamander (_Ambystoma bishopi_) recovery in response to habitat restoration and assisted translocations. Conservation Science and Practice 7:e70144. [link](https://www.doi.org/10.1111/csp2.70144)
 
 Chandler, H. C., N. M. Caruso, **G. C. Brooks**, and C. A. Haas. 2024. Wetland hydrology, not altered phenology, challenges Reticulated Flatwoods Salamander (_Ambystoma bishopi_) management under future climate change. Ichthyology and Herpetology 112:531-543. [link](https://doi.org/10.1643/h2023052)
 
@@ -43,9 +43,9 @@ Detecting declines and quantifying extinction risk of long-lived, highly fecund 
 **Publications**\
 **Brooks, G. C.**, H. K. Kindsvater, J. T. Briggler, J. M. Elden, J. T. Hoverman, S. D. Reinsch, R. N. Williams, and W. A. Hopkins. Optimizing benefit-cost ratios of hellbender reintroductions. _in review_
 
-**Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2024. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate with parental care. Ecological Applications 34: e2946. [link](https://doi.org/10.1002/eap.2946)
+**Brooks, G. C.**, W. A. Hopkins, and H. K. Kindsvater. 2024. Concurrent threats and extinction risk in a long-lived, highly fecund vertebrate with parental care. Ecological Applications 34:e2946. [link](https://doi.org/10.1002/eap.2946)
 
-Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist 202: 92-106. [link](https://doi.org/10.1086/724819)
+Hopkins, W. A., B. F. Case, J. Groffen, **G. C. Brooks**, C. M. Bodinof Jachowski, S. T. Button, J. J. Halligan, R. S. M. O’Brien, and H. K. Kindsvater. 2023. Filial cannibalism leads to chronic nest failure of eastern hellbender salamanders. The American Naturalist 202:92-106. [link](https://doi.org/10.1086/724819)
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research/hellbender_int.jpg" alt="">
