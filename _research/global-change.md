@@ -41,7 +41,7 @@ Global biodiversity loss has been driven, in part, by climate change. Climate ch
 **Relevant Publications**\
 **Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. 2026. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate. Ecological Modelling 522:111829. [link](https://doi.org/10.1016/j.ecolmodel.2026.111829)
 
-Xu, L., **G. C. Brooks**, R. Bi, S. A. Ludsin, Y. Jiao, and O. P. Jensen. 2026. A multi-model framework for evaluating and partitioning environmental change impacts on fish population dynamics: a case study with Lake Erie Yellow Perch. Canadian Journal of Fisheries and Aquatic Sciences
+Xu, L., **G. C. Brooks**, R. Bi, S. A. Ludsin, Y. Jiao, and O. P. Jensen. 2026. A multi-model framework for evaluating and partitioning environmental change impacts on fish population dynamics: a case study with Lake Erie Yellow Perch. Canadian Journal of Fisheries and Aquatic Sciences. [link](http://dx.doi.org/10.1139/cjfas-2026-0136)
 
 **Brooks, G. C.**, P. N. Frater, , O. P. Jensen, G. J. A. Hansen, C. Paukert, M. Verhoeven, L. Wszola, L. Xu, and Z. S. Feiner. 2026. Mixed support for the temperature-size rule in wild freshwater fishes. Ecology Letters 29:e70344. [link](http://dx.doi.org/10.1111/ele.70344)
 
