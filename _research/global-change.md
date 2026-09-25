@@ -21,7 +21,7 @@ I am passionate about wetland ecosystems and wetland conservation. Wetlands are 
 **Relevant Publications**\
 **Brooks, G. C.**, A. K. Martin, C. A. Haas, and H. C. Chandler. Prioritizing habitat restoration efforts for amphibian metapopulations. _in review_
 
-**Brooks, G. C.**, Z. S. Feiner, O. P. Jensen, and C. L. Hein. 2026. Ecological costs of invasive species management create narrow safe operating spaces for aquatic plant communities. Journal of Environmental Management 131012. [link](https://doi.org/10.1016/j.jenvman.2026.131012)
+**Brooks, G. C.**, Z. S. Feiner, O. P. Jensen, and C. L. Hein. 2026. Ecological costs of invasive species management create narrow safe operating spaces for aquatic plant communities. Journal of Environmental Management 418:131012. [link](https://doi.org/10.1016/j.jenvman.2026.131012)
 
 Hilt, M. E., **G. C. Brooks**, M. K. Hamed, and E. L. Faison. 2025. Factors affecting the growth of a moss species necessary for nesting habitat restoration of the four-toed salamander (Hemidactylium scutatum, Temminck and Schlegel 1838). Amphibian and Reptile Conservation 19:e347. [link](https://amphibian-reptile-conservation.org/manuscript/index.php/arc/article/view/27/13)
 
