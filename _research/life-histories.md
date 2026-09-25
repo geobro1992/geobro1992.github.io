@@ -13,7 +13,7 @@ order_number: 10
 Life histories evolve in response to selection imposed by environmental pressures. Despite the well-recognized shifts in selective pressures accompanying transitions among environments, identifying the conditions driving innovation and the consequences for life-history evolution remain an outstanding question. Here, we compare the traits of aquatic and terrestrial vertebrates to infer shifts in evolutionary constraints that explain differences in life-history optimization. Specifically, our results emphasize the reduced potential for life-history diversification on land, especially that of reproductive strategies. Moreover, our study reveals differences between the evolution of viviparity in the two realms. Transitions from egg laying to live birth represents a major shift across life-history space for aquatic organisms, whereas terrestrial egg-laying organisms evolve live birth without drastic changes in life-history strategy. Whilst trade-offs in the allocation of resources place fundamental constraints on the way life histories can vary, ecological setting influences the position of species within the viable phenotypic space available for adaptive evolution. 
 
 **Relevant Publications and Talks**\
-Cayuela, H. et al. Global patterns and drivers of amphibian survival. _in review_
+Cayuela, H. et al. 2026. Global patterns and drivers of amphibian survival. Nature Communications _in press_
 
 **Brooks, G. C.**, Uyeda J. C., H. Conrad, N. Bone, C. Mull, and H. K. Kindsvater. 2025. Fundamental constraints on vertebrate life history are shaped by aquatic-terrestrial transitions and reproductive mode. Nature Ecology and Evolution 9:857-866. [link](https://doi.org/10.1038/s41559-025-02663-1)
 
