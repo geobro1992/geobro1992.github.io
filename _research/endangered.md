@@ -15,7 +15,7 @@ My PhD dissertation at Virginia Tech focussed on conducting a population viabili
 **Relevant Publications**\
 **Brooks, G. C.**, A. K. Martin, C. A. Haas, and H. C. Chandler. Prioritizing habitat restoration efforts for amphibian metapopulations. _in review_
 
-Martin, A. K., K. C. Jones, B. K. Rincon, **G. C. Brooks**, C. Ewers, H. C. Chandler, R. Felix, N. M. Caruso, and C. A. Haas. 2026. Successful translocation of an imperiled amphibian following targeted habitat restoration efforts. Conservation Science and Practice e70412. [link](https://doi.org/10.1111/csp2.70412)
+Martin, A. K., K. C. Jones, B. K. Rincon, **G. C. Brooks**, C. Ewers, H. C. Chandler, R. Felix, N. M. Caruso, and C. A. Haas. 2026. Successful translocation of an imperiled amphibian following targeted habitat restoration efforts. Conservation Science and Practice 8:e70412. [link](https://doi.org/10.1111/csp2.70412)
 
 Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2026. Predicting long-term population viability for an imperiled salamander under future climate changes. Journal of Wildlife Management 90:e70158. [link](https://doi.org/10.1002/jwmg.70158)
 
