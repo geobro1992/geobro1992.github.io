@@ -7,7 +7,14 @@ author_profile: true
 
 <br />
 
-# _Undergratuate Teaching_
+### Teaching Philosophy
+I define success as students who leave my classroom as independent, curious learners equipped with the confidence and skills to continue learning throughout their lives. Biology is more than a collection of facts; it is a way of asking questions, evaluating evidence, and solving problems. My goal as an educator is to help students develop scientific habits of mind that prepare them for careers in research, management, education, healthcare, and beyond. To achieve this goal, I prioritize active engagement, authentic scientific experiences, and inclusive learning environments that support students from diverse backgrounds. My teaching emphasizes independence, research-based learning, and inclusive mentorship.
+
+Effective teaching also requires creating classrooms in which all students can succeed. I strive to use evidence-based practices that promote engagement through discussion, collaborative problem solving, and inquiry-driven activities. As a postdoctoral researcher, I led graduate workshops on contemporary pedagogy in the sciences, with an emphasis on inclusive teaching practices. These experiences strengthened my commitment to creating welcoming learning environments that recognize diverse backgrounds, learning styles, and career goals.
+
+Ultimately, my goal is to help students become independent scientists, thoughtful citizens, and lifelong learners. Through evidence-based teaching, authentic research experiences, and supportive mentorship, I hope to foster a community in which students not only learn biology but also develop the confidence and skills needed to contribute to its future.
+
+# _Undergraduate Teaching_
 
 ## Instructor, 4344 Herpetology
 
