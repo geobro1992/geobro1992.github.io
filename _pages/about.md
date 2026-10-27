@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is George Brooks.  I am an evolutionary ecologist using theory to address global challenges in wildlife conservation.
+My name is George Brooks and I am currently a research scientist at the University of Wisconsin-Madison.
 
-I am currently a research scientist at the University of Wisconsin-Madison investigating the socioecological dynamics of fisheries.
+I am a quantitative ecologist and evolutionary biologist who develops theory to understand how populations, communities, and social-ecological systems respond to environmental change. My research combines mathematical models, long-term ecological data, and conservation applications to address questions ranging from species coexistence and life-history evolution to fisheries sustainability and amphibian conservation.
 
 Explore this site to find out more!
 
