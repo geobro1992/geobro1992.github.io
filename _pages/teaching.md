@@ -21,7 +21,7 @@ Ultimately, my goal is to help students become independent scientists, thoughtfu
 -Taught lecture and lab to 40 undergraduate students\
 -Developed lecture and lab material, quizzes, exams, and homework assignments\
 -Coordinated grading, labs, and field trips\
--migrated entire course online following COVID-19
+-Migrated entire course online following COVID-19
 
 
 ## Instructor, 2324 Wildlife Field Biology
