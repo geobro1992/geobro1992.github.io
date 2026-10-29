@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<figure class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/hellbender_profile.jpg" alt="">
+  <figcaption>Image credit: Jordy Groffen</figcaption>
+</figure> 
+
 My name is George Brooks and I am currently a research scientist at the University of Wisconsin-Madison.
 
 I am a quantitative ecologist and evolutionary biologist interested in how populations, communities, and social-ecological systems respond to environmental change. My research combines ecological theory, mathematical models, and large-scale empirical datasets to uncover the processes that govern persistence, coexistence, and resilience across biological systems.
