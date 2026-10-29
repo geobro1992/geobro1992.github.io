@@ -63,6 +63,11 @@ Further, by linking evolutionary history to contemporary population dynamics, I 
 **Brooks, G. C.**, H. C. Chandler, C. A. Haas, and H. K. Kindsvater. 2024. Ten principles from evolutionary ecology for the effective conservation of reptiles and amphibians. Journal of Herpetology 58:261-280. [link](https://doi.org/10.1670/2330062)
 
 **Brooks, G. C.** and H. K. Kindsvater. 2022. Early development drives variation in amphibian vulnerability to global change. Frontiers in Ecology and Evolution 10:813414. [link](https://doi.org/10.3389/fevo.2022.813414)
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/vtparity.jpg" alt="">
+  <figcaption>The evolution of viviparity in sharks and rays corresponds with dramatic life-history shifts. From Brooks et al. (2025)</figcaption>
+</figure> 
 <br>
 <br>
 
