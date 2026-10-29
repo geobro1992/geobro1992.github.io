@@ -42,6 +42,11 @@ More recently, I have begun applying these ideas to biological invasions in fres
 **Brooks, G. C.**, R. M. Moore, B. K. Rincon, T. A. Gorman, and C.A. Haas. 2025. Phenological differences of two sympatric ranid frogs in the southeastern United States. Ichthyology and Herpetology 113:335-344. [link](https://doi.org/10.1643/h2023035)
 
 **Brooks, G. C.**, N. M. Caruso, H. C. Chandler, and C.A. Haas. 2023. Niche partitioning and the storage effect facilitate coexistence in an amphibian community. Ecology and Evolution 13:e10629. [link](https://doi.org/10.1002/ece3.10629)
+
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/syncrony.jpg" alt="">
+  <figcaption>Phenological synchrony in an amphibian community on Eglin Air Force Base, FL. From Brooks et al. (2023)</figcaption>
+</figure> 
 <br>
 <br>
 
