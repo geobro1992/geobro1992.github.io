@@ -10,7 +10,7 @@ My research seeks to understand how ecological and evolutionary processes shape 
 
 Although my work spans diverse taxa and ecosystems, it is unified by a common goal: developing predictive theory that helps explain why some populations and communities persist while others decline. By integrating ecological theory with real-world conservation challenges, I aim to build a research program that generates both fundamental insights and practical solutions.
 
-## Theme 1: Population Persistence in a Changing World
+## Population Persistence in a Changing World
 A primary focus of my research examines how populations respond to environmental change and multiple interacting threats. This research bridges theory and application by using conservation problems as opportunities to test general ideas about persistence, resilience, and extinction.
 
 Much of my work has centered on endangered amphibians, where I have developed population models to evaluate extinction risk, forecast population trajectories, and assess restoration strategies. These studies integrate demographic uncertainty, environmental stochasticity, habitat dynamics, and management actions to inform conservation decisions.
@@ -27,7 +27,7 @@ Chandler, H. C., **G. C. Brooks**, Y. Jiao, and C. A. Haas. 2026. Predicting lon
 <br>
 <br>
 
-## Theme 2: Coexistence, Community Dynamics, and Biological Invasions
+## Coexistence, Community Dynamics, and Biological Invasions
 Species rarely exist in isolation. Instead, they persist within communities shaped by competition, environmental variability, disturbance, and dispersal. Understanding how these processes interact is one of the central challenges in ecology. 
 
 My research investigates the mechanisms that allow species to coexist despite sharing limited resources. Much of this work draws on coexistence theory, particularly the storage effect and other mechanisms that allow temporal environmental variation to promote biodiversity. I am particularly interested in how environmental change alters these mechanisms and reshapes ecological communities.
@@ -50,8 +50,8 @@ More recently, I have begun applying these ideas to biological invasions in fres
 <br>
 <br>
 
-## Theme 3: Applied Evolutionary Ecology
-The diversity of living things is the preeminent fascination of biology.
+## Applied Evolutionary Ecology
+The diversity of living things is my preeminent fascination.
 
 My research advances life-history theory to understand how tradeoffs shape biological diversity from local populations to major evolutionary transitions. This work combines comparative analyses, demographic theory, and evolutionary models to identify the constraints governing life-history evolution.
 
@@ -66,7 +66,7 @@ Further, by linking evolutionary history to contemporary population dynamics, I 
 <br>
 <br>
 
-## Theme 4: Coupled Human-Natural Systems and Ecological Resilience
+## Coupled Human-Natural Systems and Ecological Resilience
 Increasingly, my research has expanded toward understanding social-ecological systems, particularly fisheries and other managed ecosystems.
 
 Human behavior often drives ecological outcomes, while ecological change simultaneously influences human decision-making. These feedbacks can create unexpected dynamics that are difficult to predict using purely ecological or social models alone.
@@ -81,17 +81,3 @@ Castello, L., A. Abreu, **G. C. Brooks**, J. V. Campos-Silva, P. R. Cunha, A. Fl
 **Brooks, G. C.**, Z. S. Feiner, A. Trudeau, and O. P. Jensen. 2026. Gradually, then suddenly: transient dynamics of collapsing fisheries in a warming climate. Ecological Modelling 522:111829. [link](https://doi.org/10.1016/j.ecolmodel.2026.111829)
 <br>
 <br>
-
-Below are all of my main research topics to date.
-
-<nbsp>
-
-{% include base_path %}
-
-{% assign ordered_pages = site.research | sort:"order_number" %}
-
-  <div class="grid__wrapper" style="width: 100%;">
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
-</div> 
