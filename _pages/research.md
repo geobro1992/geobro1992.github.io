@@ -1,11 +1,10 @@
 ---
-title: "Research"
+title: "Research Program"
 layout: archive
 permalink: /research/
 author_profile: true
 ---
 
-# Research Program
 My research seeks to understand how ecological and evolutionary processes shape the persistence of populations, the coexistence of species, and the resilience of ecosystems under environmental change. I combine theoretical models, statistical analyses, and empirical data from a wide range of systems to identify general principles that can guide conservation and management.
 
 Although my work spans diverse taxa and ecosystems, it is unified by a common goal: developing predictive theory that helps explain why some populations and communities persist while others decline. By integrating ecological theory with real-world conservation challenges, I aim to build a research program that generates both fundamental insights and practical solutions.
