@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Philosophy"
 permalink: /teaching/
 author_profile: true
 ---
 
 <br />
 
-### Teaching Philosophy
 I define success as students who leave my classroom as independent, curious learners equipped with the confidence and skills to continue learning throughout their lives. My goal as an educator is to help students develop scientific habits of mind that prepare them for careers in research, management, education, and beyond. To achieve this goal, I prioritize active engagement and inclusive learning environments that support students from diverse backgrounds. My teaching emphasizes independence, experiential learning, and inclusive mentorship.
 
 Effective teaching also requires creating classrooms in which all students can succeed. I strive to use evidence-based practices that promote engagement through discussions, collaborative problem solving, and evidence synthesis. As a postdoctoral researcher, I led graduate workshops on contemporary pedagogy in the sciences, with an emphasis on inclusive teaching practices. These experiences strengthened my commitment to creating welcoming learning environments that recognize diverse backgrounds, learning styles, and career goals.
