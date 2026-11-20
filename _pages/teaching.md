@@ -8,11 +8,11 @@ author_profile: true
 <br />
 
 ### Teaching Philosophy
-I define success as students who leave my classroom as independent, curious learners equipped with the confidence and skills to continue learning throughout their lives. Biology is more than a collection of facts; it is a way of asking questions, evaluating evidence, and solving problems. My goal as an educator is to help students develop scientific habits of mind that prepare them for careers in research, management, education, healthcare, and beyond. To achieve this goal, I prioritize active engagement, authentic scientific experiences, and inclusive learning environments that support students from diverse backgrounds. My teaching emphasizes independence, research-based learning, and inclusive mentorship.
+I define success as students who leave my classroom as independent, curious learners equipped with the confidence and skills to continue learning throughout their lives. My goal as an educator is to help students develop scientific habits of mind that prepare them for careers in research, management, education, and beyond. To achieve this goal, I prioritize active engagement and inclusive learning environments that support students from diverse backgrounds. My teaching emphasizes independence, experiential learning, and inclusive mentorship.
 
-Effective teaching also requires creating classrooms in which all students can succeed. I strive to use evidence-based practices that promote engagement through discussion, collaborative problem solving, and inquiry-driven activities. As a postdoctoral researcher, I led graduate workshops on contemporary pedagogy in the sciences, with an emphasis on inclusive teaching practices. These experiences strengthened my commitment to creating welcoming learning environments that recognize diverse backgrounds, learning styles, and career goals.
+Effective teaching also requires creating classrooms in which all students can succeed. I strive to use evidence-based practices that promote engagement through discussions, collaborative problem solving, and evidence synthesis. As a postdoctoral researcher, I led graduate workshops on contemporary pedagogy in the sciences, with an emphasis on inclusive teaching practices. These experiences strengthened my commitment to creating welcoming learning environments that recognize diverse backgrounds, learning styles, and career goals.
 
-Ultimately, my goal is to help students become independent scientists, thoughtful citizens, and lifelong learners. Through evidence-based teaching, authentic research experiences, and supportive mentorship, I hope to foster a community in which students not only learn biology but also develop the confidence and skills needed to contribute to its future.
+Ultimately, my goal is to help students become independent scientists, thoughtful citizens, and lifelong learners. I hope to foster a community in which students not only learn about nature but also develop the confidence and skills needed to contribute to its future.
 
 # _Undergraduate Teaching_
 
@@ -57,7 +57,7 @@ Ultimately, my goal is to help students become independent scientists, thoughtfu
 <br />
 <br />
 
-# _Other Teaching Experience_
+# _Graduate Teaching_
 
 ## Workshop Coordinator, Inclusive Pedagogy
 
@@ -71,24 +71,21 @@ Ultimately, my goal is to help students become independent scientists, thoughtfu
 -Introduced students to coding best practices and the philosophy of statistical modeling\
 -Students became familiar with R, html, markdown, and GitHub
 
-## Invited Speaker
+# _Invited Speaker_
 
-_Quantitative Methods in Ecology_, Department of Integrative Biology, UW-Madison 2025\
-_Amphibian Conservation_, Center for Applied Population Biology, Lincoln Park Zoo 2025\
-_Life-History Evolution_, School of Natural Sciences, Macquarie University 2025\
-_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2025\
-_Population Dynamics_, Department of Forest and Wildlife Ecology, UW-Madison 2024\
-_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2024\
-_Evolution_, Department of Biology, The Citadel 2023\
-_Animal Behaviour_, Department of Biology, Randolph College 2023\
-_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2023\
-_Graduate Seminar_, Department of Fish and Wildlife Conservation, Virginia Tech 2022\
-_Wildlife Biology_, Department of Biology, Randolph College 2022\
-_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2022\
-_Herpetology_, Department of Fish and Wildlife Conservation, Virginia Tech 2021\
-_Graduate Seminar_, Department of Fish and Wildlife Conservation, Virginia Tech 2019\
-_Graduate Seminar_, Department of Fish and Wildlife Conservation, Virginia Tech 2017\
-_CNRE First Year Experience_, College of Natural Resources and Environment, Virginia Tech 2016
+**Climate Resilience of Fisheries**, Biology Colloquium, UW-Madison, 2026\
+**Fisheries Sustainability**, Outdoor Writers Association of America Annual Conference, 2026\
+**Invasive Species Management**, Wisconsin Lake Monitoring and Protection Network, 2026\
+**Species Status Assessments**, Department of Forest and Wildlife Ecology, UW-Madison, 2026\
+**Quantitative Methods in Ecology**, Department of Integrative Biology, UW-Madison, 2025\
+**Amphibian Conservation**, Center for Applied Population Biology, Lincoln Park Zoo, 2025\
+**Life-History Evolution**, School of Natural Sciences, Macquarie University, 2025\
+**Population Dynamics**, Department of Forest and Wildlife Ecology, UW-Madison, 2024\
+**Evolutionary Ecology**, Department of Biology, The Citadel, 2023\
+**Animal Behavior**, Department of Biology, Randolph College, 2023\
+**Herpetology**, Department of Fish and Wildlife Conservation, Virginia Tech, 2021-2025\
+**Wildlife Biology**, Department of Biology, Randolph College, 2022\
+**Graduate Seminar**, Department of Fish and Wildlife Conservation, Virginia Tech, 2019-2022
 <br />
 <br />
 
