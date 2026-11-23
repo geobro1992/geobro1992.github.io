@@ -14,9 +14,9 @@ redirect_from:
 
 My name is George Brooks and I am currently a research scientist at the University of Wisconsin-Madison.
 
-I am a quantitative ecologist and evolutionary biologist interested in how populations, communities, and social-ecological systems respond to environmental change. Across all of my research, I am motivated by a common question: how can ecological theory help us understand and predict the fate of natural systems in an uncertain future? My research combines theory, mathematical models, and large-scale empirical datasets to uncover the processes that govern persistence, coexistence, and resilience across biological systems.
+I am a quantitative ecologist and evolutionary biologist interested in how nature, from individuals to ecosystems, responds to environmental change. Across all of my research, I am motivated by a common question: how can ecological theory help us understand and predict the fate of natural systems in an uncertain future? My research combines theory, mathematical models, and large-scale empirical datasets to uncover the processes that govern resilience across biological scales.
 
-Much of my work focuses on understanding how environmental variability, species interactions, and human activities shape ecological dynamics. I have applied these ideas to topics ranging from endangered species conservation and amphibian ecology to fisheries sustainability, biological invasions, and life-history evolution. By linking fundamental theory with applied challenges, I seek to develop predictive frameworks that improve our ability to manage and conserve biodiversity in a rapidly changing world.
+Much of my work focuses on understanding how environmental variability, species interactions, and human activities shape ecological dynamics. I have applied these ideas to a range of topics including endangered species management, fisheries sustainability, biological invasions, and life-history evolution. By linking fundamental theory with applied challenges, I seek to develop predictive frameworks that improve our ability to manage and conserve biodiversity in a rapidly changing world.
 
 Explore this site to find out more!
 
